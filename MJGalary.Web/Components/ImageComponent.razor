@@ -1,0 +1,16 @@
+﻿
+<MudCard>
+    <MudCardMedia Image="@Message.Url" Height="400" />
+    <MudCardContent>
+        <MudText Typo="Typo.body2"><b>@Message.TimeStamp</b></MudText>
+        <br />
+        <MudText Typo="Typo.body1"><b>@Message.Category</b></MudText>
+        <br />
+        <MudText Typo="Typo.body2">@Message.Prompt</MudText>
+    </MudCardContent>
+</MudCard>
+
+@code {
+    [Parameter]
+    public MessageResponse Message { get; set; }
+}

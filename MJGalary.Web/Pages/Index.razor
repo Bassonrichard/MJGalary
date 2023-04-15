@@ -1,0 +1,59 @@
+﻿@page "/"
+@using MJGalary.Web.Client.Components
+@using System.Text.Json;
+
+@inject HttpClient Http;
+
+<PageTitle>Gallery</PageTitle>
+
+<MudPaper Elevation="0" Class="py-4">
+    <MudText Align="Align.Center">
+        <h1>Gallery</h1>
+    </MudText>
+</MudPaper>
+
+
+
+
+@if (loading)
+{
+    <MudProgressLinear Color="Color.Primary" Indeterminate="true" Class="my-7" />
+}
+
+<MudGrid Justify="Justify.SpaceEvenly">
+    @foreach (var message in Messages)
+	{
+		<MudItem xs="12" sm="3" md="3">
+            <ImageComponent Message="message" />
+		</MudItem>
+	}
+</MudGrid>
+
+@code{
+    private List<MessageResponse> Messages { get; set; }   
+    private bool loading { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        Messages = new List<MessageResponse>();
+        await SetMessages();
+    }
+
+    private async Task SetMessages()
+    {
+        loading = true;
+        Messages = await GetMessages();
+        loading = false;
+    }
+
+    private async Task Refresh()
+    {
+        Messages = await GetMessages();
+        StateHasChanged();
+    }
+
+    private async Task<List<MessageResponse>> GetMessages()
+    {
+        return await Http.GetFromJsonAsync<List<MessageResponse>>("./data/messages.json");
+    }
+}

@@ -2,11 +2,13 @@
 <MudCard>
     <MudCardMedia Image="@Message.Url" Height="400" />
     <MudCardContent>
+        <MudText Typo="Typo.body2"><b>Id: @Message.ImageId</b></MudText>
+        <br />
         <MudText Typo="Typo.body2"><b>@Message.TimeStamp</b></MudText>
+        <br />  
+        <MudText Typo="Typo.body1"><b>Category: @Message.Category</b></MudText>
         <br />
-        <MudText Typo="Typo.body1"><b>@Message.Category</b></MudText>
-        <br />
-        <MudText Typo="Typo.body2">@Message.Prompt</MudText>
+        <MudText Typo="Typo.body2"><b>Prompt:</b> @Message.Prompt</MudText>
     </MudCardContent>
 </MudCard>
 

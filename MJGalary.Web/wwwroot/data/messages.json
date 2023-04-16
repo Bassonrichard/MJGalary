@@ -1,5 +1,645 @@
 [
   {
+    "id": "1097239479128948756",
+    "imageId": "1246e8eb-5582-4dc6-a36a-848bfeda4fca",
+    "prompt": "a South African ancestral legend set in a psychedelic celestialpunk realm, in the style of Bryce 3D, intricate illustrations, volumetric lighting, dynamic background, preserving heritage and folklore --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097239478491422760/Paper_a_South_African_ancestral_legend_set_in_a_psychedelic_cel_1246e8eb-5582-4dc6-a36a-848bfeda4fca.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T19:17:57.548+00:00"
+  },
+  {
+    "id": "1097239453904420924",
+    "imageId": "49ebfeea-1837-4050-a65c-21b1731155dc",
+    "prompt": "a South African ancestral legend set in a psychedelic celestialpunk realm, in the style of Bryce 3D, intricate illustrations, volumetric lighting, dynamic background, preserving heritage and folklore --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097239453464006746/Paper_a_South_African_ancestral_legend_set_in_a_psychedelic_cel_49ebfeea-1837-4050-a65c-21b1731155dc.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T19:17:51.534+00:00"
+  },
+  {
+    "id": "1097239417850187886",
+    "imageId": "f0d26733-2210-40ac-9781-3341e602d413",
+    "prompt": "a South African ancestral legend set in a psychedelic celestialpunk realm, in the style of Bryce 3D, intricate illustrations, volumetric lighting, dynamic background, preserving heritage and folklore --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097239417535610940/Paper_a_South_African_ancestral_legend_set_in_a_psychedelic_cel_f0d26733-2210-40ac-9781-3341e602d413.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T19:17:42.938+00:00"
+  },
+  {
+    "id": "1097239390058709022",
+    "imageId": "8ce7cdda-3157-4960-8351-681eaaf235fd",
+    "prompt": "a South African ancestral legend set in a psychedelic celestialpunk realm, in the style of Bryce 3D, intricate illustrations, volumetric lighting, dynamic background, preserving heritage and folklore --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097239389769306122/Paper_a_South_African_ancestral_legend_set_in_a_psychedelic_cel_8ce7cdda-3157-4960-8351-681eaaf235fd.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T19:17:36.312+00:00"
+  },
+  {
+    "id": "1097238908829450332",
+    "imageId": "1ba021ad-8f53-45f1-aa3f-a2ba2af12186",
+    "prompt": "a South African culinary experience in a celestialpunk-inspired restaurant, in the style of intricate psychedelic art, volumetric lighting, dynamic background, fusion cuisine, cultural flavors --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097238908577779793/Paper_a_South_African_culinary_experience_in_a_celestialpunk-in_1ba021ad-8f53-45f1-aa3f-a2ba2af12186.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T19:15:41.578+00:00"
+  },
+  {
+    "id": "1097238884557017259",
+    "imageId": "12a1684b-67c7-45b1-91e9-7053246cfa21",
+    "prompt": "a South African culinary experience in a celestialpunk-inspired restaurant, in the style of intricate psychedelic art, volumetric lighting, dynamic background, fusion cuisine, cultural flavors --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097238884204679368/Paper_a_South_African_culinary_experience_in_a_celestialpunk-in_12a1684b-67c7-45b1-91e9-7053246cfa21.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T19:15:35.791+00:00"
+  },
+  {
+    "id": "1097238851837239296",
+    "imageId": "fec4a19f-0aa3-4c4d-89c8-5eb3a7da2aaf",
+    "prompt": "a South African culinary experience in a celestialpunk-inspired restaurant, in the style of intricate psychedelic art, volumetric lighting, dynamic background, fusion cuisine, cultural flavors --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097238851539456081/Paper_a_South_African_culinary_experience_in_a_celestialpunk-in_fec4a19f-0aa3-4c4d-89c8-5eb3a7da2aaf.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T19:15:27.99+00:00"
+  },
+  {
+    "id": "1097238821185274057",
+    "imageId": "6656943e-1f77-456c-8040-9ca4e174f214",
+    "prompt": "a South African culinary experience in a celestialpunk-inspired restaurant, in the style of intricate psychedelic art, volumetric lighting, dynamic background, fusion cuisine, cultural flavors --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097238820795207720/Paper_a_South_African_culinary_experience_in_a_celestialpunk-in_6656943e-1f77-456c-8040-9ca4e174f214.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T19:15:20.682+00:00"
+  },
+  {
+    "id": "1097238357425270824",
+    "imageId": "76d0e1f4-3c3b-4891-859f-6da93e0f82d8",
+    "prompt": "a South African marine life scene with abstract psychedelic coral reefs, in the style of Bryce 3D, celestialpunk, intricate illustrations, volumetric lighting, vibrant underwater world, mystical creatures --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097238356565442560/Paper_a_South_African_marine_life_scene_with_abstract_psychedel_76d0e1f4-3c3b-4891-859f-6da93e0f82d8.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T19:13:30.113+00:00"
+  },
+  {
+    "id": "1097238329499586591",
+    "imageId": "ad7983b8-3824-4693-8bfe-43611205acff",
+    "prompt": "a South African marine life scene with abstract psychedelic coral reefs, in the style of Bryce 3D, celestialpunk, intricate illustrations, volumetric lighting, vibrant underwater world, mystical creatures --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097238329075966032/Paper_a_South_African_marine_life_scene_with_abstract_psychedel_ad7983b8-3824-4693-8bfe-43611205acff.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T19:13:23.455+00:00"
+  },
+  {
+    "id": "1097238304983883856",
+    "imageId": "f39e8b49-43d4-4808-aa2a-adf9d105b516",
+    "prompt": "a South African marine life scene with abstract psychedelic coral reefs, in the style of Bryce 3D, celestialpunk, intricate illustrations, volumetric lighting, vibrant underwater world, mystical creatures --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097238304694489188/Paper_a_South_African_marine_life_scene_with_abstract_psychedel_f39e8b49-43d4-4808-aa2a-adf9d105b516.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T19:13:17.61+00:00"
+  },
+  {
+    "id": "1097238278954029077",
+    "imageId": "123ba73c-ec74-4ee6-ab2c-95de9eccdb6a",
+    "prompt": "a South African marine life scene with abstract psychedelic coral reefs, in the style of Bryce 3D, celestialpunk, intricate illustrations, volumetric lighting, vibrant underwater world, mystical creatures --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097238278719160482/Paper_a_South_African_marine_life_scene_with_abstract_psychedel_123ba73c-ec74-4ee6-ab2c-95de9eccdb6a.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T19:13:11.404+00:00"
+  },
+  {
+    "id": "1097237817886785706",
+    "imageId": "7ad7ec19-7b8d-4024-acf8-d785b3845aaa",
+    "prompt": "a South African artist creating a masterpiece in a futuristic Victorian studio, in the style of serene faces, darkly detailed, celestialpunk, intricate illustrations, volumetric lighting, creative genius --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097237817555431464/Paper_a_South_African_artist_creating_a_masterpiece_in_a_futuri_7ad7ec19-7b8d-4024-acf8-d785b3845aaa.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T19:11:21.477+00:00"
+  },
+  {
+    "id": "1097237790963531906",
+    "imageId": "24d307e4-cb70-40de-9679-7b0dee003200",
+    "prompt": "a South African artist creating a masterpiece in a futuristic Victorian studio, in the style of serene faces, darkly detailed, celestialpunk, intricate illustrations, volumetric lighting, creative genius --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097237790527336548/Paper_a_South_African_artist_creating_a_masterpiece_in_a_futuri_24d307e4-cb70-40de-9679-7b0dee003200.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T19:11:15.058+00:00"
+  },
+  {
+    "id": "1097237762203209839",
+    "imageId": "4ffaa5dd-1982-4f02-88f1-6a95747b5b9e",
+    "prompt": "a South African artist creating a masterpiece in a futuristic Victorian studio, in the style of serene faces, darkly detailed, celestialpunk, intricate illustrations, volumetric lighting, creative genius --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097237761917992980/Paper_a_South_African_artist_creating_a_masterpiece_in_a_futuri_4ffaa5dd-1982-4f02-88f1-6a95747b5b9e.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T19:11:08.201+00:00"
+  },
+  {
+    "id": "1097237732553662565",
+    "imageId": "e08f11b8-a013-4162-82cd-758cf2d00db6",
+    "prompt": "a South African artist creating a masterpiece in a futuristic Victorian studio, in the style of serene faces, darkly detailed, celestialpunk, intricate illustrations, volumetric lighting, creative genius --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097237732264251512/Paper_a_South_African_artist_creating_a_masterpiece_in_a_futuri_e08f11b8-a013-4162-82cd-758cf2d00db6.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T19:11:01.132+00:00"
+  },
+  {
+    "id": "1097237266352582747",
+    "imageId": "a7bec904-2419-4083-b86a-8b3a44963535",
+    "prompt": "a South African desert transformed into a psychedelic oasis, in the style of intricate illustrations, celestialpunk, volumetric lighting, dynamic background, vibrant flora and fauna, ethereal beauty --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097237266256109628/Paper_a_South_African_desert_transformed_into_a_psychedelic_oas_a7bec904-2419-4083-b86a-8b3a44963535.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T19:09:09.981+00:00"
+  },
+  {
+    "id": "1097237237709668412",
+    "imageId": "2d25d717-03d2-4775-8e81-c1ac81159ec5",
+    "prompt": "a South African desert transformed into a psychedelic oasis, in the style of intricate illustrations, celestialpunk, volumetric lighting, dynamic background, vibrant flora and fauna, ethereal beauty --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097237237395107840/Paper_a_South_African_desert_transformed_into_a_psychedelic_oas_2d25d717-03d2-4775-8e81-c1ac81159ec5.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T19:09:03.152+00:00"
+  },
+  {
+    "id": "1097237205119934514",
+    "imageId": "1d32788a-d204-497d-b029-710f2eaa8727",
+    "prompt": "a South African desert transformed into a psychedelic oasis, in the style of intricate illustrations, celestialpunk, volumetric lighting, dynamic background, vibrant flora and fauna, ethereal beauty --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097237204847312986/Paper_a_South_African_desert_transformed_into_a_psychedelic_oas_1d32788a-d204-497d-b029-710f2eaa8727.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T19:08:55.382+00:00"
+  },
+  {
+    "id": "1097237177106174032",
+    "imageId": "2ae7c1b7-bcfe-4b42-85df-3b2e7d702c66",
+    "prompt": "a South African desert transformed into a psychedelic oasis, in the style of intricate illustrations, celestialpunk, volumetric lighting, dynamic background, vibrant flora and fauna, ethereal beauty --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097237176867106906/Paper_a_South_African_desert_transformed_into_a_psychedelic_oas_2ae7c1b7-bcfe-4b42-85df-3b2e7d702c66.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T19:08:48.703+00:00"
+  },
+  {
+    "id": "1097236718735863850",
+    "imageId": "13a4f396-5215-4e7a-b36c-91170b5da4f5",
+    "prompt": "a historical South African site reimagined in a psychedelic setting, in the style of Bryce 3D, serene faces, darkly detailed, celestialpunk, futuristic Victorian, volumetric lighting, time-traveling heritage --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097236718379335781/Paper_a_historical_South_African_site_reimagined_in_a_psychedel_13a4f396-5215-4e7a-b36c-91170b5da4f5.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T19:06:59.419+00:00"
+  },
+  {
+    "id": "1097236691808436257",
+    "imageId": "6a69bf5e-1260-45ef-b6a1-d73b06a02c3d",
+    "prompt": "a historical South African site reimagined in a psychedelic setting, in the style of Bryce 3D, serene faces, darkly detailed, celestialpunk, futuristic Victorian, volumetric lighting, time-traveling heritage --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097236691636453597/Paper_a_historical_South_African_site_reimagined_in_a_psychedel_6a69bf5e-1260-45ef-b6a1-d73b06a02c3d.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T19:06:52.999+00:00"
+  },
+  {
+    "id": "1097236659554242651",
+    "imageId": "3ed9f349-afc0-44c3-8471-56c7800e7585",
+    "prompt": "a historical South African site reimagined in a psychedelic setting, in the style of Bryce 3D, serene faces, darkly detailed, celestialpunk, futuristic Victorian, volumetric lighting, time-traveling heritage --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097236659206107216/Paper_a_historical_South_African_site_reimagined_in_a_psychedel_3ed9f349-afc0-44c3-8471-56c7800e7585.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T19:06:45.309+00:00"
+  },
+  {
+    "id": "1097236631355916348",
+    "imageId": "9e1135c9-d311-4c2c-b399-b4fe09d37f6e",
+    "prompt": "a historical South African site reimagined in a psychedelic setting, in the style of Bryce 3D, serene faces, darkly detailed, celestialpunk, futuristic Victorian, volumetric lighting, time-traveling heritage --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097236630974251098/Paper_a_historical_South_African_site_reimagined_in_a_psychedel_9e1135c9-d311-4c2c-b399-b4fe09d37f6e.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T19:06:38.586+00:00"
+  },
+  {
+    "id": "1097236194691137576",
+    "imageId": "9abc14f7-110a-4957-9f2d-1c3e4de36eee",
+    "prompt": "a South African cultural celebration set in a futuristic space, in the style of intricate psychedelic landscapes, celestialpunk, volumetric lighting, dynamic background, traditional dance, and music --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097236194124902581/Paper_a_South_African_cultural_celebration_set_in_a_futuristic__9abc14f7-110a-4957-9f2d-1c3e4de36eee.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T19:04:54.477+00:00"
+  },
+  {
+    "id": "1097236166966788246",
+    "imageId": "83d08935-0f11-4d44-afa1-7d0653ddf56a",
+    "prompt": "a South African cultural celebration set in a futuristic space, in the style of intricate psychedelic landscapes, celestialpunk, volumetric lighting, dynamic background, traditional dance, and music --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097236166593478830/Paper_a_South_African_cultural_celebration_set_in_a_futuristic__83d08935-0f11-4d44-afa1-7d0653ddf56a.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T19:04:47.867+00:00"
+  },
+  {
+    "id": "1097236133802426478",
+    "imageId": "6a95f725-a579-4e50-bb68-35303028f546",
+    "prompt": "a South African cultural celebration set in a futuristic space, in the style of intricate psychedelic landscapes, celestialpunk, volumetric lighting, dynamic background, traditional dance, and music --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097236133525606572/Paper_a_South_African_cultural_celebration_set_in_a_futuristic__6a95f725-a579-4e50-bb68-35303028f546.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T19:04:39.96+00:00"
+  },
+  {
+    "id": "1097236109123137687",
+    "imageId": "94113712-32ee-40ed-bc58-66167f4223cc",
+    "prompt": "a South African cultural celebration set in a futuristic space, in the style of intricate psychedelic landscapes, celestialpunk, volumetric lighting, dynamic background, traditional dance, and music --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097236108833738832/Paper_a_South_African_cultural_celebration_set_in_a_futuristic__94113712-32ee-40ed-bc58-66167f4223cc.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T19:04:34.076+00:00"
+  },
+  {
+    "id": "1097235627700928575",
+    "imageId": "f9d19de7-fa7d-49a9-9072-d715daca50ad",
+    "prompt": "a South African mythical creature roaming a psychedelic forest, in the style of Bryce 3D, intricate illustrations, celestialpunk, futuristic Victorian, volumetric lighting, vibrant colors, otherworldly beings --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097235627449266400/Paper_a_South_African_mythical_creature_roaming_a_psychedelic_f_f9d19de7-fa7d-49a9-9072-d715daca50ad.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T19:02:39.296+00:00"
+  },
+  {
+    "id": "1097235596730171462",
+    "imageId": "4e85c37a-316c-459e-9312-4599e9f2bef5",
+    "prompt": "a South African mythical creature roaming a psychedelic forest, in the style of Bryce 3D, intricate illustrations, celestialpunk, futuristic Victorian, volumetric lighting, vibrant colors, otherworldly beings --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097235596361093120/Paper_a_South_African_mythical_creature_roaming_a_psychedelic_f_4e85c37a-316c-459e-9312-4599e9f2bef5.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T19:02:31.912+00:00"
+  },
+  {
+    "id": "1097235567713976350",
+    "imageId": "c8f4c7b9-ecaf-4207-a2be-8fa987d2284d",
+    "prompt": "a South African mythical creature roaming a psychedelic forest, in the style of Bryce 3D, intricate illustrations, celestialpunk, futuristic Victorian, volumetric lighting, vibrant colors, otherworldly beings --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097235567101616138/Paper_a_South_African_mythical_creature_roaming_a_psychedelic_f_c8f4c7b9-ecaf-4207-a2be-8fa987d2284d.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T19:02:24.994+00:00"
+  },
+  {
+    "id": "1097235536986509333",
+    "imageId": "6fb5aba7-6881-41b1-84ba-cbe0ad27d4a0",
+    "prompt": "a South African mythical creature roaming a psychedelic forest, in the style of Bryce 3D, intricate illustrations, celestialpunk, futuristic Victorian, volumetric lighting, vibrant colors, otherworldly beings --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097235536931991614/Paper_a_South_African_mythical_creature_roaming_a_psychedelic_f_6fb5aba7-6881-41b1-84ba-cbe0ad27d4a0.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T19:02:17.668+00:00"
+  },
+  {
+    "id": "1097235049423851530",
+    "imageId": "b86ec14f-a6fc-451b-889f-99ba767dab01",
+    "prompt": "a gathering of South African people in a futuristic city, in the style of serene faces, darkly detailed, intricate illustrations, celestialpunk, volumetric lighting, dynamic background, blending tradition and technology --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097235049029574777/Paper_a_gathering_of_South_African_people_in_a_futuristic_city__b86ec14f-a6fc-451b-889f-99ba767dab01.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T19:00:21.424+00:00"
+  },
+  {
+    "id": "1097235020319559860",
+    "imageId": "dff9935d-7300-4270-bd4e-5d823995b0bb",
+    "prompt": "a gathering of South African people in a futuristic city, in the style of serene faces, darkly detailed, intricate illustrations, celestialpunk, volumetric lighting, dynamic background, blending tradition and technology --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097235018964811776/Paper_a_gathering_of_South_African_people_in_a_futuristic_city__dff9935d-7300-4270-bd4e-5d823995b0bb.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T19:00:14.485+00:00"
+  },
+  {
+    "id": "1097234988040208385",
+    "imageId": "a277ca96-a265-4c78-85c8-b083971d3a7c",
+    "prompt": "a gathering of South African people in a futuristic city, in the style of serene faces, darkly detailed, intricate illustrations, celestialpunk, volumetric lighting, dynamic background, blending tradition and technology --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097234987910189208/Paper_a_gathering_of_South_African_people_in_a_futuristic_city__a277ca96-a265-4c78-85c8-b083971d3a7c.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T19:00:06.789+00:00"
+  },
+  {
+    "id": "1097234962018750617",
+    "imageId": "1296e2c2-9460-4bed-b8b4-cd28bf96beb5",
+    "prompt": "a gathering of South African people in a futuristic city, in the style of serene faces, darkly detailed, intricate illustrations, celestialpunk, volumetric lighting, dynamic background, blending tradition and technology --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097234961783857404/Paper_a_gathering_of_South_African_people_in_a_futuristic_city__1296e2c2-9460-4bed-b8b4-cd28bf96beb5.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T19:00:00.585+00:00"
+  },
+  {
+    "id": "1097234489341652992",
+    "imageId": "cbe60c09-3a62-47cd-8fcb-a47dfa6a9985",
+    "prompt": "a surreal South African landscape with floating mountains, in the style of intricate psychedelic art, Bryce 3D, vibrant colors, celestialpunk, futuristic Victorian, volumetric lighting, dreamlike scenery --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097234488792186880/Paper_a_surreal_South_African_landscape_with_floating_mountains_cbe60c09-3a62-47cd-8fcb-a47dfa6a9985.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T18:58:07.89+00:00"
+  },
+  {
+    "id": "1097234459172024473",
+    "imageId": "081170d1-e0b0-48a8-8568-fafd4c577f1c",
+    "prompt": "a surreal South African landscape with floating mountains, in the style of intricate psychedelic art, Bryce 3D, vibrant colors, celestialpunk, futuristic Victorian, volumetric lighting, dreamlike scenery --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097234458769375282/Paper_a_surreal_South_African_landscape_with_floating_mountains_081170d1-e0b0-48a8-8568-fafd4c577f1c.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T18:58:00.697+00:00"
+  },
+  {
+    "id": "1097234433054089327",
+    "imageId": "4cc6be51-2c25-477f-ba43-c146e2fd01a6",
+    "prompt": "a surreal South African landscape with floating mountains, in the style of intricate psychedelic art, Bryce 3D, vibrant colors, celestialpunk, futuristic Victorian, volumetric lighting, dreamlike scenery --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097234432785666159/Paper_a_surreal_South_African_landscape_with_floating_mountains_4cc6be51-2c25-477f-ba43-c146e2fd01a6.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T18:57:54.47+00:00"
+  },
+  {
+    "id": "1097234407951175730",
+    "imageId": "0b47d26f-b368-4af0-8f3e-3dd7427abaeb",
+    "prompt": "a surreal South African landscape with floating mountains, in the style of intricate psychedelic art, Bryce 3D, vibrant colors, celestialpunk, futuristic Victorian, volumetric lighting, dreamlike scenery --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097234406994870292/Paper_a_surreal_South_African_landscape_with_floating_mountains_0b47d26f-b368-4af0-8f3e-3dd7427abaeb.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T18:57:48.485+00:00"
+  },
+  {
+    "id": "1097225833065746442",
+    "imageId": "ee09c8d9-0766-44b6-a6cc-7bb73aa5b228",
+    "prompt": "a vector art design featuring stylized South African wildlife, such as elephants and rhinos, composed of geometric shapes, celebrating the country's rich biodiversity and conservation efforts --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097225832793120818/Paper_a_vector_art_design_featuring_stylized_South_African_wild_ee09c8d9-0766-44b6-a6cc-7bb73aa5b228.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T18:23:44.073+00:00"
+  },
+  {
+    "id": "1097225798227853432",
+    "imageId": "022dacbb-c41b-4c43-9f5a-4224743a051a",
+    "prompt": "a vector art design featuring stylized South African wildlife, such as elephants and rhinos, composed of geometric shapes, celebrating the country's rich biodiversity and conservation efforts --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097225797879734272/Paper_a_vector_art_design_featuring_stylized_South_African_wild_022dacbb-c41b-4c43-9f5a-4224743a051a.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T18:23:35.767+00:00"
+  },
+  {
+    "id": "1097225758499422208",
+    "imageId": "39db7b45-d600-439a-ba30-e051d510dae6",
+    "prompt": "a vector art design featuring stylized South African wildlife, such as elephants and rhinos, composed of geometric shapes, celebrating the country's rich biodiversity and conservation efforts --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097225758256144424/Paper_a_vector_art_design_featuring_stylized_South_African_wild_39db7b45-d600-439a-ba30-e051d510dae6.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T18:23:26.295+00:00"
+  },
+  {
+    "id": "1097225725368606761",
+    "imageId": "1687b7f6-162b-41ac-849b-dc6835b025c4",
+    "prompt": "a vector art design featuring stylized South African wildlife, such as elephants and rhinos, composed of geometric shapes, celebrating the country's rich biodiversity and conservation efforts --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097225725100167168/Paper_a_vector_art_design_featuring_stylized_South_African_wild_1687b7f6-162b-41ac-849b-dc6835b025c4.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T18:23:18.396+00:00"
+  },
+  {
+    "id": "1097225379741192323",
+    "imageId": "e3fd525e-2976-4d35-afe9-bb0f8e1ec395",
+    "prompt": "a vector art logo representing the South African concept of 'Rainbow Nation,' with interconnected geometric shapes in a spectrum of colors, symbolizing unity and inclusiveness --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097225379535650837/Paper_a_vector_art_logo_representing_the_South_African_concept__e3fd525e-2976-4d35-afe9-bb0f8e1ec395.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T18:21:55.992+00:00"
+  },
+  {
+    "id": "1097225353346433075",
+    "imageId": "1a276378-739c-467f-94cc-f4321ae95d17",
+    "prompt": "a vector art logo representing the South African concept of 'Rainbow Nation,' with interconnected geometric shapes in a spectrum of colors, symbolizing unity and inclusiveness --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097225353124130877/Paper_a_vector_art_logo_representing_the_South_African_concept__1a276378-739c-467f-94cc-f4321ae95d17.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T18:21:49.699+00:00"
+  },
+  {
+    "id": "1097225325383004240",
+    "imageId": "f3083a30-947e-4b41-b9b6-d906aadeec04",
+    "prompt": "a vector art logo representing the South African concept of 'Rainbow Nation,' with interconnected geometric shapes in a spectrum of colors, symbolizing unity and inclusiveness --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097225325177491497/Paper_a_vector_art_logo_representing_the_South_African_concept__f3083a30-947e-4b41-b9b6-d906aadeec04.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T18:21:43.032+00:00"
+  },
+  {
+    "id": "1097225299365728367",
+    "imageId": "e7e8b2e6-447b-4271-b327-25cf552b6212",
+    "prompt": "a vector art logo representing the South African concept of 'Rainbow Nation,' with interconnected geometric shapes in a spectrum of colors, symbolizing unity and inclusiveness --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097225299076329563/Paper_a_vector_art_logo_representing_the_South_African_concept__e7e8b2e6-447b-4271-b327-25cf552b6212.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T18:21:36.829+00:00"
+  },
+  {
+    "id": "1097224961581666385",
+    "imageId": "45e0fc4c-2916-414e-90f1-5fa88ed2f861",
+    "prompt": "a vector art design inspired by the South African national flower, the Protea, showcasing geometric petals, bold colors, and a symbol of strength and beauty in diversity --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097224961418084432/Paper_a_vector_art_design_inspired_by_the_South_African_nationa_45e0fc4c-2916-414e-90f1-5fa88ed2f861.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T18:20:16.295+00:00"
+  },
+  {
+    "id": "1097224930875150356",
+    "imageId": "a780d0b9-59d9-4a88-9c81-bb96cd31f47a",
+    "prompt": "a vector art design inspired by the South African national flower, the Protea, showcasing geometric petals, bold colors, and a symbol of strength and beauty in diversity --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097224930547998791/Paper_a_vector_art_design_inspired_by_the_South_African_nationa_a780d0b9-59d9-4a88-9c81-bb96cd31f47a.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T18:20:08.974+00:00"
+  },
+  {
+    "id": "1097224902488113323",
+    "imageId": "d5c23ec1-484e-430a-a6b9-9f74eb0be144",
+    "prompt": "a vector art design inspired by the South African national flower, the Protea, showcasing geometric petals, bold colors, and a symbol of strength and beauty in diversity --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097224902274195537/Paper_a_vector_art_design_inspired_by_the_South_African_nationa_d5c23ec1-484e-430a-a6b9-9f74eb0be144.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T18:20:02.206+00:00"
+  },
+  {
+    "id": "1097224872855355473",
+    "imageId": "c021aef1-f072-459a-8c04-f9059793423a",
+    "prompt": "a vector art design inspired by the South African national flower, the Protea, showcasing geometric petals, bold colors, and a symbol of strength and beauty in diversity --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097224872897302568/Paper_a_vector_art_design_inspired_by_the_South_African_nationa_c021aef1-f072-459a-8c04-f9059793423a.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T18:19:55.141+00:00"
+  },
+  {
+    "id": "1097224532550492314",
+    "imageId": "c39ae6f8-9b24-4d8e-b973-1a74e5908bdd",
+    "prompt": "a vector art logo featuring the geometric outlines of iconic South African landmarks, such as Robben Island and the Cradle of Humankind, representing history and heritage --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097224532370141214/Paper_a_vector_art_logo_featuring_the_geometric_outlines_of_ico_c39ae6f8-9b24-4d8e-b973-1a74e5908bdd.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T18:18:34.006+00:00"
+  },
+  {
+    "id": "1097224508118683859",
+    "imageId": "0aad0cd8-0d68-44e3-af5c-ba3ddb90d2af",
+    "prompt": "a vector art logo featuring the geometric outlines of iconic South African landmarks, such as Robben Island and the Cradle of Humankind, representing history and heritage --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097224507854434355/Paper_a_vector_art_logo_featuring_the_geometric_outlines_of_ico_0aad0cd8-0d68-44e3-af5c-ba3ddb90d2af.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T18:18:28.181+00:00"
+  },
+  {
+    "id": "1097224471192010792",
+    "imageId": "a7071572-0a2d-4a51-bcdc-71ad7eea925b",
+    "prompt": "a vector art logo featuring the geometric outlines of iconic South African landmarks, such as Robben Island and the Cradle of Humankind, representing history and heritage --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097224470906810378/Paper_a_vector_art_logo_featuring_the_geometric_outlines_of_ico_a7071572-0a2d-4a51-bcdc-71ad7eea925b.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T18:18:19.377+00:00"
+  },
+  {
+    "id": "1097224447229964298",
+    "imageId": "4e03a840-194a-42bc-9af2-b2ca50c7f3ff",
+    "prompt": "a vector art logo featuring the geometric outlines of iconic South African landmarks, such as Robben Island and the Cradle of Humankind, representing history and heritage --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097224446982508645/Paper_a_vector_art_logo_featuring_the_geometric_outlines_of_ico_4e03a840-194a-42bc-9af2-b2ca50c7f3ff.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T18:18:13.664+00:00"
+  },
+  {
+    "id": "1097224115569578045",
+    "imageId": "0b4c6990-906b-4382-83d4-903b51b273d7",
+    "prompt": "a vector art design celebrating South African sports, incorporating geometric shapes to represent a rugby ball, soccer ball, and cricket bat, showcasing national pride and teamwork --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097224115275964496/Paper_a_vector_art_design_celebrating_South_African_sports_inco_0b4c6990-906b-4382-83d4-903b51b273d7.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T18:16:54.59+00:00"
+  },
+  {
+    "id": "1097224091540410398",
+    "imageId": "a4e35b26-e1cc-4039-b791-02a94c206241",
+    "prompt": "a vector art design celebrating South African sports, incorporating geometric shapes to represent a rugby ball, soccer ball, and cricket bat, showcasing national pride and teamwork --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097224091292942426/Paper_a_vector_art_design_celebrating_South_African_sports_inco_a4e35b26-e1cc-4039-b791-02a94c206241.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T18:16:48.861+00:00"
+  },
+  {
+    "id": "1097224068337508422",
+    "imageId": "f42de91f-bc8b-4460-885e-736a7150daae",
+    "prompt": "a vector art design celebrating South African sports, incorporating geometric shapes to represent a rugby ball, soccer ball, and cricket bat, showcasing national pride and teamwork --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097224068111011940/Paper_a_vector_art_design_celebrating_South_African_sports_inco_f42de91f-bc8b-4460-885e-736a7150daae.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T18:16:43.329+00:00"
+  },
+  {
+    "id": "1097224036116877392",
+    "imageId": "69a5eeff-bf63-4871-94e6-477ae540ff60",
+    "prompt": "a vector art design celebrating South African sports, incorporating geometric shapes to represent a rugby ball, soccer ball, and cricket bat, showcasing national pride and teamwork --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097224035869392936/Paper_a_vector_art_design_celebrating_South_African_sports_inco_69a5eeff-bf63-4871-94e6-477ae540ff60.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T18:16:35.647+00:00"
+  },
+  {
+    "id": "1097223682839040010",
+    "imageId": "9aa2cc66-882f-4e44-a6d1-820ac0d33ab3",
+    "prompt": "a vector art logo inspired by the South African national animal, the Springbok, utilizing geometric shapes, stylized curves, and dynamic movement, symbolizing grace and resilience --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097223682486706386/Paper_a_vector_art_logo_inspired_by_the_South_African_national__9aa2cc66-882f-4e44-a6d1-820ac0d33ab3.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T18:15:11.419+00:00"
+  },
+  {
+    "id": "1097223653923508314",
+    "imageId": "8013ffb9-0f58-4b3f-a6fb-0009506cbd28",
+    "prompt": "a vector art logo inspired by the South African national animal, the Springbok, utilizing geometric shapes, stylized curves, and dynamic movement, symbolizing grace and resilience --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097223653625696316/Paper_a_vector_art_logo_inspired_by_the_South_African_national__8013ffb9-0f58-4b3f-a6fb-0009506cbd28.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T18:15:04.525+00:00"
+  },
+  {
+    "id": "1097223628724129812",
+    "imageId": "14f5c722-3811-439f-8726-4c2ac4638c97",
+    "prompt": "a vector art logo inspired by the South African national animal, the Springbok, utilizing geometric shapes, stylized curves, and dynamic movement, symbolizing grace and resilience --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097223628447297556/Paper_a_vector_art_logo_inspired_by_the_South_African_national__14f5c722-3811-439f-8726-4c2ac4638c97.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T18:14:58.517+00:00"
+  },
+  {
+    "id": "1097223601444372561",
+    "imageId": "137771e8-607b-4795-b638-485199395f77",
+    "prompt": "a vector art logo inspired by the South African national animal, the Springbok, utilizing geometric shapes, stylized curves, and dynamic movement, symbolizing grace and resilience --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097223601230467122/Paper_a_vector_art_logo_inspired_by_the_South_African_national__137771e8-607b-4795-b638-485199395f77.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T18:14:52.013+00:00"
+  },
+  {
+    "id": "1097223251287081030",
+    "imageId": "1f3f1f76-b4d0-4f1c-924c-60239afcdf6f",
+    "prompt": "a vector art design representing South African multiculturalism, featuring abstract geometric human figures in different colors, unity in diversity, and shared values --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097223251060592640/Paper_a_vector_art_design_representing_South_African_multicultu_1f3f1f76-b4d0-4f1c-924c-60239afcdf6f.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T18:13:28.529+00:00"
+  },
+  {
+    "id": "1097223224770711745",
+    "imageId": "50a6e30b-4436-48f3-b442-913656e03a00",
+    "prompt": "a vector art design representing South African multiculturalism, featuring abstract geometric human figures in different colors, unity in diversity, and shared values --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097223224657448981/Paper_a_vector_art_design_representing_South_African_multicultu_50a6e30b-4436-48f3-b442-913656e03a00.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T18:13:22.207+00:00"
+  },
+  {
+    "id": "1097223199202218126",
+    "imageId": "3e891c2f-f5e8-40ef-8662-4dd1892edc63",
+    "prompt": "a vector art design representing South African multiculturalism, featuring abstract geometric human figures in different colors, unity in diversity, and shared values --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097223198866682057/Paper_a_vector_art_design_representing_South_African_multicultu_3e891c2f-f5e8-40ef-8662-4dd1892edc63.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T18:13:16.111+00:00"
+  },
+  {
+    "id": "1097223174321614999",
+    "imageId": "d6df8857-6a00-4855-b80f-66f3b7deea2e",
+    "prompt": "a vector art design representing South African multiculturalism, featuring abstract geometric human figures in different colors, unity in diversity, and shared values --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097223174078349433/Paper_a_vector_art_design_representing_South_African_multicultu_d6df8857-6a00-4855-b80f-66f3b7deea2e.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T18:13:10.179+00:00"
+  },
+  {
+    "id": "1097222831336595587",
+    "imageId": "1fb56369-785c-4cc7-98ed-af33e6019d98",
+    "prompt": "a vector art logo symbolizing South African natural beauty, with geometric representations of Table Mountain, rolling hills, and vibrant flora, showcasing diverse landscapes --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097222831047200848/Paper_a_vector_art_logo_symbolizing_South_African_natural_beaut_1fb56369-785c-4cc7-98ed-af33e6019d98.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T18:11:48.405+00:00"
+  },
+  {
+    "id": "1097222796020547706",
+    "imageId": "731f6d4b-c5bb-4716-b856-5ed07feb72a6",
+    "prompt": "a vector art logo symbolizing South African natural beauty, with geometric representations of Table Mountain, rolling hills, and vibrant flora, showcasing diverse landscapes --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097222796163158116/Paper_a_vector_art_logo_symbolizing_South_African_natural_beaut_731f6d4b-c5bb-4716-b856-5ed07feb72a6.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T18:11:39.985+00:00"
+  },
+  {
+    "id": "1097222759379116042",
+    "imageId": "43184844-58ab-4ba9-bfe1-7061dfc307a1",
+    "prompt": "a vector art logo symbolizing South African natural beauty, with geometric representations of Table Mountain, rolling hills, and vibrant flora, showcasing diverse landscapes --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097222759098093618/Paper_a_vector_art_logo_symbolizing_South_African_natural_beaut_43184844-58ab-4ba9-bfe1-7061dfc307a1.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T18:11:31.249+00:00"
+  },
+  {
+    "id": "1097222734418821192",
+    "imageId": "e058e483-e59d-4965-a9d4-da8d25852206",
+    "prompt": "a vector art logo symbolizing South African natural beauty, with geometric representations of Table Mountain, rolling hills, and vibrant flora, showcasing diverse landscapes --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097222734158778478/Paper_a_vector_art_logo_symbolizing_South_African_natural_beaut_e058e483-e59d-4965-a9d4-da8d25852206.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T18:11:25.298+00:00"
+  },
+  {
+    "id": "1097222370957209740",
+    "imageId": "74e7df0c-3260-4cdb-a0da-3ca4ba4dee06",
+    "prompt": "a vector art design inspired by South African Ndebele patterns, incorporating bold geometric shapes, vibrant colors, cultural identity, and artistic heritage --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097222370676187207/Paper_a_vector_art_design_inspired_by_South_African_Ndebele_pat_74e7df0c-3260-4cdb-a0da-3ca4ba4dee06.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T18:09:58.642+00:00"
+  },
+  {
+    "id": "1097222344268841062",
+    "imageId": "18cb365f-00b7-4ea0-a292-bda96128101a",
+    "prompt": "a vector art design inspired by South African Ndebele patterns, incorporating bold geometric shapes, vibrant colors, cultural identity, and artistic heritage --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097222344281432224/Paper_a_vector_art_design_inspired_by_South_African_Ndebele_pat_18cb365f-00b7-4ea0-a292-bda96128101a.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T18:09:52.279+00:00"
+  },
+  {
+    "id": "1097222315982454854",
+    "imageId": "7d9a47f5-91f3-4458-854a-1837e18a4806",
+    "prompt": "a vector art design inspired by South African Ndebele patterns, incorporating bold geometric shapes, vibrant colors, cultural identity, and artistic heritage --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097222315743395961/Paper_a_vector_art_design_inspired_by_South_African_Ndebele_pat_7d9a47f5-91f3-4458-854a-1837e18a4806.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T18:09:45.535+00:00"
+  },
+  {
+    "id": "1097222289797423165",
+    "imageId": "76053088-4106-4c70-9ca6-3830b7230a05",
+    "prompt": "a vector art design inspired by South African Ndebele patterns, incorporating bold geometric shapes, vibrant colors, cultural identity, and artistic heritage --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097222289520611348/Paper_a_vector_art_design_inspired_by_South_African_Ndebele_pat_76053088-4106-4c70-9ca6-3830b7230a05.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T18:09:39.292+00:00"
+  },
+  {
+    "id": "1097221933482918018",
+    "imageId": "09666b5f-8ab4-4552-b9a6-086b0bcacad4",
+    "prompt": "a vector art logo representing Ubuntu, the South African philosophy of humanity, featuring interconnected geometric shapes, harmonious color palette, community, and unity --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097221933197709442/Paper_a_vector_art_logo_representing_Ubuntu_the_South_African_p_09666b5f-8ab4-4552-b9a6-086b0bcacad4.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T18:08:14.34+00:00"
+  },
+  {
+    "id": "1097221865384190022",
+    "imageId": "f6b0830f-9a05-44c3-a74b-ff6c5b4512f9",
+    "prompt": "a vector art logo representing Ubuntu, the South African philosophy of humanity, featuring interconnected geometric shapes, harmonious color palette, community, and unity --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097221865115758713/Paper_a_vector_art_logo_representing_Ubuntu_the_South_African_p_f6b0830f-9a05-44c3-a74b-ff6c5b4512f9.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T18:07:58.104+00:00"
+  },
+  {
+    "id": "1097221840012836925",
+    "imageId": "17ec9c5a-5184-47ab-9212-37d336f29a37",
+    "prompt": "a vector art logo representing Ubuntu, the South African philosophy of humanity, featuring interconnected geometric shapes, harmonious color palette, community, and unity --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097221836674191390/Paper_a_vector_art_logo_representing_Ubuntu_the_South_African_p_17ec9c5a-5184-47ab-9212-37d336f29a37.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T18:07:52.055+00:00"
+  },
+  {
+    "id": "1097221798816387172",
+    "imageId": "fcf249b6-11a9-4d4e-8f6a-c6d996693fe2",
+    "prompt": "a vector art logo representing Ubuntu, the South African philosophy of humanity, featuring interconnected geometric shapes, harmonious color palette, community, and unity --v 5 --s 250",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097221798564737044/Paper_a_vector_art_logo_representing_Ubuntu_the_South_African_p_fcf249b6-11a9-4d4e-8f6a-c6d996693fe2.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T18:07:42.233+00:00"
+  },
+  {
     "id": "1097176261551460384",
     "imageId": "bc69efd2-0db9-468f-847f-941574e2ff7f",
     "prompt": "a South African heritage site in a lush valley, in the style of captivating pencil sketch, vivid landscape colors, architectural marvel, cultural significance, historical preservation --v 5",

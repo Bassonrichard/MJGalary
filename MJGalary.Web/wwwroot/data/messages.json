@@ -1,5 +1,461 @@
 [
   {
+    "id": "1097176261551460384",
+    "imageId": "bc69efd2-0db9-468f-847f-941574e2ff7f",
+    "prompt": "a South African heritage site in a lush valley, in the style of captivating pencil sketch, vivid landscape colors, architectural marvel, cultural significance, historical preservation --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097176261064937613/Paper_a_South_African_heritage_site_in_a_lush_valley_in_the_sty_bc69efd2-0db9-468f-847f-941574e2ff7f.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T15:06:45.303+00:00"
+  },
+  {
+    "id": "1097176238570881054",
+    "imageId": "bfe791a7-760c-4fa1-8989-7ff7ba5954f9",
+    "prompt": "a South African heritage site in a lush valley, in the style of captivating pencil sketch, vivid landscape colors, architectural marvel, cultural significance, historical preservation --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097176238126268506/Paper_a_South_African_heritage_site_in_a_lush_valley_in_the_sty_bfe791a7-760c-4fa1-8989-7ff7ba5954f9.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T15:06:39.824+00:00"
+  },
+  {
+    "id": "1097176210926219324",
+    "imageId": "5452b660-ad0b-4674-b062-b7e22ffc6952",
+    "prompt": "a South African heritage site in a lush valley, in the style of captivating pencil sketch, vivid landscape colors, architectural marvel, cultural significance, historical preservation --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097176210519367770/Paper_a_South_African_heritage_site_in_a_lush_valley_in_the_sty_5452b660-ad0b-4674-b062-b7e22ffc6952.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T15:06:33.233+00:00"
+  },
+  {
+    "id": "1097176186775425086",
+    "imageId": "c0b92155-d984-49a0-9d3e-af044fd20f80",
+    "prompt": "a South African heritage site in a lush valley, in the style of captivating pencil sketch, vivid landscape colors, architectural marvel, cultural significance, historical preservation --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097176186532151377/Paper_a_South_African_heritage_site_in_a_lush_valley_in_the_sty_c0b92155-d984-49a0-9d3e-af044fd20f80.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T15:06:27.475+00:00"
+  },
+  {
+    "id": "1097175832386097273",
+    "imageId": "c50d58cb-fbf0-470d-9720-45746ddad849",
+    "prompt": "a traditional South African pottery workshop, in the style of immersive pencil sketch, vibrant clay colors, skilled craftsmanship, creative process, cultural artistry --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097175832063119570/Paper_a_traditional_South_African_pottery_workshop_in_the_style_c50d58cb-fbf0-470d-9720-45746ddad849.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T15:05:02.982+00:00"
+  },
+  {
+    "id": "1097175800127692812",
+    "imageId": "43efa357-9733-4ea2-a61a-1f505cf97280",
+    "prompt": "a traditional South African pottery workshop, in the style of immersive pencil sketch, vibrant clay colors, skilled craftsmanship, creative process, cultural artistry --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097175800169631865/Paper_a_traditional_South_African_pottery_workshop_in_the_style_43efa357-9733-4ea2-a61a-1f505cf97280.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T15:04:55.291+00:00"
+  },
+  {
+    "id": "1097175774143971358",
+    "imageId": "5dfbea95-cca9-4e96-b776-e2461be7a852",
+    "prompt": "a traditional South African pottery workshop, in the style of immersive pencil sketch, vibrant clay colors, skilled craftsmanship, creative process, cultural artistry --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097175773749719100/Paper_a_traditional_South_African_pottery_workshop_in_the_style_5dfbea95-cca9-4e96-b776-e2461be7a852.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T15:04:49.096+00:00"
+  },
+  {
+    "id": "1097175740992196698",
+    "imageId": "1ab39e2c-1baf-4057-89b2-00877c8394e6",
+    "prompt": "a traditional South African pottery workshop, in the style of immersive pencil sketch, vibrant clay colors, skilled craftsmanship, creative process, cultural artistry --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097175740694397119/Paper_a_traditional_South_African_pottery_workshop_in_the_style_1ab39e2c-1baf-4057-89b2-00877c8394e6.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T15:04:41.192+00:00"
+  },
+  {
+    "id": "1097175381880082532",
+    "imageId": "9c6e94bb-512b-4237-9cd7-e4332a15d2a2",
+    "prompt": "a majestic South African lion resting in the shade, in the style of realistic pencil sketch, subtle color accents, powerful presence, intricate fur details, king of the savannah --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097175381515186387/Paper_a_majestic_South_African_lion_resting_in_the_shade_in_the_9c6e94bb-512b-4237-9cd7-e4332a15d2a2.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T15:03:15.573+00:00"
+  },
+  {
+    "id": "1097175354306732042",
+    "imageId": "166c33ff-ca95-4455-9ef5-ee4c07b54d16",
+    "prompt": "a majestic South African lion resting in the shade, in the style of realistic pencil sketch, subtle color accents, powerful presence, intricate fur details, king of the savannah --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097175353526583326/Paper_a_majestic_South_African_lion_resting_in_the_shade_in_the_166c33ff-ca95-4455-9ef5-ee4c07b54d16.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T15:03:08.999+00:00"
+  },
+  {
+    "id": "1097175320416759922",
+    "imageId": "1a542b67-06e0-42dd-b68e-4e3dc11ecf28",
+    "prompt": "a majestic South African lion resting in the shade, in the style of realistic pencil sketch, subtle color accents, powerful presence, intricate fur details, king of the savannah --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097175319942799390/Paper_a_majestic_South_African_lion_resting_in_the_shade_in_the_1a542b67-06e0-42dd-b68e-4e3dc11ecf28.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T15:03:00.919+00:00"
+  },
+  {
+    "id": "1097175296853147678",
+    "imageId": "af2e84c9-722d-4da7-9bbe-466722eb527b",
+    "prompt": "a majestic South African lion resting in the shade, in the style of realistic pencil sketch, subtle color accents, powerful presence, intricate fur details, king of the savannah --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097175296505040976/Paper_a_majestic_South_African_lion_resting_in_the_shade_in_the_af2e84c9-722d-4da7-9bbe-466722eb527b.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T15:02:55.301+00:00"
+  },
+  {
+    "id": "1097174900629831900",
+    "imageId": "46cf57e2-c604-40a4-9123-f0ecd9f081d5",
+    "prompt": "a group of South African children playing outdoors, in the style of heartwarming pencil sketch, splashes of color, laughter and joy, innocence, community spirit --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097174900394954763/Paper_a_group_of_South_African_children_playing_outdoors_in_the_46cf57e2-c604-40a4-9123-f0ecd9f081d5.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T15:01:20.834+00:00"
+  },
+  {
+    "id": "1097174876445474827",
+    "imageId": "a105809f-2033-4942-97de-4098aa9e93f9",
+    "prompt": "a group of South African children playing outdoors, in the style of heartwarming pencil sketch, splashes of color, laughter and joy, innocence, community spirit --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097174875900235918/Paper_a_group_of_South_African_children_playing_outdoors_in_the_a105809f-2033-4942-97de-4098aa9e93f9.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T15:01:15.068+00:00"
+  },
+  {
+    "id": "1097174845688655905",
+    "imageId": "7204caca-0c86-40f4-bd10-4fa3ab314ef3",
+    "prompt": "a group of South African children playing outdoors, in the style of heartwarming pencil sketch, splashes of color, laughter and joy, innocence, community spirit --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097174845554434128/Paper_a_group_of_South_African_children_playing_outdoors_in_the_7204caca-0c86-40f4-bd10-4fa3ab314ef3.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T15:01:07.735+00:00"
+  },
+  {
+    "id": "1097174816118808796",
+    "imageId": "43daee47-d6e1-41f8-b738-b3d773d329ae",
+    "prompt": "a group of South African children playing outdoors, in the style of heartwarming pencil sketch, splashes of color, laughter and joy, innocence, community spirit --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097174815829409792/Paper_a_group_of_South_African_children_playing_outdoors_in_the_43daee47-d6e1-41f8-b738-b3d773d329ae.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T15:01:00.685+00:00"
+  },
+  {
+    "id": "1097174402765967440",
+    "imageId": "e1d688f3-0615-49f9-abf9-61b7d11a1d4d",
+    "prompt": "a vibrant South African sunrise over the ocean, in the style of expressive pencil sketch, colorful gradient sky, peaceful waves, coastal beauty, nature's awakening --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097174402480734289/Paper_a_vibrant_South_African_sunrise_over_the_ocean_in_the_sty_e1d688f3-0615-49f9-abf9-61b7d11a1d4d.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:59:22.134+00:00"
+  },
+  {
+    "id": "1097174376270544916",
+    "imageId": "126db6cb-9b61-43f5-bc40-14bc53b251f4",
+    "prompt": "a vibrant South African sunrise over the ocean, in the style of expressive pencil sketch, colorful gradient sky, peaceful waves, coastal beauty, nature's awakening --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097174375964344481/Paper_a_vibrant_South_African_sunrise_over_the_ocean_in_the_sty_126db6cb-9b61-43f5-bc40-14bc53b251f4.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:59:15.817+00:00"
+  },
+  {
+    "id": "1097174350681084024",
+    "imageId": "1f429062-2b2a-472e-b1a9-f6b1d42f8bb8",
+    "prompt": "a vibrant South African sunrise over the ocean, in the style of expressive pencil sketch, colorful gradient sky, peaceful waves, coastal beauty, nature's awakening --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097174350270054571/Paper_a_vibrant_South_African_sunrise_over_the_ocean_in_the_sty_1f429062-2b2a-472e-b1a9-f6b1d42f8bb8.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:59:09.716+00:00"
+  },
+  {
+    "id": "1097174325544636456",
+    "imageId": "d2d47d62-25a3-4fef-9daa-652b556a2e43",
+    "prompt": "a vibrant South African sunrise over the ocean, in the style of expressive pencil sketch, colorful gradient sky, peaceful waves, coastal beauty, nature's awakening --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097174325188116480/Paper_a_vibrant_South_African_sunrise_over_the_ocean_in_the_sty_d2d47d62-25a3-4fef-9daa-652b556a2e43.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:59:03.723+00:00"
+  },
+  {
+    "id": "1097173945892995223",
+    "imageId": "e980c9fb-faa0-49ee-addc-fce8d7d35205",
+    "prompt": "a South African archaeological site, in the style of detailed pencil sketch, rich color accents, ancient ruins, historical artifacts, preserving heritage, exploration and discovery --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097173945532305408/Paper_a_South_African_archaeological_site_in_the_style_of_detai_e980c9fb-faa0-49ee-addc-fce8d7d35205.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T14:57:33.207+00:00"
+  },
+  {
+    "id": "1097173913789792326",
+    "imageId": "4e008bd1-856f-47b1-aa34-c4b211f6a4a2",
+    "prompt": "a South African archaeological site, in the style of detailed pencil sketch, rich color accents, ancient ruins, historical artifacts, preserving heritage, exploration and discovery --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097173913349410826/Paper_a_South_African_archaeological_site_in_the_style_of_detai_4e008bd1-856f-47b1-aa34-c4b211f6a4a2.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T14:57:25.553+00:00"
+  },
+  {
+    "id": "1097173889643188324",
+    "imageId": "b6ca8ee5-acdb-4db7-82b0-8d2f8727848b",
+    "prompt": "a South African archaeological site, in the style of detailed pencil sketch, rich color accents, ancient ruins, historical artifacts, preserving heritage, exploration and discovery --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097173889349591080/Paper_a_South_African_archaeological_site_in_the_style_of_detai_b6ca8ee5-acdb-4db7-82b0-8d2f8727848b.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T14:57:19.796+00:00"
+  },
+  {
+    "id": "1097173865685327965",
+    "imageId": "42b0df3b-a7a6-41ad-840f-e7ef96f468f7",
+    "prompt": "a South African archaeological site, in the style of detailed pencil sketch, rich color accents, ancient ruins, historical artifacts, preserving heritage, exploration and discovery --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097173865198796850/Paper_a_South_African_archaeological_site_in_the_style_of_detai_42b0df3b-a7a6-41ad-840f-e7ef96f468f7.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T14:57:14.084+00:00"
+  },
+  {
+    "id": "1097173488109879457",
+    "imageId": "67b439be-588c-46cf-8bc0-6875e0053072",
+    "prompt": "a South African cultural performance, in the style of dynamic pencil sketch, colorful highlights, traditional costumes, rhythmic movement, music and dance, cultural celebration --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097173487799509062/Paper_a_South_African_cultural_performance_in_the_style_of_dyna_67b439be-588c-46cf-8bc0-6875e0053072.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T14:55:44.063+00:00"
+  },
+  {
+    "id": "1097173462033895504",
+    "imageId": "613e2ccb-f889-44f1-999f-8c8a4d0f2ce6",
+    "prompt": "a South African cultural performance, in the style of dynamic pencil sketch, colorful highlights, traditional costumes, rhythmic movement, music and dance, cultural celebration --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097173461685784596/Paper_a_South_African_cultural_performance_in_the_style_of_dyna_613e2ccb-f889-44f1-999f-8c8a4d0f2ce6.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T14:55:37.846+00:00"
+  },
+  {
+    "id": "1097173436155056259",
+    "imageId": "74dfacd8-9c1f-417a-9a98-ae6a849f5ccc",
+    "prompt": "a South African cultural performance, in the style of dynamic pencil sketch, colorful highlights, traditional costumes, rhythmic movement, music and dance, cultural celebration --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097173435374911549/Paper_a_South_African_cultural_performance_in_the_style_of_dyna_74dfacd8-9c1f-417a-9a98-ae6a849f5ccc.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T14:55:31.676+00:00"
+  },
+  {
+    "id": "1097173410251018313",
+    "imageId": "ec95a4fd-36c1-4c3f-9ba9-8da30329a4ea",
+    "prompt": "a South African cultural performance, in the style of dynamic pencil sketch, colorful highlights, traditional costumes, rhythmic movement, music and dance, cultural celebration --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097173410313928755/Paper_a_South_African_cultural_performance_in_the_style_of_dyna_ec95a4fd-36c1-4c3f-9ba9-8da30329a4ea.png",
+    "category": "Culture",
+    "timeStamp": "2023-04-16T14:55:25.5+00:00"
+  },
+  {
+    "id": "1097173031702507674",
+    "imageId": "9ca5339e-a7b4-4649-85b5-5e46e67d9b86",
+    "prompt": "an elegant South African bird in flight, in the style of intricate pencil sketch, vivid plumage colors, delicate linework, natural beauty, expressive wildlife illustration --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097173031358566410/Paper_an_elegant_South_African_bird_in_flight_in_the_style_of_i_9ca5339e-a7b4-4649-85b5-5e46e67d9b86.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T14:53:55.247+00:00"
+  },
+  {
+    "id": "1097173001696464957",
+    "imageId": "d4d4c584-3d18-4082-9a92-2e07aaf4290a",
+    "prompt": "an elegant South African bird in flight, in the style of intricate pencil sketch, vivid plumage colors, delicate linework, natural beauty, expressive wildlife illustration --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097173001675481148/Paper_an_elegant_South_African_bird_in_flight_in_the_style_of_i_d4d4c584-3d18-4082-9a92-2e07aaf4290a.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T14:53:48.093+00:00"
+  },
+  {
+    "id": "1097172972931907696",
+    "imageId": "ff02da8a-fc53-47a7-85ac-561eec5cf1ca",
+    "prompt": "an elegant South African bird in flight, in the style of intricate pencil sketch, vivid plumage colors, delicate linework, natural beauty, expressive wildlife illustration --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097172972634120222/Paper_an_elegant_South_African_bird_in_flight_in_the_style_of_i_ff02da8a-fc53-47a7-85ac-561eec5cf1ca.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T14:53:41.235+00:00"
+  },
+  {
+    "id": "1097172943953481868",
+    "imageId": "d5814fb7-b899-4252-b1dd-489a758f6554",
+    "prompt": "an elegant South African bird in flight, in the style of intricate pencil sketch, vivid plumage colors, delicate linework, natural beauty, expressive wildlife illustration --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097172943701807204/Paper_an_elegant_South_African_bird_in_flight_in_the_style_of_i_d5814fb7-b899-4252-b1dd-489a758f6554.png",
+    "category": "Animals",
+    "timeStamp": "2023-04-16T14:53:34.326+00:00"
+  },
+  {
+    "id": "1097172568676503563",
+    "imageId": "39534fe3-3ce3-4c2c-b0ee-0451e0be309b",
+    "prompt": "a lively South African street scene, in the style of detailed pencil sketch, colorful watercolor accents, bustling market, diverse crowd, dynamic movement, urban life --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097172568173203526/Paper_a_lively_South_African_street_scene_in_the_style_of_detai_39534fe3-3ce3-4c2c-b0ee-0451e0be309b.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T14:52:04.853+00:00"
+  },
+  {
+    "id": "1097172542252388362",
+    "imageId": "46fa8386-b0d1-448f-9a88-b67693a06b8b",
+    "prompt": "a lively South African street scene, in the style of detailed pencil sketch, colorful watercolor accents, bustling market, diverse crowd, dynamic movement, urban life --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097172541958803687/Paper_a_lively_South_African_street_scene_in_the_style_of_detai_46fa8386-b0d1-448f-9a88-b67693a06b8b.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T14:51:58.553+00:00"
+  },
+  {
+    "id": "1097172518567170078",
+    "imageId": "b498c929-243b-4309-ba55-ecda06dc9c82",
+    "prompt": "a lively South African street scene, in the style of detailed pencil sketch, colorful watercolor accents, bustling market, diverse crowd, dynamic movement, urban life --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097172518072221777/Paper_a_lively_South_African_street_scene_in_the_style_of_detai_b498c929-243b-4309-ba55-ecda06dc9c82.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T14:51:52.906+00:00"
+  },
+  {
+    "id": "1097172482500333780",
+    "imageId": "feb56619-22ec-4dd9-bc9f-428c025c84fa",
+    "prompt": "a lively South African street scene, in the style of detailed pencil sketch, colorful watercolor accents, bustling market, diverse crowd, dynamic movement, urban life --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097172482064130178/Paper_a_lively_South_African_street_scene_in_the_style_of_detai_feb56619-22ec-4dd9-bc9f-428c025c84fa.png",
+    "category": "People",
+    "timeStamp": "2023-04-16T14:51:44.307+00:00"
+  },
+  {
+    "id": "1097172069826953469",
+    "imageId": "fb5165b6-5dde-4469-93dd-cb348ba34e69",
+    "prompt": "a breathtaking South African landscape, in the style of vibrant illustrations, pencil sketch outlines, lush colors, dramatic skies, picturesque mountains, serene rivers --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097172069424316496/Paper_a_breathtaking_South_African_landscape_in_the_style_of_vi_fb5165b6-5dde-4469-93dd-cb348ba34e69.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:50:05.918+00:00"
+  },
+  {
+    "id": "1097172031977562112",
+    "imageId": "5a56894c-f751-426e-bd54-ddbefb473233",
+    "prompt": "a breathtaking South African landscape, in the style of vibrant illustrations, pencil sketch outlines, lush colors, dramatic skies, picturesque mountains, serene rivers --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097172031692357723/Paper_a_breathtaking_South_African_landscape_in_the_style_of_vi_5a56894c-f751-426e-bd54-ddbefb473233.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:49:56.894+00:00"
+  },
+  {
+    "id": "1097172001191366770",
+    "imageId": "4b9d34e2-bca3-4f07-9ad3-dbb0a3f334ab",
+    "prompt": "a breathtaking South African landscape, in the style of vibrant illustrations, pencil sketch outlines, lush colors, dramatic skies, picturesque mountains, serene rivers --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097172001300430880/Paper_a_breathtaking_South_African_landscape_in_the_style_of_vi_4b9d34e2-bca3-4f07-9ad3-dbb0a3f334ab.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:49:49.554+00:00"
+  },
+  {
+    "id": "1097171963136442490",
+    "imageId": "497a2468-8c96-454c-b0a3-d8dc7d49eb4c",
+    "prompt": "a breathtaking South African landscape, in the style of vibrant illustrations, pencil sketch outlines, lush colors, dramatic skies, picturesque mountains, serene rivers --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097171962687664252/Paper_a_breathtaking_South_African_landscape_in_the_style_of_vi_497a2468-8c96-454c-b0a3-d8dc7d49eb4c.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:49:40.481+00:00"
+  },
+  {
+    "id": "1097171352210903191",
+    "imageId": "8d8c3edf-5711-436f-a002-993adbdcfeee",
+    "prompt": "a South African archaeological site, in the style of detailed pencil sketch, rich color accents, ancient ruins, historical artifacts, preserving heritage, exploration and discovery --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097171351854399698/Paper_a_South_African_archaeological_site_in_the_style_of_detai_8d8c3edf-5711-436f-a002-993adbdcfeee.png",
+    "category": "Heritage",
+    "timeStamp": "2023-04-16T14:47:14.825+00:00"
+  },
+  {
+    "id": "1097166529537249420",
+    "imageId": "b628e52a-04a9-4d7e-b374-4cdc07626826",
+    "prompt": "A gathering of people dressed in vibrant traditional clothing, dancing to electronic beats and waving neon light sticks in the middle of a neon-lit city square. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097166529256235008/Paper_A_gathering_of_people_dressed_in_vibrant_traditional_clot_b628e52a-04a9-4d7e-b374-4cdc07626826.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:28:05.01+00:00"
+  },
+  {
+    "id": "1097166504686014545",
+    "imageId": "97d0a332-b5a0-4c2a-a3d6-c9324e0f667e",
+    "prompt": "A gathering of people dressed in vibrant traditional clothing, dancing to electronic beats and waving neon light sticks in the middle of a neon-lit city square. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097166504740519968/Paper_A_gathering_of_people_dressed_in_vibrant_traditional_clot_97d0a332-b5a0-4c2a-a3d6-c9324e0f667e.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:27:59.085+00:00"
+  },
+  {
+    "id": "1097166479377580112",
+    "imageId": "a92c21e1-45bf-4c12-a908-bb5de04e50a2",
+    "prompt": "A gathering of people dressed in vibrant traditional clothing, dancing to electronic beats and waving neon light sticks in the middle of a neon-lit city square. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097166478941360239/Paper_A_gathering_of_people_dressed_in_vibrant_traditional_clot_a92c21e1-45bf-4c12-a908-bb5de04e50a2.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:27:53.051+00:00"
+  },
+  {
+    "id": "1097166454039789669",
+    "imageId": "7683f394-cb77-4375-b933-e45338bfbbe4",
+    "prompt": "A gathering of people dressed in vibrant traditional clothing, dancing to electronic beats and waving neon light sticks in the middle of a neon-lit city square. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097166453855227905/Paper_A_gathering_of_people_dressed_in_vibrant_traditional_clot_7683f394-cb77-4375-b933-e45338bfbbe4.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:27:47.01+00:00"
+  },
+  {
+    "id": "1097166081002586152",
+    "imageId": "6a3e5b4e-5d5a-4c48-a4bc-6a5a9316c687",
+    "prompt": "A fantastical creature with iridescent scales and rainbow-colored wings soaring through the clouds in the midst of an electric storm. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097166080675434506/Paper_A_fantastical_creature_with_iridescent_scales_and_rainbow_6a3e5b4e-5d5a-4c48-a4bc-6a5a9316c687.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:26:18.071+00:00"
+  },
+  {
+    "id": "1097166057413812244",
+    "imageId": "77438a5c-3cf2-40be-875b-a816297a6365",
+    "prompt": "A fantastical creature with iridescent scales and rainbow-colored wings soaring through the clouds in the midst of an electric storm. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097166057162158130/Paper_A_fantastical_creature_with_iridescent_scales_and_rainbow_77438a5c-3cf2-40be-875b-a816297a6365.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:26:12.447+00:00"
+  },
+  {
+    "id": "1097166030645768274",
+    "imageId": "c1de234c-9fb2-4431-9e5d-ce12148aa962",
+    "prompt": "A fantastical creature with iridescent scales and rainbow-colored wings soaring through the clouds in the midst of an electric storm. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097166030318604399/Paper_A_fantastical_creature_with_iridescent_scales_and_rainbow_c1de234c-9fb2-4431-9e5d-ce12148aa962.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:26:06.065+00:00"
+  },
+  {
+    "id": "1097166000794898553",
+    "imageId": "1f75b93f-7983-4b5a-88eb-e4f9e4c4fa90",
+    "prompt": "A fantastical creature with iridescent scales and rainbow-colored wings soaring through the clouds in the midst of an electric storm. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097166000434192404/Paper_A_fantastical_creature_with_iridescent_scales_and_rainbow_1f75b93f-7983-4b5a-88eb-e4f9e4c4fa90.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:25:58.948+00:00"
+  },
+  {
+    "id": "1097165626751078401",
+    "imageId": "dc44da8f-de84-49fb-b49b-02a0f270733d",
+    "prompt": "A young black girl laying on her back on a grassy field, staring up at the star-filled sky and dreaming of a future in space exploration. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097165626629423195/Paper_A_young_black_girl_laying_on_her_back_on_a_grassy_field_s_dc44da8f-de84-49fb-b49b-02a0f270733d.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:24:29.769+00:00"
+  },
+  {
+    "id": "1097165593200836728",
+    "imageId": "51edfaa8-36ee-4714-b5b2-957cbeeab359",
+    "prompt": "A young black girl laying on her back on a grassy field, staring up at the star-filled sky and dreaming of a future in space exploration. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097165592848507020/Paper_A_young_black_girl_laying_on_her_back_on_a_grassy_field_s_51edfaa8-36ee-4714-b5b2-957cbeeab359.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:24:21.77+00:00"
+  },
+  {
+    "id": "1097165567858843698",
+    "imageId": "95697b2e-f046-4c14-9980-5a60e5891792",
+    "prompt": "A young black girl laying on her back on a grassy field, staring up at the star-filled sky and dreaming of a future in space exploration. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097165567598809109/Paper_A_young_black_girl_laying_on_her_back_on_a_grassy_field_s_95697b2e-f046-4c14-9980-5a60e5891792.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:24:15.728+00:00"
+  },
+  {
+    "id": "1097165542265213091",
+    "imageId": "988887d7-d199-403b-b3b9-2f24edc9585a",
+    "prompt": "A young black girl laying on her back on a grassy field, staring up at the star-filled sky and dreaming of a future in space exploration. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097165542365855865/Paper_A_young_black_girl_laying_on_her_back_on_a_grassy_field_s_988887d7-d199-403b-b3b9-2f24edc9585a.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:24:09.626+00:00"
+  },
+  {
+    "id": "1097165188928643192",
+    "imageId": "de321f6e-e166-4986-b80c-145521848f1a",
+    "prompt": "A futuristic, bustling city with flying cars and buildings towering into the sky basking in warm golden light that glows over the horizon. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097165188588908644/Paper_A_futuristic_bustling_city_with_flying_cars_and_buildings_de321f6e-e166-4986-b80c-145521848f1a.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:22:45.384+00:00"
+  },
+  {
+    "id": "1097165165134352514",
+    "imageId": "8cc30410-9386-4986-828e-a51fd80fe1ad",
+    "prompt": "A futuristic, bustling city with flying cars and buildings towering into the sky basking in warm golden light that glows over the horizon. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097165164861739038/Paper_A_futuristic_bustling_city_with_flying_cars_and_buildings_8cc30410-9386-4986-828e-a51fd80fe1ad.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:22:39.711+00:00"
+  },
+  {
+    "id": "1097165136290127953",
+    "imageId": "04c681f9-05a8-47a1-8576-92d06b197319",
+    "prompt": "A futuristic, bustling city with flying cars and buildings towering into the sky basking in warm golden light that glows over the horizon. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097165136004907008/Paper_A_futuristic_bustling_city_with_flying_cars_and_buildings_04c681f9-05a8-47a1-8576-92d06b197319.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:22:32.834+00:00"
+  },
+  {
+    "id": "1097165107148107856",
+    "imageId": "a0c9ff92-5a83-41ec-b9d3-50b5ca8f2805",
+    "prompt": "A futuristic, bustling city with flying cars and buildings towering into the sky basking in warm golden light that glows over the horizon. --v 5",
+    "url": "https://cdn.discordapp.com/attachments/1074766113126228058/1097165106850299974/Paper_A_futuristic_bustling_city_with_flying_cars_and_buildings_a0c9ff92-5a83-41ec-b9d3-50b5ca8f2805.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-04-16T14:22:25.886+00:00"
+  },
+  {
     "id": "1096800086480142337",
     "imageId": "af4a844b-2aeb-4fa1-834e-604036048dd0",
     "prompt": "a futuristic South African monument, commemorating historical events, in the style of afrofuturism, interactive holograms, light projections, blending past and future, preserving heritage --v 5",

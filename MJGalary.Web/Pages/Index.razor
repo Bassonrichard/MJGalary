@@ -20,20 +20,37 @@
 
 <MudGrid Justify="Justify.SpaceEvenly">
     @foreach (var message in Messages)
-	{
-		<MudItem xs="12" sm="3" md="3">
+    {
+        <MudItem xs="12" sm="3" md="3">
             <ImageComponent Message="message" />
-		</MudItem>
-	}
+        </MudItem>
+    }
+    <MudButton 
+        Variant="Variant.Filled" 
+        Class="my-4"
+        StartIcon="@Icons.Material.Filled.ChangeCircle" 
+        Color="Color.Secondary"
+        OnClick="async () => await LoadMore()">
+        Load more ...
+    </MudButton>
 </MudGrid>
 
-@code{
-    private List<MessageResponse> Messages { get; set; }   
+
+@code {
+    private List<MessageResponse> Messages { get; set; }
     private bool loading { get; set; }
+    private int index { get; set; }
 
     protected override async Task OnInitializedAsync()
     {
         Messages = new List<MessageResponse>();
+        index = 12;
+        await SetMessages();
+    }
+
+    private async Task LoadMore()
+    {
+        index = index + 12;
         await SetMessages();
     }
 
@@ -41,6 +58,7 @@
     {
         loading = true;
         Messages = await GetMessages();
+        Messages = Messages.Take(index).ToList();
         loading = false;
     }
 

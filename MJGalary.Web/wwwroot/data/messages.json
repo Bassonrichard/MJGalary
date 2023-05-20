@@ -1,5 +1,2821 @@
 [
   {
+    "id": "1109487422686900354",
+    "imageId": "5806df24-7604-408b-be39-d727dec84340",
+    "prompt": "A portrait of a San artist, one of the oldest cultures in South Africa --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/5806df24-7604-408b-be39-d727dec84340.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:26:54.848+00:00"
+  },
+  {
+    "id": "1109487398133448815",
+    "imageId": "7cbcc1c4-d8c5-4c33-b280-989d59773382",
+    "prompt": "A portrait of a San artist, one of the oldest cultures in South Africa --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/7cbcc1c4-d8c5-4c33-b280-989d59773382.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:26:48.994+00:00"
+  },
+  {
+    "id": "1109487369935134795",
+    "imageId": "60381a7f-5816-4833-8ffc-ea056c8dbac6",
+    "prompt": "A portrait of a San artist, one of the oldest cultures in South Africa --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/60381a7f-5816-4833-8ffc-ea056c8dbac6.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:26:42.271+00:00"
+  },
+  {
+    "id": "1109487346308612168",
+    "imageId": "e3c4938b-7e63-4e5b-9518-3e4e537a4f88",
+    "prompt": "A portrait of a San artist, one of the oldest cultures in South Africa --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e3c4938b-7e63-4e5b-9518-3e4e537a4f88.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:26:36.638+00:00"
+  },
+  {
+    "id": "1109487155027378349",
+    "imageId": "0519351a-c595-4446-bec0-841a452dcae1",
+    "prompt": "A depiction of a Himba woman, an indigenous group from Namibia --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0519351a-c595-4446-bec0-841a452dcae1.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:25:51.033+00:00"
+  },
+  {
+    "id": "1109487128842342510",
+    "imageId": "1dfbbcfa-b242-4b98-9cb0-6d6897c11771",
+    "prompt": "A depiction of a Himba woman, an indigenous group from Namibia --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1dfbbcfa-b242-4b98-9cb0-6d6897c11771.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:25:44.79+00:00"
+  },
+  {
+    "id": "1109487102858633246",
+    "imageId": "adfba9b8-6b22-42a0-8ed5-d23efd3938a2",
+    "prompt": "A depiction of a Himba woman, an indigenous group from Namibia --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/adfba9b8-6b22-42a0-8ed5-d23efd3938a2.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:25:38.595+00:00"
+  },
+  {
+    "id": "1109487074408661084",
+    "imageId": "390b0398-e1ba-4721-a389-040aada86af5",
+    "prompt": "A depiction of a Himba woman, an indigenous group from Namibia --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/390b0398-e1ba-4721-a389-040aada86af5.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:25:31.812+00:00"
+  },
+  {
+    "id": "1109486838390992957",
+    "imageId": "185b818a-1876-4cf1-8dc8-a7a546dd721d",
+    "prompt": "A portrait of a Cape Malay, a community with unique cultural heritage --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/185b818a-1876-4cf1-8dc8-a7a546dd721d.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:24:35.541+00:00"
+  },
+  {
+    "id": "1109486813564915754",
+    "imageId": "b2dce97d-9e46-45b4-bc59-05883f2ff3f6",
+    "prompt": "A portrait of a Cape Malay, a community with unique cultural heritage --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b2dce97d-9e46-45b4-bc59-05883f2ff3f6.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:24:29.622+00:00"
+  },
+  {
+    "id": "1109486784620003478",
+    "imageId": "ae81f3ab-af42-4283-8d02-b34f38462236",
+    "prompt": "A portrait of a Cape Malay, a community with unique cultural heritage --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/ae81f3ab-af42-4283-8d02-b34f38462236.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:24:22.721+00:00"
+  },
+  {
+    "id": "1109486758925701131",
+    "imageId": "c6116fdd-5c98-4cfd-95a7-ace3234cd16b",
+    "prompt": "A portrait of a Cape Malay, a community with unique cultural heritage --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c6116fdd-5c98-4cfd-95a7-ace3234cd16b.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:24:16.595+00:00"
+  },
+  {
+    "id": "1109486536027807796",
+    "imageId": "5fae6f33-c7f0-4066-8244-a84dabebe4c7",
+    "prompt": "A depiction of a street vendor in Johannesburg --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/5fae6f33-c7f0-4066-8244-a84dabebe4c7.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:23:23.452+00:00"
+  },
+  {
+    "id": "1109486508802588764",
+    "imageId": "8ac324a0-4721-4464-b956-759e74e46ad5",
+    "prompt": "A depiction of a street vendor in Johannesburg --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/8ac324a0-4721-4464-b956-759e74e46ad5.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:23:16.961+00:00"
+  },
+  {
+    "id": "1109486481912909927",
+    "imageId": "342955d4-1268-407a-92e3-fa26b5fe2f48",
+    "prompt": "A depiction of a street vendor in Johannesburg --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/342955d4-1268-407a-92e3-fa26b5fe2f48.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:23:10.55+00:00"
+  },
+  {
+    "id": "1109486455681716317",
+    "imageId": "c37021b0-e134-4030-afc8-df3920398edf",
+    "prompt": "A depiction of a street vendor in Johannesburg --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c37021b0-e134-4030-afc8-df3920398edf.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:23:04.296+00:00"
+  },
+  {
+    "id": "1109486245714862131",
+    "imageId": "8be3a796-1968-4299-bfe0-a20c2319f359",
+    "prompt": "A portrait of a Soweto resident, depicting the culture of the township --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/8be3a796-1968-4299-bfe0-a20c2319f359.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:22:14.236+00:00"
+  },
+  {
+    "id": "1109486219735339019",
+    "imageId": "a96765ea-02a4-44d1-81e8-695aa9c49821",
+    "prompt": "A portrait of a Soweto resident, depicting the culture of the township --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a96765ea-02a4-44d1-81e8-695aa9c49821.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:22:08.042+00:00"
+  },
+  {
+    "id": "1109486196616339476",
+    "imageId": "09f3b793-e606-47dc-a442-5e43fefc30f3",
+    "prompt": "A portrait of a Soweto resident, depicting the culture of the township --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/09f3b793-e606-47dc-a442-5e43fefc30f3.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:22:02.53+00:00"
+  },
+  {
+    "id": "1109486171005915146",
+    "imageId": "09017bd5-95f2-4ae0-9dce-85d18839f87d",
+    "prompt": "A portrait of a Soweto resident, depicting the culture of the township --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/09017bd5-95f2-4ae0-9dce-85d18839f87d.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:21:56.424+00:00"
+  },
+  {
+    "id": "1109485960527364249",
+    "imageId": "be1829d1-cb0c-47a8-acc4-473c301cb9ec",
+    "prompt": "A depiction of a Xhosa woman in traditional dress --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/be1829d1-cb0c-47a8-acc4-473c301cb9ec.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:21:06.242+00:00"
+  },
+  {
+    "id": "1109485932693950515",
+    "imageId": "c742d03a-0ade-4f63-a2fc-c5a14976c606",
+    "prompt": "A depiction of a Xhosa woman in traditional dress --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c742d03a-0ade-4f63-a2fc-c5a14976c606.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:20:59.606+00:00"
+  },
+  {
+    "id": "1109485909205860465",
+    "imageId": "982e1d74-e0d9-4fba-9f2f-f3e8b839d788",
+    "prompt": "A depiction of a Xhosa woman in traditional dress --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/982e1d74-e0d9-4fba-9f2f-f3e8b839d788.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:20:54.006+00:00"
+  },
+  {
+    "id": "1109485880378392608",
+    "imageId": "4e7ae6f9-cd84-4adf-b07b-c7b26cef63cf",
+    "prompt": "A depiction of a Xhosa woman in traditional dress --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4e7ae6f9-cd84-4adf-b07b-c7b26cef63cf.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:20:47.133+00:00"
+  },
+  {
+    "id": "1109485670717718550",
+    "imageId": "2447e087-432d-4476-9289-16e2b6408dad",
+    "prompt": "A portrait of a traditional Zulu dancer --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2447e087-432d-4476-9289-16e2b6408dad.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:19:57.146+00:00"
+  },
+  {
+    "id": "1109485646059405373",
+    "imageId": "2f3637a4-071a-4b3c-aae4-4c3c646a8f9b",
+    "prompt": "A portrait of a traditional Zulu dancer --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2f3637a4-071a-4b3c-aae4-4c3c646a8f9b.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:19:51.267+00:00"
+  },
+  {
+    "id": "1109485618284744934",
+    "imageId": "636db6ae-e2b6-4281-aa97-6e06f5ac90e3",
+    "prompt": "A portrait of a traditional Zulu dancer --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/636db6ae-e2b6-4281-aa97-6e06f5ac90e3.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:19:44.645+00:00"
+  },
+  {
+    "id": "1109485594574323722",
+    "imageId": "0dfe1845-e2c4-4e7e-b6c8-173c8138978d",
+    "prompt": "A portrait of a traditional Zulu dancer --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0dfe1845-e2c4-4e7e-b6c8-173c8138978d.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:19:38.992+00:00"
+  },
+  {
+    "id": "1109485368497164428",
+    "imageId": "f0b0793a-a297-4a8f-bddd-34919197b4dd",
+    "prompt": "A depiction of a construction worker in Gauteng, representing the country's booming construction industry. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f0b0793a-a297-4a8f-bddd-34919197b4dd.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:18:45.091+00:00"
+  },
+  {
+    "id": "1109485340349186059",
+    "imageId": "0e6a6870-8c50-440a-bbc9-eaa1fc7326bf",
+    "prompt": "A depiction of a construction worker in Gauteng, representing the country's booming construction industry. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0e6a6870-8c50-440a-bbc9-eaa1fc7326bf.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:18:38.38+00:00"
+  },
+  {
+    "id": "1109485316223541248",
+    "imageId": "5d399275-2685-4832-a117-6eb59bcfbf0b",
+    "prompt": "A depiction of a construction worker in Gauteng, representing the country's booming construction industry. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/5d399275-2685-4832-a117-6eb59bcfbf0b.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:18:32.628+00:00"
+  },
+  {
+    "id": "1109485290340487248",
+    "imageId": "7808f0ec-3d97-4f42-9f7b-a4c8d72491b5",
+    "prompt": "A depiction of a construction worker in Gauteng, representing the country's booming construction industry. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/7808f0ec-3d97-4f42-9f7b-a4c8d72491b5.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:18:26.457+00:00"
+  },
+  {
+    "id": "1109485061314723870",
+    "imageId": "0bbbb573-9428-4535-986a-90dad526da54",
+    "prompt": "A portrait of a woman from the Karoo in traditional dress, representing the country's rural communities. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0bbbb573-9428-4535-986a-90dad526da54.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:17:31.853+00:00"
+  },
+  {
+    "id": "1109485036815798352",
+    "imageId": "1f362b94-de9a-4372-941a-619d00d5cc01",
+    "prompt": "A portrait of a woman from the Karoo in traditional dress, representing the country's rural communities. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1f362b94-de9a-4372-941a-619d00d5cc01.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:17:26.012+00:00"
+  },
+  {
+    "id": "1109485010702049372",
+    "imageId": "4c66243a-4d0a-48bd-990e-bd49532d534a",
+    "prompt": "A portrait of a woman from the Karoo in traditional dress, representing the country's rural communities. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4c66243a-4d0a-48bd-990e-bd49532d534a.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:17:19.786+00:00"
+  },
+  {
+    "id": "1109484985691406346",
+    "imageId": "e3322a0d-bae9-4696-aec8-4e760d90adda",
+    "prompt": "A portrait of a woman from the Karoo in traditional dress, representing the country's rural communities. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e3322a0d-bae9-4696-aec8-4e760d90adda.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:17:13.823+00:00"
+  },
+  {
+    "id": "1109483948641366046",
+    "imageId": "bd9d1e9d-a3df-42f3-a46c-7fa481c80839",
+    "prompt": "A depiction of a traffic officer in Cape Town, representing the country's law enforcement. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/bd9d1e9d-a3df-42f3-a46c-7fa481c80839.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:13:06.571+00:00"
+  },
+  {
+    "id": "1109483926336061571",
+    "imageId": "72247104-2886-4516-9170-94594491a79a",
+    "prompt": "A depiction of a traffic officer in Cape Town, representing the country's law enforcement. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/72247104-2886-4516-9170-94594491a79a.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:13:01.253+00:00"
+  },
+  {
+    "id": "1109483899245035622",
+    "imageId": "60576830-2d0e-47a2-b978-6968808f764d",
+    "prompt": "A depiction of a traffic officer in Cape Town, representing the country's law enforcement. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/60576830-2d0e-47a2-b978-6968808f764d.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:12:54.794+00:00"
+  },
+  {
+    "id": "1109483877677928448",
+    "imageId": "7d04ca02-b842-40ae-ba8f-923f66fd9540",
+    "prompt": "A depiction of a traffic officer in Cape Town, representing the country's law enforcement. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/7d04ca02-b842-40ae-ba8f-923f66fd9540.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:12:49.652+00:00"
+  },
+  {
+    "id": "1109483685373280376",
+    "imageId": "a305d74e-2267-40c5-93c5-a84685d09ed5",
+    "prompt": "A portrait of a traditional Nama man with his distinctive clothing and jewelry. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a305d74e-2267-40c5-93c5-a84685d09ed5.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:12:03.803+00:00"
+  },
+  {
+    "id": "1109483655849582622",
+    "imageId": "8f733397-76b6-4a3b-ab55-c6c1dec09d2d",
+    "prompt": "A portrait of a traditional Nama man with his distinctive clothing and jewelry. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/8f733397-76b6-4a3b-ab55-c6c1dec09d2d.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:11:56.764+00:00"
+  },
+  {
+    "id": "1109483631338074142",
+    "imageId": "fdc3c9eb-09a6-41df-bd09-bf41004637b9",
+    "prompt": "A portrait of a traditional Nama man with his distinctive clothing and jewelry. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/fdc3c9eb-09a6-41df-bd09-bf41004637b9.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:11:50.92+00:00"
+  },
+  {
+    "id": "1109483605559890061",
+    "imageId": "706f22be-76da-4f18-84e5-0bb6613e3dee",
+    "prompt": "A portrait of a traditional Nama man with his distinctive clothing and jewelry. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/706f22be-76da-4f18-84e5-0bb6613e3dee.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:11:44.774+00:00"
+  },
+  {
+    "id": "1109483419190173756",
+    "imageId": "be9b3400-eeaa-4d82-9a27-e40826e421f0",
+    "prompt": "A depiction of a student in Johannesburg, representing the country's youth and education system. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/be9b3400-eeaa-4d82-9a27-e40826e421f0.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:11:00.34+00:00"
+  },
+  {
+    "id": "1109483391398715432",
+    "imageId": "c1a57527-045d-444d-b5c8-6dd08741b007",
+    "prompt": "A depiction of a student in Johannesburg, representing the country's youth and education system. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c1a57527-045d-444d-b5c8-6dd08741b007.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:10:53.714+00:00"
+  },
+  {
+    "id": "1109483364798439495",
+    "imageId": "b3157283-dfb1-4093-a867-432a448327f7",
+    "prompt": "A depiction of a student in Johannesburg, representing the country's youth and education system. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b3157283-dfb1-4093-a867-432a448327f7.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:10:47.372+00:00"
+  },
+  {
+    "id": "1109483341595545790",
+    "imageId": "4d7ae418-6b71-4643-b7de-82b215edc89e",
+    "prompt": "A depiction of a student in Johannesburg, representing the country's youth and education system. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4d7ae418-6b71-4643-b7de-82b215edc89e.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:10:41.84+00:00"
+  },
+  {
+    "id": "1109483128487161938",
+    "imageId": "c51edbcf-e65b-444a-b297-cabb83e0fe84",
+    "prompt": "A portrait of a traditional Tsonga wedding, showcasing the country's diverse wedding traditions. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c51edbcf-e65b-444a-b297-cabb83e0fe84.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:09:51.031+00:00"
+  },
+  {
+    "id": "1109483105741455481",
+    "imageId": "548f7213-10b9-4554-b8f9-1b5965448a13",
+    "prompt": "A portrait of a traditional Tsonga wedding, showcasing the country's diverse wedding traditions. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/548f7213-10b9-4554-b8f9-1b5965448a13.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:09:45.608+00:00"
+  },
+  {
+    "id": "1109483080672088065",
+    "imageId": "ade6022e-3500-4883-9175-c5ebbb0cbdde",
+    "prompt": "A portrait of a traditional Tsonga wedding, showcasing the country's diverse wedding traditions. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/ade6022e-3500-4883-9175-c5ebbb0cbdde.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:09:39.631+00:00"
+  },
+  {
+    "id": "1109483057687306322",
+    "imageId": "4d2a097b-855f-4d75-88cd-4819f794a04f",
+    "prompt": "A portrait of a traditional Tsonga wedding, showcasing the country's diverse wedding traditions. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4d2a097b-855f-4d75-88cd-4819f794a04f.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:09:34.151+00:00"
+  },
+  {
+    "id": "1109482855643496458",
+    "imageId": "fe7a6b20-4668-4e54-a400-26ed6d1a3fd0",
+    "prompt": "A depiction of a surfer in Durban, showcasing the country's beautiful beaches and surfing culture. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/fe7a6b20-4668-4e54-a400-26ed6d1a3fd0.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:08:45.98+00:00"
+  },
+  {
+    "id": "1109482831815659680",
+    "imageId": "46263c1c-fd56-4741-94d4-b5764c66de68",
+    "prompt": "A depiction of a surfer in Durban, showcasing the country's beautiful beaches and surfing culture. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/46263c1c-fd56-4741-94d4-b5764c66de68.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:08:40.299+00:00"
+  },
+  {
+    "id": "1109482808184934470",
+    "imageId": "73cc6861-eadc-4b53-b3c6-3e6245a947c6",
+    "prompt": "A depiction of a surfer in Durban, showcasing the country's beautiful beaches and surfing culture. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/73cc6861-eadc-4b53-b3c6-3e6245a947c6.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:08:34.665+00:00"
+  },
+  {
+    "id": "1109482784331923636",
+    "imageId": "4eb231b1-834f-48f7-9657-4c4a66409ee2",
+    "prompt": "A depiction of a surfer in Durban, showcasing the country's beautiful beaches and surfing culture. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4eb231b1-834f-48f7-9657-4c4a66409ee2.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:08:28.978+00:00"
+  },
+  {
+    "id": "1109481898629144576",
+    "imageId": "614258fd-682e-4fc7-9827-209329cdb155",
+    "prompt": "A portrait of a traditional Afrikaans family in the Free State, showcasing the country's linguistic diversity. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/614258fd-682e-4fc7-9827-209329cdb155.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:04:57.81+00:00"
+  },
+  {
+    "id": "1109481870934163588",
+    "imageId": "72ddd493-900b-4c54-b500-caecb73c38b7",
+    "prompt": "A portrait of a traditional Afrikaans family in the Free State, showcasing the country's linguistic diversity. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/72ddd493-900b-4c54-b500-caecb73c38b7.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:04:51.207+00:00"
+  },
+  {
+    "id": "1109481841213309052",
+    "imageId": "8ab8e56e-b258-4cb9-8448-0158addf73b5",
+    "prompt": "A portrait of a traditional Afrikaans family in the Free State, showcasing the country's linguistic diversity. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/8ab8e56e-b258-4cb9-8448-0158addf73b5.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:04:44.121+00:00"
+  },
+  {
+    "id": "1109481814302654554",
+    "imageId": "422f4c2c-f004-47d2-817c-ed7b2cb5dabd",
+    "prompt": "A portrait of a traditional Afrikaans family in the Free State, showcasing the country's linguistic diversity. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/422f4c2c-f004-47d2-817c-ed7b2cb5dabd.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:04:37.705+00:00"
+  },
+  {
+    "id": "1109481605585711195",
+    "imageId": "91f0cba9-d71c-4526-a81e-8293e741a722",
+    "prompt": "Vibrant Colors --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/91f0cba9-d71c-4526-a81e-8293e741a722.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:03:47.943+00:00"
+  },
+  {
+    "id": "1109481581502017586",
+    "imageId": "67e00f9a-1eb6-474b-80fe-1c384041da6d",
+    "prompt": "Vibrant Colors --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/67e00f9a-1eb6-474b-80fe-1c384041da6d.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:03:42.201+00:00"
+  },
+  {
+    "id": "1109481558890516490",
+    "imageId": "f7149f64-b9c2-42cf-af5f-2fe653311d83",
+    "prompt": "Vibrant Colors --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f7149f64-b9c2-42cf-af5f-2fe653311d83.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:03:36.81+00:00"
+  },
+  {
+    "id": "1109481532160221347",
+    "imageId": "d23879d0-4bcc-4734-a15d-5e3f5e5fdff5",
+    "prompt": "Vibrant Colors --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/d23879d0-4bcc-4734-a15d-5e3f5e5fdff5.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:03:30.437+00:00"
+  },
+  {
+    "id": "1109481321400647711",
+    "imageId": "f2c18976-c746-429e-9d55-f2265af17fe5",
+    "prompt": "Futuristic --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f2c18976-c746-429e-9d55-f2265af17fe5.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:02:40.188+00:00"
+  },
+  {
+    "id": "1109481298738806795",
+    "imageId": "8a16d900-3e51-438e-8adf-05e1f9a3b491",
+    "prompt": "Futuristic --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/8a16d900-3e51-438e-8adf-05e1f9a3b491.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:02:34.785+00:00"
+  },
+  {
+    "id": "1109481266887262216",
+    "imageId": "cd78fa29-b355-441b-899e-63640d05cc4c",
+    "prompt": "Futuristic --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/cd78fa29-b355-441b-899e-63640d05cc4c.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:02:27.191+00:00"
+  },
+  {
+    "id": "1109481239460716615",
+    "imageId": "0cadadfc-eea4-42a3-b41a-696e76c4c4e2",
+    "prompt": "Futuristic --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0cadadfc-eea4-42a3-b41a-696e76c4c4e2.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:02:20.652+00:00"
+  },
+  {
+    "id": "1109481020794863688",
+    "imageId": "0586223d-af72-4165-9f43-9ed088cc5fd0",
+    "prompt": "Afrofuturism --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0586223d-af72-4165-9f43-9ed088cc5fd0.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:01:28.518+00:00"
+  },
+  {
+    "id": "1109480996224630895",
+    "imageId": "7c5609b7-55d7-4a8d-b872-e9cc153d0674",
+    "prompt": "Afrofuturism --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/7c5609b7-55d7-4a8d-b872-e9cc153d0674.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:01:22.66+00:00"
+  },
+  {
+    "id": "1109480970425475233",
+    "imageId": "29d43540-2d0b-434f-aaef-4549f6d7aa88",
+    "prompt": "Afrofuturism --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/29d43540-2d0b-434f-aaef-4549f6d7aa88.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:01:16.509+00:00"
+  },
+  {
+    "id": "1109480945540677642",
+    "imageId": "248b9dcd-b243-420f-a328-925ece92e72a",
+    "prompt": "Afrofuturism --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/248b9dcd-b243-420f-a328-925ece92e72a.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:01:10.576+00:00"
+  },
+  {
+    "id": "1109480705873936416",
+    "imageId": "1025a414-c7dc-4e76-b4be-720694dc2b26",
+    "prompt": "Style --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1025a414-c7dc-4e76-b4be-720694dc2b26.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:00:13.435+00:00"
+  },
+  {
+    "id": "1109480679697285271",
+    "imageId": "a0029938-eca2-4b34-9691-8544eb8db118",
+    "prompt": "Style --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a0029938-eca2-4b34-9691-8544eb8db118.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:00:07.194+00:00"
+  },
+  {
+    "id": "1109480650853060658",
+    "imageId": "17faf7e7-3608-485d-b320-bb67b56a2428",
+    "prompt": "Style --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/17faf7e7-3608-485d-b320-bb67b56a2428.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T14:00:00.317+00:00"
+  },
+  {
+    "id": "1109480625762734150",
+    "imageId": "bc079493-ea8f-4ebc-bfa7-c50fbb57a24d",
+    "prompt": "Style --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/bc079493-ea8f-4ebc-bfa7-c50fbb57a24d.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:59:54.335+00:00"
+  },
+  {
+    "id": "1109480386653855807",
+    "imageId": "2ee736a3-e34f-42a0-aab1-92bc65252368",
+    "prompt": "South African --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2ee736a3-e34f-42a0-aab1-92bc65252368.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:58:57.327+00:00"
+  },
+  {
+    "id": "1109480362276552794",
+    "imageId": "0bb63b20-6604-4c64-9655-c7bfea4b81d0",
+    "prompt": "South African --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0bb63b20-6604-4c64-9655-c7bfea4b81d0.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:58:51.515+00:00"
+  },
+  {
+    "id": "1109480340843671552",
+    "imageId": "44f45fab-e8fc-4752-8454-2648e267e829",
+    "prompt": "South African --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/44f45fab-e8fc-4752-8454-2648e267e829.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:58:46.405+00:00"
+  },
+  {
+    "id": "1109480317133262920",
+    "imageId": "88705f38-2c7f-4e4f-9b3b-ce96489abf89",
+    "prompt": "South African --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/88705f38-2c7f-4e4f-9b3b-ce96489abf89.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:58:40.752+00:00"
+  },
+  {
+    "id": "1109480083854479482",
+    "imageId": "1f4129fd-4263-4706-b0f0-d05c1c21d09d",
+    "prompt": "A depiction of a car guard in Cape Town, highlighting the country's informal economy. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1f4129fd-4263-4706-b0f0-d05c1c21d09d.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:57:45.134+00:00"
+  },
+  {
+    "id": "1109480056302096394",
+    "imageId": "89775955-60eb-463e-8565-ced4a96d01b9",
+    "prompt": "A depiction of a car guard in Cape Town, highlighting the country's informal economy. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/89775955-60eb-463e-8565-ced4a96d01b9.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:57:38.565+00:00"
+  },
+  {
+    "id": "1109480028166684693",
+    "imageId": "9c7bac64-3823-456f-9f1e-779742c2dcbd",
+    "prompt": "A depiction of a car guard in Cape Town, highlighting the country's informal economy. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/9c7bac64-3823-456f-9f1e-779742c2dcbd.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:57:31.857+00:00"
+  },
+  {
+    "id": "1109479996684242955",
+    "imageId": "81783c9d-deef-4008-835b-0d7c9e9d4fe1",
+    "prompt": "A depiction of a car guard in Cape Town, highlighting the country's informal economy. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/81783c9d-deef-4008-835b-0d7c9e9d4fe1.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:57:24.351+00:00"
+  },
+  {
+    "id": "1109479762843410433",
+    "imageId": "87994c09-1134-4b00-ac39-59f49037ffd7",
+    "prompt": "A portrait of a Zulu woman in traditional dress, showcasing the country's cultural diversity. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/87994c09-1134-4b00-ac39-59f49037ffd7.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:56:28.599+00:00"
+  },
+  {
+    "id": "1109479735639167078",
+    "imageId": "fa9b1e08-d8b9-4df3-9b15-6e29b33baef9",
+    "prompt": "A portrait of a Zulu woman in traditional dress, showcasing the country's cultural diversity. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/fa9b1e08-d8b9-4df3-9b15-6e29b33baef9.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:56:22.113+00:00"
+  },
+  {
+    "id": "1109479708543959171",
+    "imageId": "2215f079-7ea6-47aa-862f-e15535f026b5",
+    "prompt": "A portrait of a Zulu woman in traditional dress, showcasing the country's cultural diversity. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2215f079-7ea6-47aa-862f-e15535f026b5.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:56:15.653+00:00"
+  },
+  {
+    "id": "1109479679477424219",
+    "imageId": "fc9567e7-8a71-4dd1-aa23-dfe17a4a513c",
+    "prompt": "A portrait of a Zulu woman in traditional dress, showcasing the country's cultural diversity. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/fc9567e7-8a71-4dd1-aa23-dfe17a4a513c.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:56:08.723+00:00"
+  },
+  {
+    "id": "1109479466536800436",
+    "imageId": "2d2fbf88-68fa-4ded-a395-604db392db58",
+    "prompt": "A depiction of a street sweeper in Johannesburg, showcasing the country's working class. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2d2fbf88-68fa-4ded-a395-604db392db58.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:55:17.954+00:00"
+  },
+  {
+    "id": "1109479440636969011",
+    "imageId": "81f7d6a1-2212-4ec2-aed1-fd01bf221b44",
+    "prompt": "A depiction of a street sweeper in Johannesburg, showcasing the country's working class. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/81f7d6a1-2212-4ec2-aed1-fd01bf221b44.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:55:11.779+00:00"
+  },
+  {
+    "id": "1109479413919252540",
+    "imageId": "6ee1fd2d-2cad-4a0e-abd3-06ef40d68246",
+    "prompt": "A depiction of a street sweeper in Johannesburg, showcasing the country's working class. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6ee1fd2d-2cad-4a0e-abd3-06ef40d68246.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:55:05.409+00:00"
+  },
+  {
+    "id": "1109479387247689788",
+    "imageId": "59835d69-212f-4e5a-9aa2-932e6b5d0cec",
+    "prompt": "A depiction of a street sweeper in Johannesburg, showcasing the country's working class. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/59835d69-212f-4e5a-9aa2-932e6b5d0cec.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:54:59.05+00:00"
+  },
+  {
+    "id": "1109479170381205554",
+    "imageId": "67781059-fd4c-458e-9aef-19bbafba25e0",
+    "prompt": "A portrait of a veteran of the anti-apartheid struggle, representing the country's history of resistance. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/67781059-fd4c-458e-9aef-19bbafba25e0.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:54:07.345+00:00"
+  },
+  {
+    "id": "1109479146792423424",
+    "imageId": "2fbf996c-1b34-4056-a192-930f392f8495",
+    "prompt": "A portrait of a veteran of the anti-apartheid struggle, representing the country's history of resistance. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2fbf996c-1b34-4056-a192-930f392f8495.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:54:01.721+00:00"
+  },
+  {
+    "id": "1109479119806275706",
+    "imageId": "57394ff3-ca71-45a8-9f0a-287a5eddd683",
+    "prompt": "A portrait of a veteran of the anti-apartheid struggle, representing the country's history of resistance. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/57394ff3-ca71-45a8-9f0a-287a5eddd683.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:53:55.287+00:00"
+  },
+  {
+    "id": "1109479095995220171",
+    "imageId": "2644b2a2-ea5b-4e15-ae56-7d7444e93321",
+    "prompt": "A portrait of a veteran of the anti-apartheid struggle, representing the country's history of resistance. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2644b2a2-ea5b-4e15-ae56-7d7444e93321.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:53:49.61+00:00"
+  },
+  {
+    "id": "1109478854319411291",
+    "imageId": "78aab555-da3f-4626-a196-4e7ad4bd1545",
+    "prompt": "A depiction of a busker in Cape Town, showcasing the vibrant street culture of the city. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/78aab555-da3f-4626-a196-4e7ad4bd1545.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:52:51.99+00:00"
+  },
+  {
+    "id": "1109478831301079143",
+    "imageId": "c28602b5-1c22-4972-bdc0-687220c5b015",
+    "prompt": "A depiction of a busker in Cape Town, showcasing the vibrant street culture of the city. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c28602b5-1c22-4972-bdc0-687220c5b015.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:52:46.502+00:00"
+  },
+  {
+    "id": "1109478804981825668",
+    "imageId": "69aef72d-89ce-428a-b239-65c7b030df14",
+    "prompt": "A depiction of a busker in Cape Town, showcasing the vibrant street culture of the city. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/69aef72d-89ce-428a-b239-65c7b030df14.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:52:40.227+00:00"
+  },
+  {
+    "id": "1109478779107168330",
+    "imageId": "4f759a9c-c1f9-41ca-8272-a34b51541ec6",
+    "prompt": "A depiction of a busker in Cape Town, showcasing the vibrant street culture of the city. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4f759a9c-c1f9-41ca-8272-a34b51541ec6.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T13:52:34.058+00:00"
+  },
+  {
+    "id": "1109475568619094047",
+    "imageId": "80eed195-cd24-4144-8bc9-ec798cf25428",
+    "prompt": "Narrate a hiking adventure through the Amathole Mountains, a range of mountains in the Eastern Cape. How would you capture the majesty of this landscape? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/80eed195-cd24-4144-8bc9-ec798cf25428.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:39:48.618+00:00"
+  },
+  {
+    "id": "1109475542589243494",
+    "imageId": "0efb2cce-7e61-48af-a63a-f7013d5a3130",
+    "prompt": "Narrate a hiking adventure through the Amathole Mountains, a range of mountains in the Eastern Cape. How would you capture the majesty of this landscape? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0efb2cce-7e61-48af-a63a-f7013d5a3130.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:39:42.412+00:00"
+  },
+  {
+    "id": "1109475512868425828",
+    "imageId": "98c64a6f-008a-4d0e-a517-d5f45dbb82cc",
+    "prompt": "Narrate a hiking adventure through the Amathole Mountains, a range of mountains in the Eastern Cape. How would you capture the majesty of this landscape? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/98c64a6f-008a-4d0e-a517-d5f45dbb82cc.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:39:35.326+00:00"
+  },
+  {
+    "id": "1109475485114695700",
+    "imageId": "2bb93ac8-6f4f-4435-8392-24bb2deef66d",
+    "prompt": "Narrate a hiking adventure through the Amathole Mountains, a range of mountains in the Eastern Cape. How would you capture the majesty of this landscape? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2bb93ac8-6f4f-4435-8392-24bb2deef66d.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:39:28.709+00:00"
+  },
+  {
+    "id": "1109475254566408254",
+    "imageId": "a776b2e6-db86-49d3-af26-4aaa9813a082",
+    "prompt": "Write a travel review about the thrill of bungee jumping off the Bloukrans Bridge, a famous site on the Garden Route. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a776b2e6-db86-49d3-af26-4aaa9813a082.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:38:33.742+00:00"
+  },
+  {
+    "id": "1109475231048941689",
+    "imageId": "63ab1bdb-f0bc-415b-a1fc-364ae8b0df3f",
+    "prompt": "Write a travel review about the thrill of bungee jumping off the Bloukrans Bridge, a famous site on the Garden Route. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/63ab1bdb-f0bc-415b-a1fc-364ae8b0df3f.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:38:28.135+00:00"
+  },
+  {
+    "id": "1109475205560143892",
+    "imageId": "a7f70b93-f421-4c23-a932-285800e96f7b",
+    "prompt": "Write a travel review about the thrill of bungee jumping off the Bloukrans Bridge, a famous site on the Garden Route. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a7f70b93-f421-4c23-a932-285800e96f7b.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:38:22.058+00:00"
+  },
+  {
+    "id": "1109475184513134612",
+    "imageId": "879a90d1-24fb-4a83-9d0f-d0f2d6229819",
+    "prompt": "Write a travel review about the thrill of bungee jumping off the Bloukrans Bridge, a famous site on the Garden Route. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/879a90d1-24fb-4a83-9d0f-d0f2d6229819.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:38:17.04+00:00"
+  },
+  {
+    "id": "1109474970167431302",
+    "imageId": "b9b8e4d7-8b33-4a77-8bed-fceb042cfddd",
+    "prompt": "Imagine a research trip to the Maloti-Drakensberg Transfrontier Conservation Area, a cross-border park between South Africa and Lesotho. What scientific discoveries might you make? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b9b8e4d7-8b33-4a77-8bed-fceb042cfddd.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:37:25.936+00:00"
+  },
+  {
+    "id": "1109474946226339930",
+    "imageId": "09d5b2c5-dd92-499f-8fb9-c674918fe34c",
+    "prompt": "Imagine a research trip to the Maloti-Drakensberg Transfrontier Conservation Area, a cross-border park between South Africa and Lesotho. What scientific discoveries might you make? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/09d5b2c5-dd92-499f-8fb9-c674918fe34c.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:37:20.228+00:00"
+  },
+  {
+    "id": "1109474920213262337",
+    "imageId": "6751dc83-1e19-4d7f-a9ed-cd5269490a81",
+    "prompt": "Imagine a research trip to the Maloti-Drakensberg Transfrontier Conservation Area, a cross-border park between South Africa and Lesotho. What scientific discoveries might you make? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6751dc83-1e19-4d7f-a9ed-cd5269490a81.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:37:14.026+00:00"
+  },
+  {
+    "id": "1109474889561292900",
+    "imageId": "7ed370c3-2334-4373-92a9-1d9169e7fa77",
+    "prompt": "Imagine a research trip to the Maloti-Drakensberg Transfrontier Conservation Area, a cross-border park between South Africa and Lesotho. What scientific discoveries might you make? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/7ed370c3-2334-4373-92a9-1d9169e7fa77.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:37:06.718+00:00"
+  },
+  {
+    "id": "1109474661370171513",
+    "imageId": "6066d372-0be7-42b5-948e-42f946c36de9",
+    "prompt": "Describe a fishing trip to the Vaal Dam, a large dam and reservoir in Gauteng. What would the perfect day look like? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6066d372-0be7-42b5-948e-42f946c36de9.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:36:12.313+00:00"
+  },
+  {
+    "id": "1109474625630519326",
+    "imageId": "c8745f43-bb20-46f9-a98b-87bd3daaab0c",
+    "prompt": "Describe a fishing trip to the Vaal Dam, a large dam and reservoir in Gauteng. What would the perfect day look like? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c8745f43-bb20-46f9-a98b-87bd3daaab0c.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:36:03.792+00:00"
+  },
+  {
+    "id": "1109474598984093716",
+    "imageId": "706c24ec-53af-4893-bf3c-0b77862d6d88",
+    "prompt": "Describe a fishing trip to the Vaal Dam, a large dam and reservoir in Gauteng. What would the perfect day look like? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/706c24ec-53af-4893-bf3c-0b77862d6d88.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:35:57.439+00:00"
+  },
+  {
+    "id": "1109474573562417303",
+    "imageId": "12e2d3c7-44af-4522-ac5e-e4f5d8b47fde",
+    "prompt": "Describe a fishing trip to the Vaal Dam, a large dam and reservoir in Gauteng. What would the perfect day look like? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/12e2d3c7-44af-4522-ac5e-e4f5d8b47fde.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:35:51.378+00:00"
+  },
+  {
+    "id": "1109474337196609546",
+    "imageId": "0bc749c8-c6f5-468f-b36d-aff04ab39a59",
+    "prompt": "Narrate a story of an unforgettable safari in the Marakele National Park, a wildlife sanctuary in Limpopo. What remarkable encounters would you have? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0bc749c8-c6f5-468f-b36d-aff04ab39a59.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:34:55.024+00:00"
+  },
+  {
+    "id": "1109474308528553986",
+    "imageId": "13f6f035-ed4a-4f36-8449-4a42ae593c77",
+    "prompt": "Narrate a story of an unforgettable safari in the Marakele National Park, a wildlife sanctuary in Limpopo. What remarkable encounters would you have? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/13f6f035-ed4a-4f36-8449-4a42ae593c77.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:34:48.189+00:00"
+  },
+  {
+    "id": "1109474283081715712",
+    "imageId": "0127fc9d-c773-4087-af6d-4b4d3311ac87",
+    "prompt": "Narrate a story of an unforgettable safari in the Marakele National Park, a wildlife sanctuary in Limpopo. What remarkable encounters would you have? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0127fc9d-c773-4087-af6d-4b4d3311ac87.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:34:42.122+00:00"
+  },
+  {
+    "id": "1109474258461151294",
+    "imageId": "7d6ee5da-d55a-4518-99f0-4826f87e8a48",
+    "prompt": "Narrate a story of an unforgettable safari in the Marakele National Park, a wildlife sanctuary in Limpopo. What remarkable encounters would you have? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/7d6ee5da-d55a-4518-99f0-4826f87e8a48.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:34:36.252+00:00"
+  },
+  {
+    "id": "1109474032912437248",
+    "imageId": "dfab6232-ad43-49d9-a7c1-47e535b4b567",
+    "prompt": "Write an essay about the ecological importance of the Kamberg Nature Reserve, a nature reserve in the KwaZulu-Natal Midlands. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/dfab6232-ad43-49d9-a7c1-47e535b4b567.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:33:42.477+00:00"
+  },
+  {
+    "id": "1109474010238034013",
+    "imageId": "ea7d24b3-7290-49e4-b178-3da6e9edddbe",
+    "prompt": "Write an essay about the ecological importance of the Kamberg Nature Reserve, a nature reserve in the KwaZulu-Natal Midlands. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/ea7d24b3-7290-49e4-b178-3da6e9edddbe.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:33:37.071+00:00"
+  },
+  {
+    "id": "1109473985672007810",
+    "imageId": "b293a2a2-5f52-4aff-924a-559afdc7ffe0",
+    "prompt": "Write an essay about the ecological importance of the Kamberg Nature Reserve, a nature reserve in the KwaZulu-Natal Midlands. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b293a2a2-5f52-4aff-924a-559afdc7ffe0.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:33:31.214+00:00"
+  },
+  {
+    "id": "1109473957331087420",
+    "imageId": "3aef8346-f620-4425-97c3-2ffdd6f03057",
+    "prompt": "Write an essay about the ecological importance of the Kamberg Nature Reserve, a nature reserve in the KwaZulu-Natal Midlands. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/3aef8346-f620-4425-97c3-2ffdd6f03057.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:33:24.457+00:00"
+  },
+  {
+    "id": "1109473752741326908",
+    "imageId": "af86f345-207b-442f-b21a-ae6435629e25",
+    "prompt": "Imagine an adventurous backpacking journey through the Groot Winterhoek Wilderness Area, a mountainous wilderness area in the Western Cape. What challenges and rewards would you encounter? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/af86f345-207b-442f-b21a-ae6435629e25.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:32:35.679+00:00"
+  },
+  {
+    "id": "1109473724312334457",
+    "imageId": "e9bb6f22-d63b-4de6-8e47-46995035154f",
+    "prompt": "Imagine an adventurous backpacking journey through the Groot Winterhoek Wilderness Area, a mountainous wilderness area in the Western Cape. What challenges and rewards would you encounter? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e9bb6f22-d63b-4de6-8e47-46995035154f.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:32:28.901+00:00"
+  },
+  {
+    "id": "1109473701914742814",
+    "imageId": "fe19de45-4215-4b5a-a6e4-f1209e3a6d7e",
+    "prompt": "Imagine an adventurous backpacking journey through the Groot Winterhoek Wilderness Area, a mountainous wilderness area in the Western Cape. What challenges and rewards would you encounter? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/fe19de45-4215-4b5a-a6e4-f1209e3a6d7e.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:32:23.561+00:00"
+  },
+  {
+    "id": "1109473674479812799",
+    "imageId": "8b9c5c6d-35a7-484b-897f-ec0974655792",
+    "prompt": "Imagine an adventurous backpacking journey through the Groot Winterhoek Wilderness Area, a mountainous wilderness area in the Western Cape. What challenges and rewards would you encounter? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/8b9c5c6d-35a7-484b-897f-ec0974655792.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:32:17.02+00:00"
+  },
+  {
+    "id": "1109473443512066048",
+    "imageId": "4cdb5932-0065-41d6-8fb1-0842f82f48c2",
+    "prompt": "Describe a tranquil weekend getaway in the KwaZulu-Natal Midlands, a picturesque region of rolling hills and farmland. What activities would you partake in? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4cdb5932-0065-41d6-8fb1-0842f82f48c2.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:31:21.953+00:00"
+  },
+  {
+    "id": "1109473417599664149",
+    "imageId": "22dc3cd2-7f66-4599-ba60-91f81b12f9f5",
+    "prompt": "Describe a tranquil weekend getaway in the KwaZulu-Natal Midlands, a picturesque region of rolling hills and farmland. What activities would you partake in? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/22dc3cd2-7f66-4599-ba60-91f81b12f9f5.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:31:15.775+00:00"
+  },
+  {
+    "id": "1109473385966223420",
+    "imageId": "77783303-d859-4de1-8a52-96a61aabe93f",
+    "prompt": "Describe a tranquil weekend getaway in the KwaZulu-Natal Midlands, a picturesque region of rolling hills and farmland. What activities would you partake in? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/77783303-d859-4de1-8a52-96a61aabe93f.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:31:08.233+00:00"
+  },
+  {
+    "id": "1109473360653586522",
+    "imageId": "412712bd-31c5-4bcc-9eb5-38a66713ba9c",
+    "prompt": "Describe a tranquil weekend getaway in the KwaZulu-Natal Midlands, a picturesque region of rolling hills and farmland. What activities would you partake in? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/412712bd-31c5-4bcc-9eb5-38a66713ba9c.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:31:02.198+00:00"
+  },
+  {
+    "id": "1109473163785535631",
+    "imageId": "eb323098-437b-48fc-8bf5-f4499b1e8192",
+    "prompt": "Write a travel blog post about exploring the Kosi Bay Nature Reserve, a coastal reserve in KwaZulu-Natal. What unique experiences would you highlight? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/eb323098-437b-48fc-8bf5-f4499b1e8192.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:30:15.261+00:00"
+  },
+  {
+    "id": "1109473140029001789",
+    "imageId": "e6286c0d-c8c2-4991-9a17-2c8e5167f67e",
+    "prompt": "Write a travel blog post about exploring the Kosi Bay Nature Reserve, a coastal reserve in KwaZulu-Natal. What unique experiences would you highlight? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e6286c0d-c8c2-4991-9a17-2c8e5167f67e.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:30:09.597+00:00"
+  },
+  {
+    "id": "1109473117094559824",
+    "imageId": "6084a8e6-735c-4e37-9f6e-3e9b177e7d20",
+    "prompt": "Write a travel blog post about exploring the Kosi Bay Nature Reserve, a coastal reserve in KwaZulu-Natal. What unique experiences would you highlight? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6084a8e6-735c-4e37-9f6e-3e9b177e7d20.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:30:04.129+00:00"
+  },
+  {
+    "id": "1109473089017888829",
+    "imageId": "47e4c516-d231-49ed-b9c8-2bac7542a04e",
+    "prompt": "Write a travel blog post about exploring the Kosi Bay Nature Reserve, a coastal reserve in KwaZulu-Natal. What unique experiences would you highlight? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/47e4c516-d231-49ed-b9c8-2bac7542a04e.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:29:57.435+00:00"
+  },
+  {
+    "id": "1109472888374960138",
+    "imageId": "15cf56b4-63bb-4a7c-a646-9317b50889a9",
+    "prompt": "Imagine hiking to the Kaapsehoop Escarpment, a stunning cliff face in Mpumalanga. How would you describe the view from the top? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/15cf56b4-63bb-4a7c-a646-9317b50889a9.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:29:09.598+00:00"
+  },
+  {
+    "id": "1109472863309803540",
+    "imageId": "da7b1ac6-e520-4d7c-b67d-c1e7731a23b0",
+    "prompt": "Imagine hiking to the Kaapsehoop Escarpment, a stunning cliff face in Mpumalanga. How would you describe the view from the top? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/da7b1ac6-e520-4d7c-b67d-c1e7731a23b0.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:29:03.622+00:00"
+  },
+  {
+    "id": "1109472837896523806",
+    "imageId": "c882fe04-378f-4b1d-8e4c-2a5322523059",
+    "prompt": "Imagine hiking to the Kaapsehoop Escarpment, a stunning cliff face in Mpumalanga. How would you describe the view from the top? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c882fe04-378f-4b1d-8e4c-2a5322523059.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:28:57.563+00:00"
+  },
+  {
+    "id": "1109472813552775259",
+    "imageId": "098e3381-7727-4556-9a9a-60bbe1d826da",
+    "prompt": "Imagine hiking to the Kaapsehoop Escarpment, a stunning cliff face in Mpumalanga. How would you describe the view from the top? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/098e3381-7727-4556-9a9a-60bbe1d826da.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:28:51.759+00:00"
+  },
+  {
+    "id": "1109472611643162684",
+    "imageId": "af4dd829-aaef-4368-9482-07a72cba2bcd",
+    "prompt": "Imagine a picnic by the Blydepoort Dam, a scenic dam and reservoir in Mpumalanga. What would be the ideal menu, and what natural wonders would you see? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/af4dd829-aaef-4368-9482-07a72cba2bcd.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:28:03.62+00:00"
+  },
+  {
+    "id": "1109472582685696051",
+    "imageId": "b68f6572-9427-4037-817a-074030541913",
+    "prompt": "Imagine a picnic by the Blydepoort Dam, a scenic dam and reservoir in Mpumalanga. What would be the ideal menu, and what natural wonders would you see? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b68f6572-9427-4037-817a-074030541913.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:27:56.716+00:00"
+  },
+  {
+    "id": "1109472555032641679",
+    "imageId": "4fc08b3f-1a14-4eba-86ce-76d4677c67a8",
+    "prompt": "Imagine a picnic by the Blydepoort Dam, a scenic dam and reservoir in Mpumalanga. What would be the ideal menu, and what natural wonders would you see? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4fc08b3f-1a14-4eba-86ce-76d4677c67a8.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:27:50.123+00:00"
+  },
+  {
+    "id": "1109472528201682954",
+    "imageId": "c44a0298-4b35-4bd3-a0c2-86243fa8f8fc",
+    "prompt": "Imagine a picnic by the Blydepoort Dam, a scenic dam and reservoir in Mpumalanga. What would be the ideal menu, and what natural wonders would you see? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c44a0298-4b35-4bd3-a0c2-86243fa8f8fc.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:27:43.726+00:00"
+  },
+  {
+    "id": "1109472328435380346",
+    "imageId": "e906c3a6-ec0f-4523-b296-986cee69fed0",
+    "prompt": "Describe a serene day spent in the Valley of a Thousand Hills, a scenic valley in KwaZulu-Natal. What makes this place so peaceful and beautiful? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e906c3a6-ec0f-4523-b296-986cee69fed0.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:26:56.098+00:00"
+  },
+  {
+    "id": "1109472301319196732",
+    "imageId": "72d0d75d-6331-4eb6-a3f1-fedf55f7e4f5",
+    "prompt": "Describe a serene day spent in the Valley of a Thousand Hills, a scenic valley in KwaZulu-Natal. What makes this place so peaceful and beautiful? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/72d0d75d-6331-4eb6-a3f1-fedf55f7e4f5.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:26:49.633+00:00"
+  },
+  {
+    "id": "1109472275125784656",
+    "imageId": "8c39d04c-4c9a-4c3b-b68f-2bdfd33e8e40",
+    "prompt": "Describe a serene day spent in the Valley of a Thousand Hills, a scenic valley in KwaZulu-Natal. What makes this place so peaceful and beautiful? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/8c39d04c-4c9a-4c3b-b68f-2bdfd33e8e40.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:26:43.388+00:00"
+  },
+  {
+    "id": "1109472247485300837",
+    "imageId": "d6a6bbbb-ae0a-433f-b2c9-cab1c4325afa",
+    "prompt": "Describe a serene day spent in the Valley of a Thousand Hills, a scenic valley in KwaZulu-Natal. What makes this place so peaceful and beautiful? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/d6a6bbbb-ae0a-433f-b2c9-cab1c4325afa.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:26:36.798+00:00"
+  },
+  {
+    "id": "1109472049874874428",
+    "imageId": "823afc66-e271-4214-9ad2-f2873a2872ec",
+    "prompt": "Write a short story set on the Cape Peninsula, a narrow strip of land extending from Cape Town into the Atlantic Ocean. How does this setting influence the story's events? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/823afc66-e271-4214-9ad2-f2873a2872ec.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:25:49.684+00:00"
+  },
+  {
+    "id": "1109472025518555197",
+    "imageId": "6b4cf32c-9fd3-4423-aaff-01df23a92285",
+    "prompt": "Write a short story set on the Cape Peninsula, a narrow strip of land extending from Cape Town into the Atlantic Ocean. How does this setting influence the story's events? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6b4cf32c-9fd3-4423-aaff-01df23a92285.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:25:43.877+00:00"
+  },
+  {
+    "id": "1109471999916527626",
+    "imageId": "1ed12793-1d6f-4c86-b446-926ff1c5aa98",
+    "prompt": "Write a short story set on the Cape Peninsula, a narrow strip of land extending from Cape Town into the Atlantic Ocean. How does this setting influence the story's events? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1ed12793-1d6f-4c86-b446-926ff1c5aa98.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:25:37.773+00:00"
+  },
+  {
+    "id": "1109471974578724905",
+    "imageId": "b9c46cfa-6550-4697-8de1-bbc78b6485e7",
+    "prompt": "Write a short story set on the Cape Peninsula, a narrow strip of land extending from Cape Town into the Atlantic Ocean. How does this setting influence the story's events? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b9c46cfa-6550-4697-8de1-bbc78b6485e7.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:25:31.732+00:00"
+  },
+  {
+    "id": "1109471763819135067",
+    "imageId": "eed092d8-c42a-43d6-a26f-e09ee39ec803",
+    "prompt": "Compose a descriptive passage about the Soutpansberg Mountains, a range of hills and peaks in Limpopo. How might sunrise and sunset transform this landscape? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/eed092d8-c42a-43d6-a26f-e09ee39ec803.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:24:41.483+00:00"
+  },
+  {
+    "id": "1109471741975216181",
+    "imageId": "234893dd-97b5-4965-89a5-4eb6e3be96cb",
+    "prompt": "Compose a descriptive passage about the Soutpansberg Mountains, a range of hills and peaks in Limpopo. How might sunrise and sunset transform this landscape? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/234893dd-97b5-4965-89a5-4eb6e3be96cb.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:24:36.275+00:00"
+  },
+  {
+    "id": "1109471718747164722",
+    "imageId": "d6e798c9-0c91-452c-9ff2-576200cedb62",
+    "prompt": "Compose a descriptive passage about the Soutpansberg Mountains, a range of hills and peaks in Limpopo. How might sunrise and sunset transform this landscape? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/d6e798c9-0c91-452c-9ff2-576200cedb62.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:24:30.737+00:00"
+  },
+  {
+    "id": "1109471690309767258",
+    "imageId": "a7128487-3522-4b49-9b86-2dc71c458884",
+    "prompt": "Compose a descriptive passage about the Soutpansberg Mountains, a range of hills and peaks in Limpopo. How might sunrise and sunset transform this landscape? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a7128487-3522-4b49-9b86-2dc71c458884.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:24:23.957+00:00"
+  },
+  {
+    "id": "1109471491369730078",
+    "imageId": "1d2bb3c3-0dc3-408e-b62d-93b53e467511",
+    "prompt": "Imagine a hiking trip to the uKhahlamba-Drakensberg Park, a UNESCO World Heritage site in KwaZulu-Natal. How would the landscape change as you ascend? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1d2bb3c3-0dc3-408e-b62d-93b53e467511.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:23:36.526+00:00"
+  },
+  {
+    "id": "1109471465411199068",
+    "imageId": "5dfd1cdc-e150-4e1c-8760-245332f342c1",
+    "prompt": "Imagine a hiking trip to the uKhahlamba-Drakensberg Park, a UNESCO World Heritage site in KwaZulu-Natal. How would the landscape change as you ascend? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/5dfd1cdc-e150-4e1c-8760-245332f342c1.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:23:30.337+00:00"
+  },
+  {
+    "id": "1109471434025218170",
+    "imageId": "22223d3f-869b-47bc-8d68-377c53d49689",
+    "prompt": "Imagine a hiking trip to the uKhahlamba-Drakensberg Park, a UNESCO World Heritage site in KwaZulu-Natal. How would the landscape change as you ascend? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/22223d3f-869b-47bc-8d68-377c53d49689.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:23:22.854+00:00"
+  },
+  {
+    "id": "1109471408339308684",
+    "imageId": "04b9df8e-dce7-42c5-94cd-2386bf854048",
+    "prompt": "Imagine a hiking trip to the uKhahlamba-Drakensberg Park, a UNESCO World Heritage site in KwaZulu-Natal. How would the landscape change as you ascend? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/04b9df8e-dce7-42c5-94cd-2386bf854048.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:23:16.73+00:00"
+  },
+  {
+    "id": "1109471179338694656",
+    "imageId": "37df7e37-ebe1-42de-8759-c9ff411ca2a3",
+    "prompt": "Describe a day spent exploring the Namaqualand, a region known for its vibrant spring wildflowers in the Northern Cape. What sights and smells would you encounter? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/37df7e37-ebe1-42de-8759-c9ff411ca2a3.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:22:22.132+00:00"
+  },
+  {
+    "id": "1109471155879936081",
+    "imageId": "af57dc15-edcd-47de-8385-881f127d94fa",
+    "prompt": "Describe a day spent exploring the Namaqualand, a region known for its vibrant spring wildflowers in the Northern Cape. What sights and smells would you encounter? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/af57dc15-edcd-47de-8385-881f127d94fa.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:22:16.539+00:00"
+  },
+  {
+    "id": "1109471124179406858",
+    "imageId": "9c49f542-5661-46e2-b06b-c61c51478cc4",
+    "prompt": "Describe a day spent exploring the Namaqualand, a region known for its vibrant spring wildflowers in the Northern Cape. What sights and smells would you encounter? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/9c49f542-5661-46e2-b06b-c61c51478cc4.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:22:08.981+00:00"
+  },
+  {
+    "id": "1109471094278205440",
+    "imageId": "93c87349-299f-410a-bbc4-b62eebcfb725",
+    "prompt": "Describe a day spent exploring the Namaqualand, a region known for its vibrant spring wildflowers in the Northern Cape. What sights and smells would you encounter? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/93c87349-299f-410a-bbc4-b62eebcfb725.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:22:01.852+00:00"
+  },
+  {
+    "id": "1109470877805969489",
+    "imageId": "b39dd5ab-9651-4ded-b2e8-ed01c2c0e19e",
+    "prompt": "Narrate a thrilling mountain biking adventure through the Swartberg Pass, a steep and winding mountain pass in the Western Cape. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b39dd5ab-9651-4ded-b2e8-ed01c2c0e19e.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:21:10.241+00:00"
+  },
+  {
+    "id": "1109470852577251359",
+    "imageId": "be74ba9b-5ebe-4fd5-8105-951b4d2ebb1e",
+    "prompt": "Narrate a thrilling mountain biking adventure through the Swartberg Pass, a steep and winding mountain pass in the Western Cape. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/be74ba9b-5ebe-4fd5-8105-951b4d2ebb1e.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:21:04.226+00:00"
+  },
+  {
+    "id": "1109470827751153714",
+    "imageId": "7d7fcc60-0220-46fa-8370-2f1fe95461bd",
+    "prompt": "Narrate a thrilling mountain biking adventure through the Swartberg Pass, a steep and winding mountain pass in the Western Cape. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/7d7fcc60-0220-46fa-8370-2f1fe95461bd.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:20:58.307+00:00"
+  },
+  {
+    "id": "1109470802585333780",
+    "imageId": "aa2503ac-a7e3-4324-80ea-c6f68822bd50",
+    "prompt": "Narrate a thrilling mountain biking adventure through the Swartberg Pass, a steep and winding mountain pass in the Western Cape. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/aa2503ac-a7e3-4324-80ea-c6f68822bd50.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:20:52.307+00:00"
+  },
+  {
+    "id": "1109470598637309954",
+    "imageId": "3fc05004-5700-4ab5-a435-ae4cb8d91133",
+    "prompt": "Write an essay about the unique flora, fauna, and geological features of the Richtersveld National Park, a unique desert landscape in the Northern Cape. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/3fc05004-5700-4ab5-a435-ae4cb8d91133.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:20:03.682+00:00"
+  },
+  {
+    "id": "1109470574692028516",
+    "imageId": "d38d1c0e-bc08-4fcc-9add-66536d0ee61a",
+    "prompt": "Write an essay about the unique flora, fauna, and geological features of the Richtersveld National Park, a unique desert landscape in the Northern Cape. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/d38d1c0e-bc08-4fcc-9add-66536d0ee61a.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:19:57.973+00:00"
+  },
+  {
+    "id": "1109470547949129809",
+    "imageId": "e91e4e22-abec-42e1-a02f-fbb746eab2e6",
+    "prompt": "Write an essay about the unique flora, fauna, and geological features of the Richtersveld National Park, a unique desert landscape in the Northern Cape. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e91e4e22-abec-42e1-a02f-fbb746eab2e6.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:19:51.597+00:00"
+  },
+  {
+    "id": "1109470519931175032",
+    "imageId": "fd7c625a-c1aa-4984-8e93-a3237bb0d2f3",
+    "prompt": "Write an essay about the unique flora, fauna, and geological features of the Richtersveld National Park, a unique desert landscape in the Northern Cape. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/fd7c625a-c1aa-4984-8e93-a3237bb0d2f3.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:19:44.917+00:00"
+  },
+  {
+    "id": "1109470290657951785",
+    "imageId": "6b161f54-9472-4ffe-941d-a4bb9bab5e00",
+    "prompt": "Imagine an archaeological expedition to the Mapungubwe National Park, a UNESCO World Heritage site in Limpopo. What ancient artifacts and historical treasures might you uncover? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6b161f54-9472-4ffe-941d-a4bb9bab5e00.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:18:50.254+00:00"
+  },
+  {
+    "id": "1109470262996500631",
+    "imageId": "32afedcd-7f59-4906-a30d-d3b514fc1148",
+    "prompt": "Imagine an archaeological expedition to the Mapungubwe National Park, a UNESCO World Heritage site in Limpopo. What ancient artifacts and historical treasures might you uncover? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/32afedcd-7f59-4906-a30d-d3b514fc1148.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:18:43.659+00:00"
+  },
+  {
+    "id": "1109470237792948285",
+    "imageId": "c73b8d9c-682c-485a-ae77-abf81db7c0e2",
+    "prompt": "Imagine an archaeological expedition to the Mapungubwe National Park, a UNESCO World Heritage site in Limpopo. What ancient artifacts and historical treasures might you uncover? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c73b8d9c-682c-485a-ae77-abf81db7c0e2.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:18:37.65+00:00"
+  },
+  {
+    "id": "1109470207535235132",
+    "imageId": "ad47ea64-ccd5-42d3-90e1-55bdcb71efdc",
+    "prompt": "Imagine an archaeological expedition to the Mapungubwe National Park, a UNESCO World Heritage site in Limpopo. What ancient artifacts and historical treasures might you uncover? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/ad47ea64-ccd5-42d3-90e1-55bdcb71efdc.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:18:30.436+00:00"
+  },
+  {
+    "id": "1109469969395224617",
+    "imageId": "a4eec0f6-b179-48fe-a72f-a8666dd80229",
+    "prompt": "Describe the ecological diversity and wildlife encounters a visitor could expect in the West Coast National Park, a coastal reserve in the Western Cape. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a4eec0f6-b179-48fe-a72f-a8666dd80229.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:17:33.659+00:00"
+  },
+  {
+    "id": "1109469945936486441",
+    "imageId": "ccc9842c-971b-4dc7-b7fc-7e34f8b68051",
+    "prompt": "Describe the ecological diversity and wildlife encounters a visitor could expect in the West Coast National Park, a coastal reserve in the Western Cape. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/ccc9842c-971b-4dc7-b7fc-7e34f8b68051.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:17:28.066+00:00"
+  },
+  {
+    "id": "1109469914726674462",
+    "imageId": "f00da916-cdc4-4565-9a76-d7f2b9e892a3",
+    "prompt": "Describe the ecological diversity and wildlife encounters a visitor could expect in the West Coast National Park, a coastal reserve in the Western Cape. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f00da916-cdc4-4565-9a76-d7f2b9e892a3.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:17:20.625+00:00"
+  },
+  {
+    "id": "1109469886578704455",
+    "imageId": "e89a6c8e-b7ea-4431-8920-824adc573b25",
+    "prompt": "Describe the ecological diversity and wildlife encounters a visitor could expect in the West Coast National Park, a coastal reserve in the Western Cape. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e89a6c8e-b7ea-4431-8920-824adc573b25.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:17:13.914+00:00"
+  },
+  {
+    "id": "1109469690771808327",
+    "imageId": "3d7ba1da-64d8-4b6b-979d-8956cb8e8fe9",
+    "prompt": "Compose a vivid description of the Oribi Gorge, a deep and narrow gorge in KwaZulu-Natal. How does it feel to stand on the edge and look down? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/3d7ba1da-64d8-4b6b-979d-8956cb8e8fe9.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:16:27.23+00:00"
+  },
+  {
+    "id": "1109469663513038959",
+    "imageId": "87f80753-e35a-46e3-aace-7201b658aa07",
+    "prompt": "Compose a vivid description of the Oribi Gorge, a deep and narrow gorge in KwaZulu-Natal. How does it feel to stand on the edge and look down? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/87f80753-e35a-46e3-aace-7201b658aa07.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:16:20.731+00:00"
+  },
+  {
+    "id": "1109469637055348817",
+    "imageId": "f6e7933c-aa1c-4f58-aba5-5ba04c35cca9",
+    "prompt": "Compose a vivid description of the Oribi Gorge, a deep and narrow gorge in KwaZulu-Natal. How does it feel to stand on the edge and look down? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f6e7933c-aa1c-4f58-aba5-5ba04c35cca9.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:16:14.423+00:00"
+  },
+  {
+    "id": "1109469613760200808",
+    "imageId": "a45c917b-c47d-4d5b-a8b6-2c5ceda4f8fe",
+    "prompt": "Compose a vivid description of the Oribi Gorge, a deep and narrow gorge in KwaZulu-Natal. How does it feel to stand on the edge and look down? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a45c917b-c47d-4d5b-a8b6-2c5ceda4f8fe.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:16:08.869+00:00"
+  },
+  {
+    "id": "1109469394486177923",
+    "imageId": "ca4c3069-7cb5-4948-9535-773122369e8d",
+    "prompt": "Write a travel diary entry about visiting the Kgalagadi Transfrontier Park, a cross-border park between South Africa and Botswana. What kind of experiences would you have? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/ca4c3069-7cb5-4948-9535-773122369e8d.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:15:16.59+00:00"
+  },
+  {
+    "id": "1109469365268652122",
+    "imageId": "cbce76dc-13cd-4208-a48a-ee9a8c2324b1",
+    "prompt": "Write a travel diary entry about visiting the Kgalagadi Transfrontier Park, a cross-border park between South Africa and Botswana. What kind of experiences would you have? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/cbce76dc-13cd-4208-a48a-ee9a8c2324b1.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:15:09.624+00:00"
+  },
+  {
+    "id": "1109469337976324256",
+    "imageId": "74a305f6-4a45-4c6e-97ec-f7e8a4f8887f",
+    "prompt": "Write a travel diary entry about visiting the Kgalagadi Transfrontier Park, a cross-border park between South Africa and Botswana. What kind of experiences would you have? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/74a305f6-4a45-4c6e-97ec-f7e8a4f8887f.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:15:03.117+00:00"
+  },
+  {
+    "id": "1109469310834983054",
+    "imageId": "6a1e61db-e10b-4c4e-bdfb-6057168bd97b",
+    "prompt": "Write a travel diary entry about visiting the Kgalagadi Transfrontier Park, a cross-border park between South Africa and Botswana. What kind of experiences would you have? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6a1e61db-e10b-4c4e-bdfb-6057168bd97b.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:14:56.646+00:00"
+  },
+  {
+    "id": "1109469118358355978",
+    "imageId": "1b6d2868-80df-45e1-be1a-50fe9a378250",
+    "prompt": "Narrate a story about a rafting adventure on the Orange River, which runs through several provinces and forms part of the border with Namibia. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1b6d2868-80df-45e1-be1a-50fe9a378250.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:14:10.756+00:00"
+  },
+  {
+    "id": "1109469091749691403",
+    "imageId": "d1d72181-3f41-499a-976d-92fbfc37a7cb",
+    "prompt": "Narrate a story about a rafting adventure on the Orange River, which runs through several provinces and forms part of the border with Namibia. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/d1d72181-3f41-499a-976d-92fbfc37a7cb.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:14:04.412+00:00"
+  },
+  {
+    "id": "1109469067984773181",
+    "imageId": "01e87970-2b73-494b-93c7-e0c47d4cf3cd",
+    "prompt": "Narrate a story about a rafting adventure on the Orange River, which runs through several provinces and forms part of the border with Namibia. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/01e87970-2b73-494b-93c7-e0c47d4cf3cd.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:13:58.746+00:00"
+  },
+  {
+    "id": "1109469038880493659",
+    "imageId": "e36b905d-0a3c-4bc4-bc14-34f6b5857553",
+    "prompt": "Narrate a story about a rafting adventure on the Orange River, which runs through several provinces and forms part of the border with Namibia. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e36b905d-0a3c-4bc4-bc14-34f6b5857553.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:13:51.807+00:00"
+  },
+  {
+    "id": "1109468841546895440",
+    "imageId": "6c01a4f6-d473-44de-b02c-9c0aac003c59",
+    "prompt": "Imagine an expedition to the Augrabies Flat-Topped Mountain, a unique mountain formation in the Northern Cape. What kind of wildlife and natural phenomena might you encounter? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6c01a4f6-d473-44de-b02c-9c0aac003c59.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:13:04.759+00:00"
+  },
+  {
+    "id": "1109468820013326396",
+    "imageId": "bf6e26f6-c1bf-4bcc-ab0d-07cd67d0b472",
+    "prompt": "Imagine an expedition to the Augrabies Flat-Topped Mountain, a unique mountain formation in the Northern Cape. What kind of wildlife and natural phenomena might you encounter? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/bf6e26f6-c1bf-4bcc-ab0d-07cd67d0b472.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:12:59.625+00:00"
+  },
+  {
+    "id": "1109468792154750976",
+    "imageId": "f792436e-1559-4680-9954-82d83462243c",
+    "prompt": "Imagine an expedition to the Augrabies Flat-Topped Mountain, a unique mountain formation in the Northern Cape. What kind of wildlife and natural phenomena might you encounter? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f792436e-1559-4680-9954-82d83462243c.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:12:52.983+00:00"
+  },
+  {
+    "id": "1109468767685197874",
+    "imageId": "d44e2fa7-dacb-4639-9943-7bafee40945e",
+    "prompt": "Imagine an expedition to the Augrabies Flat-Topped Mountain, a unique mountain formation in the Northern Cape. What kind of wildlife and natural phenomena might you encounter? --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/d44e2fa7-dacb-4639-9943-7bafee40945e.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:12:47.149+00:00"
+  },
+  {
+    "id": "1109468558615904357",
+    "imageId": "f9a897a7-4651-4646-9158-769f8b33a882",
+    "prompt": "Describe the thrilling journey through the Sani Pass, a scenic mountain pass between South Africa and Lesotho, and the cultural encounters you might have on the way. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f9a897a7-4651-4646-9158-769f8b33a882.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:11:57.303+00:00"
+  },
+  {
+    "id": "1109468534670622781",
+    "imageId": "709665bd-a91a-41db-baa9-59ab0031ef60",
+    "prompt": "Describe the thrilling journey through the Sani Pass, a scenic mountain pass between South Africa and Lesotho, and the cultural encounters you might have on the way. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/709665bd-a91a-41db-baa9-59ab0031ef60.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:11:51.594+00:00"
+  },
+  {
+    "id": "1109468510926676032",
+    "imageId": "b92d9200-63d4-4cc8-9ceb-81f0e55ad203",
+    "prompt": "Describe the thrilling journey through the Sani Pass, a scenic mountain pass between South Africa and Lesotho, and the cultural encounters you might have on the way. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b92d9200-63d4-4cc8-9ceb-81f0e55ad203.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:11:45.933+00:00"
+  },
+  {
+    "id": "1109468481012912278",
+    "imageId": "0e79b898-b838-4d7b-8328-4d0f9908c8db",
+    "prompt": "Describe the thrilling journey through the Sani Pass, a scenic mountain pass between South Africa and Lesotho, and the cultural encounters you might have on the way. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0e79b898-b838-4d7b-8328-4d0f9908c8db.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:11:38.801+00:00"
+  },
+  {
+    "id": "1109468248455532575",
+    "imageId": "a27d19ce-d5d4-431f-8cd1-0c2e8f8a3353",
+    "prompt": "A portrait of a helmeted guineafowl, its unique features enhanced by the artist's style. The backdrop, painted in bold colors and geometric shapes, complements the bird's form and adds to the overall visual impact. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a27d19ce-d5d4-431f-8cd1-0c2e8f8a3353.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:10:43.355+00:00"
+  },
+  {
+    "id": "1109468219812618410",
+    "imageId": "91856c63-76b8-40e4-80f6-c553706dd546",
+    "prompt": "A portrait of a helmeted guineafowl, its unique features enhanced by the artist's style. The backdrop, painted in bold colors and geometric shapes, complements the bird's form and adds to the overall visual impact. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/91856c63-76b8-40e4-80f6-c553706dd546.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:10:36.526+00:00"
+  },
+  {
+    "id": "1109468186539204628",
+    "imageId": "50c0e4d0-907a-4ea7-8124-97ffb9d9cd92",
+    "prompt": "A portrait of a helmeted guineafowl, its unique features enhanced by the artist's style. The backdrop, painted in bold colors and geometric shapes, complements the bird's form and adds to the overall visual impact. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/50c0e4d0-907a-4ea7-8124-97ffb9d9cd92.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:10:28.593+00:00"
+  },
+  {
+    "id": "1109468159058116629",
+    "imageId": "80c70e9a-f87e-4fd9-97ec-5b038f0abf10",
+    "prompt": "A portrait of a helmeted guineafowl, its unique features enhanced by the artist's style. The backdrop, painted in bold colors and geometric shapes, complements the bird's form and adds to the overall visual impact. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/80c70e9a-f87e-4fd9-97ec-5b038f0abf10.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:10:22.041+00:00"
+  },
+  {
+    "id": "1109467946159439882",
+    "imageId": "1ca8dd66-5e2d-4b01-bd64-c49e1acba991",
+    "prompt": "A depiction of a group of African wildcats, the tension in their lithe bodies clearly portrayed. The setting is their natural habitat, a tapestry of elements that tell the story of their survival. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1ca8dd66-5e2d-4b01-bd64-c49e1acba991.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:09:31.282+00:00"
+  },
+  {
+    "id": "1109467914140135424",
+    "imageId": "4c7dec37-d439-4506-9d6e-5ed9b120075a",
+    "prompt": "A depiction of a group of African wildcats, the tension in their lithe bodies clearly portrayed. The setting is their natural habitat, a tapestry of elements that tell the story of their survival. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4c7dec37-d439-4506-9d6e-5ed9b120075a.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:09:23.648+00:00"
+  },
+  {
+    "id": "1109467890912067625",
+    "imageId": "427ad93b-73c3-4c33-b0b6-9f413b34c385",
+    "prompt": "A depiction of a group of African wildcats, the tension in their lithe bodies clearly portrayed. The setting is their natural habitat, a tapestry of elements that tell the story of their survival. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/427ad93b-73c3-4c33-b0b6-9f413b34c385.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:09:18.11+00:00"
+  },
+  {
+    "id": "1109467865918230630",
+    "imageId": "64ddb496-39cf-4315-b377-43ad03c2a87f",
+    "prompt": "A depiction of a group of African wildcats, the tension in their lithe bodies clearly portrayed. The setting is their natural habitat, a tapestry of elements that tell the story of their survival. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/64ddb496-39cf-4315-b377-43ad03c2a87f.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:09:12.151+00:00"
+  },
+  {
+    "id": "1109467662167314524",
+    "imageId": "b73d3716-5bbd-4cf6-a3fc-19d75bebab2a",
+    "prompt": "A portrait of a honeybee, magnified to reveal its details and vibrant colors. The backdrop is a burst of flowers in various stages of bloom, showcasing the bee's vital role as a pollinator. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b73d3716-5bbd-4cf6-a3fc-19d75bebab2a.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:08:23.573+00:00"
+  },
+  {
+    "id": "1109467635441217566",
+    "imageId": "dfe24f77-8048-40c8-bf86-2cceccaf1fae",
+    "prompt": "A portrait of a honeybee, magnified to reveal its details and vibrant colors. The backdrop is a burst of flowers in various stages of bloom, showcasing the bee's vital role as a pollinator. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/dfe24f77-8048-40c8-bf86-2cceccaf1fae.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:08:17.201+00:00"
+  },
+  {
+    "id": "1109467608765448274",
+    "imageId": "b2ce4d9b-327d-4d44-90e8-f293ef1ee1f1",
+    "prompt": "A portrait of a honeybee, magnified to reveal its details and vibrant colors. The backdrop is a burst of flowers in various stages of bloom, showcasing the bee's vital role as a pollinator. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b2ce4d9b-327d-4d44-90e8-f293ef1ee1f1.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:08:10.841+00:00"
+  },
+  {
+    "id": "1109467584048398416",
+    "imageId": "62950dbb-b481-454c-88f4-7dce1a957480",
+    "prompt": "A portrait of a honeybee, magnified to reveal its details and vibrant colors. The backdrop is a burst of flowers in various stages of bloom, showcasing the bee's vital role as a pollinator. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/62950dbb-b481-454c-88f4-7dce1a957480.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:08:04.948+00:00"
+  },
+  {
+    "id": "1109467381635489802",
+    "imageId": "f2c3bdd8-4759-42ae-b828-d603bbf48d2d",
+    "prompt": "A depiction of a group of wildebeest, their annual migration painted as a spectacle of endurance and will. The savannah, rendered in vivid colors and intricate details, adds to the grandeur of the scene. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f2c3bdd8-4759-42ae-b828-d603bbf48d2d.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:07:16.689+00:00"
+  },
+  {
+    "id": "1109467358130602014",
+    "imageId": "893954db-76d0-4b1b-b376-967b024b5752",
+    "prompt": "A depiction of a group of wildebeest, their annual migration painted as a spectacle of endurance and will. The savannah, rendered in vivid colors and intricate details, adds to the grandeur of the scene. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/893954db-76d0-4b1b-b376-967b024b5752.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:07:11.085+00:00"
+  },
+  {
+    "id": "1109467334382465205",
+    "imageId": "a8e98dd5-0bec-45e3-819f-4befb96ed20a",
+    "prompt": "A depiction of a group of wildebeest, their annual migration painted as a spectacle of endurance and will. The savannah, rendered in vivid colors and intricate details, adds to the grandeur of the scene. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a8e98dd5-0bec-45e3-819f-4befb96ed20a.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:07:05.423+00:00"
+  },
+  {
+    "id": "1109467310315548682",
+    "imageId": "aafac550-358e-4896-8e4d-64997cd0cf1a",
+    "prompt": "A depiction of a group of wildebeest, their annual migration painted as a spectacle of endurance and will. The savannah, rendered in vivid colors and intricate details, adds to the grandeur of the scene. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/aafac550-358e-4896-8e4d-64997cd0cf1a.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:06:59.685+00:00"
+  },
+  {
+    "id": "1109467078806741052",
+    "imageId": "9e802ee9-d098-4ecc-bd39-9092e6e9ddb9",
+    "prompt": "A portrait of a Cape cobra, a venomous snake found in various habitats, its form and coloration perfectly rendered. The environment around it is as striking as the creature itself, and the combination leaves an indelible impression. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/9e802ee9-d098-4ecc-bd39-9092e6e9ddb9.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:06:04.489+00:00"
+  },
+  {
+    "id": "1109467053921927240",
+    "imageId": "dfb14f6c-1b67-437d-b365-845065d70663",
+    "prompt": "A portrait of a Cape cobra, a venomous snake found in various habitats, its form and coloration perfectly rendered. The environment around it is as striking as the creature itself, and the combination leaves an indelible impression. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/dfb14f6c-1b67-437d-b365-845065d70663.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:05:58.556+00:00"
+  },
+  {
+    "id": "1109467030836498462",
+    "imageId": "d8056869-136f-4a7b-b1c9-1ada308c9beb",
+    "prompt": "A portrait of a Cape cobra, a venomous snake found in various habitats, its form and coloration perfectly rendered. The environment around it is as striking as the creature itself, and the combination leaves an indelible impression. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/d8056869-136f-4a7b-b1c9-1ada308c9beb.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:05:53.052+00:00"
+  },
+  {
+    "id": "1109467005809074216",
+    "imageId": "8c69d57f-349a-48c9-9120-8bb65b092c6c",
+    "prompt": "A portrait of a Cape cobra, a venomous snake found in various habitats, its form and coloration perfectly rendered. The environment around it is as striking as the creature itself, and the combination leaves an indelible impression. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/8c69d57f-349a-48c9-9120-8bb65b092c6c.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:05:47.085+00:00"
+  },
+  {
+    "id": "1109466796194545734",
+    "imageId": "5a8ab585-edc1-4e23-9e26-7226180eab54",
+    "prompt": "A depiction of a family of guinea fowl, their features detailed and striking against the grassy landscape. The family dynamics, caught in this single moment, invite the viewer to delve into their world. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/5a8ab585-edc1-4e23-9e26-7226180eab54.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:04:57.109+00:00"
+  },
+  {
+    "id": "1109466766960238652",
+    "imageId": "9307b783-8812-4cdb-9b0c-9bdb82334cdf",
+    "prompt": "A depiction of a family of guinea fowl, their features detailed and striking against the grassy landscape. The family dynamics, caught in this single moment, invite the viewer to delve into their world. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/9307b783-8812-4cdb-9b0c-9bdb82334cdf.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:04:50.139+00:00"
+  },
+  {
+    "id": "1109466738854215762",
+    "imageId": "f1227f27-7b34-4934-9ed8-396b7267bbc7",
+    "prompt": "A depiction of a family of guinea fowl, their features detailed and striking against the grassy landscape. The family dynamics, caught in this single moment, invite the viewer to delve into their world. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f1227f27-7b34-4934-9ed8-396b7267bbc7.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:04:43.438+00:00"
+  },
+  {
+    "id": "1109466713709346876",
+    "imageId": "23438f27-d375-4e69-bdce-7b5a102b4835",
+    "prompt": "A depiction of a family of guinea fowl, their features detailed and striking against the grassy landscape. The family dynamics, caught in this single moment, invite the viewer to delve into their world. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/23438f27-d375-4e69-bdce-7b5a102b4835.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:04:37.443+00:00"
+  },
+  {
+    "id": "1109466475686797385",
+    "imageId": "369e12b7-6d92-4a21-b1a5-0c4bd1e48f09",
+    "prompt": "A portrait of a pangolin, its scales reflecting the lights and shadows of its surrounding. The backdrop showcases the diversity of its habitat, adding depth and intrigue to the viewer. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/369e12b7-6d92-4a21-b1a5-0c4bd1e48f09.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:03:40.694+00:00"
+  },
+  {
+    "id": "1109466451976392786",
+    "imageId": "6ee7391d-bb09-4eba-b16f-b4744e86323f",
+    "prompt": "A portrait of a pangolin, its scales reflecting the lights and shadows of its surrounding. The backdrop showcases the diversity of its habitat, adding depth and intrigue to the viewer. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6ee7391d-bb09-4eba-b16f-b4744e86323f.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:03:35.041+00:00"
+  },
+  {
+    "id": "1109466425996882032",
+    "imageId": "cd1ae757-4407-4700-8960-37e478eb1cfb",
+    "prompt": "A portrait of a pangolin, its scales reflecting the lights and shadows of its surrounding. The backdrop showcases the diversity of its habitat, adding depth and intrigue to the viewer. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/cd1ae757-4407-4700-8960-37e478eb1cfb.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:03:28.847+00:00"
+  },
+  {
+    "id": "1109466397362364469",
+    "imageId": "308d3dfb-98f6-4b43-a012-7e892150d847",
+    "prompt": "A portrait of a pangolin, its scales reflecting the lights and shadows of its surrounding. The backdrop showcases the diversity of its habitat, adding depth and intrigue to the viewer. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/308d3dfb-98f6-4b43-a012-7e892150d847.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:03:22.02+00:00"
+  },
+  {
+    "id": "1109466190243438643",
+    "imageId": "54d170ea-ae9f-4be5-9a75-e44bb607f5a5",
+    "prompt": "A depiction of a group of ostriches, each with their unique expressions. They roam the savannah, their home painted with bold, geometric shapes and colors, demonstrating the dynamic of their life in the wild. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/54d170ea-ae9f-4be5-9a75-e44bb607f5a5.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:02:32.639+00:00"
+  },
+  {
+    "id": "1109466164712701962",
+    "imageId": "5c158c38-5d60-475a-bc4b-a6fe7bbc748c",
+    "prompt": "A depiction of a group of ostriches, each with their unique expressions. They roam the savannah, their home painted with bold, geometric shapes and colors, demonstrating the dynamic of their life in the wild. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/5c158c38-5d60-475a-bc4b-a6fe7bbc748c.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:02:26.552+00:00"
+  },
+  {
+    "id": "1109466140201189396",
+    "imageId": "2e08d931-c182-4d16-920e-ad8d2bc6cfd7",
+    "prompt": "A depiction of a group of ostriches, each with their unique expressions. They roam the savannah, their home painted with bold, geometric shapes and colors, demonstrating the dynamic of their life in the wild. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2e08d931-c182-4d16-920e-ad8d2bc6cfd7.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:02:20.708+00:00"
+  },
+  {
+    "id": "1109466111533137950",
+    "imageId": "dda2ca43-05a2-4323-b6ad-b91dd751cdae",
+    "prompt": "A depiction of a group of ostriches, each with their unique expressions. They roam the savannah, their home painted with bold, geometric shapes and colors, demonstrating the dynamic of their life in the wild. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/dda2ca43-05a2-4323-b6ad-b91dd751cdae.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:02:13.873+00:00"
+  },
+  {
+    "id": "1109465872935956552",
+    "imageId": "c1d544fd-e988-46ed-9872-5e412b4da52d",
+    "prompt": "A portrait of a bushbaby, its eyes gleaming in the nocturnal landscape. The setting around it, a detailed image of its natural habitat, captivates one's attention and piques curiosity about its lifestyle. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c1d544fd-e988-46ed-9872-5e412b4da52d.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:01:16.987+00:00"
+  },
+  {
+    "id": "1109465846797062246",
+    "imageId": "f4697fc5-6666-4561-9917-4dac8a33ca45",
+    "prompt": "A portrait of a bushbaby, its eyes gleaming in the nocturnal landscape. The setting around it, a detailed image of its natural habitat, captivates one's attention and piques curiosity about its lifestyle. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f4697fc5-6666-4561-9917-4dac8a33ca45.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:01:10.755+00:00"
+  },
+  {
+    "id": "1109465818456137798",
+    "imageId": "948fef36-d5da-4c70-a069-599ffe8b8f44",
+    "prompt": "A portrait of a bushbaby, its eyes gleaming in the nocturnal landscape. The setting around it, a detailed image of its natural habitat, captivates one's attention and piques curiosity about its lifestyle. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/948fef36-d5da-4c70-a069-599ffe8b8f44.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:01:03.998+00:00"
+  },
+  {
+    "id": "1109465792711491584",
+    "imageId": "e2c1564a-528c-44ca-b61b-d4f72c2565d7",
+    "prompt": "A portrait of a bushbaby, its eyes gleaming in the nocturnal landscape. The setting around it, a detailed image of its natural habitat, captivates one's attention and piques curiosity about its lifestyle. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e2c1564a-528c-44ca-b61b-d4f72c2565d7.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:00:57.86+00:00"
+  },
+  {
+    "id": "1109465572393099365",
+    "imageId": "7f5351ef-44ef-4578-b3ec-b6185f3f7eca",
+    "prompt": "A depiction of a group of meadow voles, small mammals found in grassy habitats, immersed in an intricate play of survival. The meadow, painted in vibrant colors, is their arena and their home. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/7f5351ef-44ef-4578-b3ec-b6185f3f7eca.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T13:00:05.332+00:00"
+  },
+  {
+    "id": "1109465541070032957",
+    "imageId": "6e9039bb-5783-414a-9669-49c5a5bae2ee",
+    "prompt": "A depiction of a group of meadow voles, small mammals found in grassy habitats, immersed in an intricate play of survival. The meadow, painted in vibrant colors, is their arena and their home. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6e9039bb-5783-414a-9669-49c5a5bae2ee.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:59:57.864+00:00"
+  },
+  {
+    "id": "1109465517422542928",
+    "imageId": "f6031d68-2d88-4efe-b102-cb496a48741d",
+    "prompt": "A depiction of a group of meadow voles, small mammals found in grassy habitats, immersed in an intricate play of survival. The meadow, painted in vibrant colors, is their arena and their home. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f6031d68-2d88-4efe-b102-cb496a48741d.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:59:52.226+00:00"
+  },
+  {
+    "id": "1109465486485360723",
+    "imageId": "97741416-d9ba-4683-9cbd-943f0d5cd564",
+    "prompt": "A depiction of a group of meadow voles, small mammals found in grassy habitats, immersed in an intricate play of survival. The meadow, painted in vibrant colors, is their arena and their home. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/97741416-d9ba-4683-9cbd-943f0d5cd564.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:59:44.85+00:00"
+  },
+  {
+    "id": "1109460566289948816",
+    "imageId": "2959e62b-615d-4ac9-b7d6-b45a33211960",
+    "prompt": "A detailed, atmospheric portrait of a massive hippopotamus, its skin glistening under the African sun. This large, semi-aquatic mammal is portrayed as it emerges from the depths of a river in South Africa, surrounded by lush wetlands, the art in a realistic hyper-detailed style drawing attention to its enormous size and captivating presence. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2959e62b-615d-4ac9-b7d6-b45a33211960.png",
+    "category": "Animals",
+    "timeStamp": "2023-05-20T12:40:11.784+00:00"
+  },
+  {
+    "id": "1109460543389053059",
+    "imageId": "afa2ce32-ea9c-4fae-9748-5640e2b8ad58",
+    "prompt": "A detailed, atmospheric portrait of a massive hippopotamus, its skin glistening under the African sun. This large, semi-aquatic mammal is portrayed as it emerges from the depths of a river in South Africa, surrounded by lush wetlands, the art in a realistic hyper-detailed style drawing attention to its enormous size and captivating presence. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/afa2ce32-ea9c-4fae-9748-5640e2b8ad58.png",
+    "category": "Animals",
+    "timeStamp": "2023-05-20T12:40:06.324+00:00"
+  },
+  {
+    "id": "1109460520068710444",
+    "imageId": "bb5387e5-2061-4d15-9f18-c178711b3753",
+    "prompt": "A detailed, atmospheric portrait of a massive hippopotamus, its skin glistening under the African sun. This large, semi-aquatic mammal is portrayed as it emerges from the depths of a river in South Africa, surrounded by lush wetlands, the art in a realistic hyper-detailed style drawing attention to its enormous size and captivating presence. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/bb5387e5-2061-4d15-9f18-c178711b3753.png",
+    "category": "Animals",
+    "timeStamp": "2023-05-20T12:40:00.764+00:00"
+  },
+  {
+    "id": "1109460491228696677",
+    "imageId": "c56bb1bb-32d5-426e-b6dd-66c9a75547f0",
+    "prompt": "A detailed, atmospheric portrait of a massive hippopotamus, its skin glistening under the African sun. This large, semi-aquatic mammal is portrayed as it emerges from the depths of a river in South Africa, surrounded by lush wetlands, the art in a realistic hyper-detailed style drawing attention to its enormous size and captivating presence. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c56bb1bb-32d5-426e-b6dd-66c9a75547f0.png",
+    "category": "Animals",
+    "timeStamp": "2023-05-20T12:39:53.888+00:00"
+  },
+  {
+    "id": "1109460284034252881",
+    "imageId": "0cb01d94-9597-4b05-a9dd-3f4497aad307",
+    "prompt": "A charming illustration, using light cyan and dark amber colors, of a close-knit family of meerkats. The scene takes place in their native Kalahari desert, with the stunning backdrop of a sunset in the golden light, portraying their vigilant nature as they keep a lookout for potential threats. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0cb01d94-9597-4b05-a9dd-3f4497aad307.png",
+    "category": "Animals",
+    "timeStamp": "2023-05-20T12:39:04.489+00:00"
+  },
+  {
+    "id": "1109460260709732462",
+    "imageId": "b0f67550-3658-4a64-907f-ba3da6958269",
+    "prompt": "A charming illustration, using light cyan and dark amber colors, of a close-knit family of meerkats. The scene takes place in their native Kalahari desert, with the stunning backdrop of a sunset in the golden light, portraying their vigilant nature as they keep a lookout for potential threats. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b0f67550-3658-4a64-907f-ba3da6958269.png",
+    "category": "Animals",
+    "timeStamp": "2023-05-20T12:38:58.928+00:00"
+  },
+  {
+    "id": "1109460235925586001",
+    "imageId": "bdbb9e07-d9d9-46ae-b69f-753c18a79873",
+    "prompt": "A charming illustration, using light cyan and dark amber colors, of a close-knit family of meerkats. The scene takes place in their native Kalahari desert, with the stunning backdrop of a sunset in the golden light, portraying their vigilant nature as they keep a lookout for potential threats. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/bdbb9e07-d9d9-46ae-b69f-753c18a79873.png",
+    "category": "Animals",
+    "timeStamp": "2023-05-20T12:38:53.019+00:00"
+  },
+  {
+    "id": "1109460208155115520",
+    "imageId": "df9d2886-1c28-4a00-900c-1516d639e273",
+    "prompt": "A charming illustration, using light cyan and dark amber colors, of a close-knit family of meerkats. The scene takes place in their native Kalahari desert, with the stunning backdrop of a sunset in the golden light, portraying their vigilant nature as they keep a lookout for potential threats. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/df9d2886-1c28-4a00-900c-1516d639e273.png",
+    "category": "Animals",
+    "timeStamp": "2023-05-20T12:38:46.398+00:00"
+  },
+  {
+    "id": "1109460005066903602",
+    "imageId": "2f400c4e-8f14-461f-b877-a8f86d20cdfa",
+    "prompt": "A depiction of a street artist in Johannesburg creating vibrant murals on city walls, with buildings behind him designed in atompunk style. The artist, adorned with headphones, is immersed in his work. The Benin art influence is apparent in the mural, and the scene is illuminated by the contrasting colors of light teal and dark gold. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2f400c4e-8f14-461f-b877-a8f86d20cdfa.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:37:57.978+00:00"
+  },
+  {
+    "id": "1109459922074206268",
+    "imageId": "deee1671-cfca-4dd8-8020-11ff9aa36425",
+    "prompt": "A depiction of a street artist in Johannesburg creating vibrant murals on city walls, with buildings behind him designed in atompunk style. The artist, adorned with headphones, is immersed in his work. The Benin art influence is apparent in the mural, and the scene is illuminated by the contrasting colors of light teal and dark gold. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/deee1671-cfca-4dd8-8020-11ff9aa36425.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:37:38.191+00:00"
+  },
+  {
+    "id": "1109459898380591207",
+    "imageId": "1fd612d1-3462-4cba-862e-df9cafe6aaa7",
+    "prompt": "A depiction of a street artist in Johannesburg creating vibrant murals on city walls, with buildings behind him designed in atompunk style. The artist, adorned with headphones, is immersed in his work. The Benin art influence is apparent in the mural, and the scene is illuminated by the contrasting colors of light teal and dark gold. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1fd612d1-3462-4cba-862e-df9cafe6aaa7.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:37:32.542+00:00"
+  },
+  {
+    "id": "1109459872669499502",
+    "imageId": "91b17879-b9dd-4c5d-aa4e-753e676e50d1",
+    "prompt": "A depiction of a street artist in Johannesburg creating vibrant murals on city walls, with buildings behind him designed in atompunk style. The artist, adorned with headphones, is immersed in his work. The Benin art influence is apparent in the mural, and the scene is illuminated by the contrasting colors of light teal and dark gold. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/91b17879-b9dd-4c5d-aa4e-753e676e50d1.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:37:26.412+00:00"
+  },
+  {
+    "id": "1109459678682939413",
+    "imageId": "36ee398f-adb6-4eae-8c53-1f2f631f90f7",
+    "prompt": "A Sotho man dressed in traditional blanket and hat, captured in a whimsical cartoon-style. The charming illustration is detailed with the background of a futuristic city, a touch of solarpunk hinting at an eco-conscious world. The color palette is dark turquoise and beige, lending a modern appeal to the traditional dress. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/36ee398f-adb6-4eae-8c53-1f2f631f90f7.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:36:40.162+00:00"
+  },
+  {
+    "id": "1109459653202550825",
+    "imageId": "5d569c1e-686f-48c1-a937-4fcee85db8cb",
+    "prompt": "A Sotho man dressed in traditional blanket and hat, captured in a whimsical cartoon-style. The charming illustration is detailed with the background of a futuristic city, a touch of solarpunk hinting at an eco-conscious world. The color palette is dark turquoise and beige, lending a modern appeal to the traditional dress. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/5d569c1e-686f-48c1-a937-4fcee85db8cb.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:36:34.087+00:00"
+  },
+  {
+    "id": "1109459628338720930",
+    "imageId": "b51d4b5d-a13b-4bc2-95ff-87e750d9f102",
+    "prompt": "A Sotho man dressed in traditional blanket and hat, captured in a whimsical cartoon-style. The charming illustration is detailed with the background of a futuristic city, a touch of solarpunk hinting at an eco-conscious world. The color palette is dark turquoise and beige, lending a modern appeal to the traditional dress. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b51d4b5d-a13b-4bc2-95ff-87e750d9f102.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:36:28.159+00:00"
+  },
+  {
+    "id": "1109459602036232243",
+    "imageId": "27960cb6-9946-49f2-9f96-d000154d1cde",
+    "prompt": "A Sotho man dressed in traditional blanket and hat, captured in a whimsical cartoon-style. The charming illustration is detailed with the background of a futuristic city, a touch of solarpunk hinting at an eco-conscious world. The color palette is dark turquoise and beige, lending a modern appeal to the traditional dress. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/27960cb6-9946-49f2-9f96-d000154d1cde.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:36:21.888+00:00"
+  },
+  {
+    "id": "1109459408322302078",
+    "imageId": "1519277d-3ac7-44bf-abb0-cb429c7dd892",
+    "prompt": "A detailed atmospheric portrait of a farm worker in the Western Cape, highlighting the struggles of the rural poor. This drawing is heavily inspired by the Art of the Ivory Coast, with the darkly romantic illustrations enhancing the portrayal of his challenging life. Done in a pencil steampunk style, the picture presents a mix of the rustic and the mechanized forms. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1519277d-3ac7-44bf-abb0-cb429c7dd892.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:35:35.703+00:00"
+  },
+  {
+    "id": "1109459378190422066",
+    "imageId": "98845af1-4f58-450e-8c88-b1ef4c495afd",
+    "prompt": "A detailed atmospheric portrait of a farm worker in the Western Cape, highlighting the struggles of the rural poor. This drawing is heavily inspired by the Art of the Ivory Coast, with the darkly romantic illustrations enhancing the portrayal of his challenging life. Done in a pencil steampunk style, the picture presents a mix of the rustic and the mechanized forms. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/98845af1-4f58-450e-8c88-b1ef4c495afd.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:35:28.519+00:00"
+  },
+  {
+    "id": "1109459355352444928",
+    "imageId": "e90dc183-3579-436a-a4ee-5aa404ce245e",
+    "prompt": "A detailed atmospheric portrait of a farm worker in the Western Cape, highlighting the struggles of the rural poor. This drawing is heavily inspired by the Art of the Ivory Coast, with the darkly romantic illustrations enhancing the portrayal of his challenging life. Done in a pencil steampunk style, the picture presents a mix of the rustic and the mechanized forms. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e90dc183-3579-436a-a4ee-5aa404ce245e.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:35:23.074+00:00"
+  },
+  {
+    "id": "1109459328349519944",
+    "imageId": "de386bf5-4a65-4a26-8ee7-49ebf2682124",
+    "prompt": "A detailed atmospheric portrait of a farm worker in the Western Cape, highlighting the struggles of the rural poor. This drawing is heavily inspired by the Art of the Ivory Coast, with the darkly romantic illustrations enhancing the portrayal of his challenging life. Done in a pencil steampunk style, the picture presents a mix of the rustic and the mechanized forms. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/de386bf5-4a65-4a26-8ee7-49ebf2682124.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:35:16.636+00:00"
+  },
+  {
+    "id": "1109459089966239804",
+    "imageId": "949ce843-c37a-4e7f-acbe-912684c14a56",
+    "prompt": "In the style of Artgerm, a realistic hyper-detailed portrait of a traditional Ndebele woman. Her distinct beaded jewelry sparkles in the golden light of an African sunset, and the colorful patterns on her painted house reflect the African influence. The setting is depicted in 32K UHD, with an element of monochrome toning to highlight the subject's features. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/949ce843-c37a-4e7f-acbe-912684c14a56.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:34:19.801+00:00"
+  },
+  {
+    "id": "1109459064653627452",
+    "imageId": "66ae2f4f-2070-43f2-a1bc-38ffdd9dfe6e",
+    "prompt": "In the style of Artgerm, a realistic hyper-detailed portrait of a traditional Ndebele woman. Her distinct beaded jewelry sparkles in the golden light of an African sunset, and the colorful patterns on her painted house reflect the African influence. The setting is depicted in 32K UHD, with an element of monochrome toning to highlight the subject's features. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/66ae2f4f-2070-43f2-a1bc-38ffdd9dfe6e.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:34:13.766+00:00"
+  },
+  {
+    "id": "1109459040649621524",
+    "imageId": "2c69d4a3-b20a-4f77-a9ab-07f4a1a0ae79",
+    "prompt": "In the style of Artgerm, a realistic hyper-detailed portrait of a traditional Ndebele woman. Her distinct beaded jewelry sparkles in the golden light of an African sunset, and the colorful patterns on her painted house reflect the African influence. The setting is depicted in 32K UHD, with an element of monochrome toning to highlight the subject's features. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2c69d4a3-b20a-4f77-a9ab-07f4a1a0ae79.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:34:08.043+00:00"
+  },
+  {
+    "id": "1109459015433457675",
+    "imageId": "9b307e01-af10-4919-a621-891d89549e93",
+    "prompt": "In the style of Artgerm, a realistic hyper-detailed portrait of a traditional Ndebele woman. Her distinct beaded jewelry sparkles in the golden light of an African sunset, and the colorful patterns on her painted house reflect the African influence. The setting is depicted in 32K UHD, with an element of monochrome toning to highlight the subject's features. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/9b307e01-af10-4919-a621-891d89549e93.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:34:02.031+00:00"
+  },
+  {
+    "id": "1109458774651052162",
+    "imageId": "fd1601ff-942c-44c9-84c1-7244bc971bfc",
+    "prompt": "Detailed illustration of a group of children playing soccer in a township outside of Cape Town, capturing the spirit of the game with the backdrop of Afrofuturism. Buildings show art nouveau organic flowing lines, as children move in fluid unison. This scene is rendered in light cyan and dark amber, in a cartoon style that gives a charm to the whole image. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/fd1601ff-942c-44c9-84c1-7244bc971bfc.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:33:04.624+00:00"
+  },
+  {
+    "id": "1109458751083270245",
+    "imageId": "ee9566d0-afbb-452d-921f-356707b0a749",
+    "prompt": "Detailed illustration of a group of children playing soccer in a township outside of Cape Town, capturing the spirit of the game with the backdrop of Afrofuturism. Buildings show art nouveau organic flowing lines, as children move in fluid unison. This scene is rendered in light cyan and dark amber, in a cartoon style that gives a charm to the whole image. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/ee9566d0-afbb-452d-921f-356707b0a749.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:32:59.005+00:00"
+  },
+  {
+    "id": "1109458729147056128",
+    "imageId": "5fec9682-bd3e-4e65-87af-921a27aca771",
+    "prompt": "Detailed illustration of a group of children playing soccer in a township outside of Cape Town, capturing the spirit of the game with the backdrop of Afrofuturism. Buildings show art nouveau organic flowing lines, as children move in fluid unison. This scene is rendered in light cyan and dark amber, in a cartoon style that gives a charm to the whole image. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/5fec9682-bd3e-4e65-87af-921a27aca771.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:32:53.775+00:00"
+  },
+  {
+    "id": "1109458703406600203",
+    "imageId": "e0379237-ae62-485b-a51b-82e9e3f01bfc",
+    "prompt": "Detailed illustration of a group of children playing soccer in a township outside of Cape Town, capturing the spirit of the game with the backdrop of Afrofuturism. Buildings show art nouveau organic flowing lines, as children move in fluid unison. This scene is rendered in light cyan and dark amber, in a cartoon style that gives a charm to the whole image. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e0379237-ae62-485b-a51b-82e9e3f01bfc.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T12:32:47.638+00:00"
+  },
+  {
+    "id": "1109458480777146388",
+    "imageId": "fda89eda-3496-412e-940d-126456fe0d8c",
+    "prompt": "Show the Cederberg Mountains, a range of mountains in the Western Cape, with a Solarpunk twist. In the foreground, a detailed science fiction illustration of a 'lit kid' from the nearby Afrofuturistic city gazing at the mountains. The scene is bathed in golden light, creating a striking contrast between the futuristic foreground and the timeless mountains. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/fda89eda-3496-412e-940d-126456fe0d8c.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:31:54.559+00:00"
+  },
+  {
+    "id": "1109458449202413649",
+    "imageId": "7f44a955-81e8-4919-a040-d9352b1a27cd",
+    "prompt": "Show the Cederberg Mountains, a range of mountains in the Western Cape, with a Solarpunk twist. In the foreground, a detailed science fiction illustration of a 'lit kid' from the nearby Afrofuturistic city gazing at the mountains. The scene is bathed in golden light, creating a striking contrast between the futuristic foreground and the timeless mountains. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/7f44a955-81e8-4919-a040-d9352b1a27cd.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:31:47.031+00:00"
+  },
+  {
+    "id": "1109458422761529374",
+    "imageId": "37a0277e-52df-4777-93ad-083198cc37eb",
+    "prompt": "Show the Cederberg Mountains, a range of mountains in the Western Cape, with a Solarpunk twist. In the foreground, a detailed science fiction illustration of a 'lit kid' from the nearby Afrofuturistic city gazing at the mountains. The scene is bathed in golden light, creating a striking contrast between the futuristic foreground and the timeless mountains. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/37a0277e-52df-4777-93ad-083198cc37eb.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:31:40.727+00:00"
+  },
+  {
+    "id": "1109458394135408711",
+    "imageId": "4b21c5b9-fbfb-4278-b7dd-d45dcbb98b5f",
+    "prompt": "Show the Cederberg Mountains, a range of mountains in the Western Cape, with a Solarpunk twist. In the foreground, a detailed science fiction illustration of a 'lit kid' from the nearby Afrofuturistic city gazing at the mountains. The scene is bathed in golden light, creating a striking contrast between the futuristic foreground and the timeless mountains. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4b21c5b9-fbfb-4278-b7dd-d45dcbb98b5f.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:31:33.902+00:00"
+  },
+  {
+    "id": "1109458152501542962",
+    "imageId": "541380ba-7864-4175-90d7-6294e1a83554",
+    "prompt": "Picture the Wild Coast, a rugged and scenic coastline in the Eastern Cape. Using Michael Page's style, illustrate a bulbous, mechanized lighthouse standing sentinel over the coast. Its beams cut through the twilight, painting the scene in a darkly romantic palette. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/541380ba-7864-4175-90d7-6294e1a83554.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:30:36.292+00:00"
+  },
+  {
+    "id": "1109458128300425235",
+    "imageId": "6e69820a-9a81-47e6-a6ae-6d5fd31a3d48",
+    "prompt": "Picture the Wild Coast, a rugged and scenic coastline in the Eastern Cape. Using Michael Page's style, illustrate a bulbous, mechanized lighthouse standing sentinel over the coast. Its beams cut through the twilight, painting the scene in a darkly romantic palette. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6e69820a-9a81-47e6-a6ae-6d5fd31a3d48.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:30:30.522+00:00"
+  },
+  {
+    "id": "1109458103625334915",
+    "imageId": "fd6748b9-06e8-48a9-8089-89f4676dbfe2",
+    "prompt": "Picture the Wild Coast, a rugged and scenic coastline in the Eastern Cape. Using Michael Page's style, illustrate a bulbous, mechanized lighthouse standing sentinel over the coast. Its beams cut through the twilight, painting the scene in a darkly romantic palette. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/fd6748b9-06e8-48a9-8089-89f4676dbfe2.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:30:24.639+00:00"
+  },
+  {
+    "id": "1109458079872987238",
+    "imageId": "6ccf509f-e671-47c5-a99b-ef2a006be6f0",
+    "prompt": "Picture the Wild Coast, a rugged and scenic coastline in the Eastern Cape. Using Michael Page's style, illustrate a bulbous, mechanized lighthouse standing sentinel over the coast. Its beams cut through the twilight, painting the scene in a darkly romantic palette. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6ccf509f-e671-47c5-a99b-ef2a006be6f0.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:30:18.976+00:00"
+  },
+  {
+    "id": "1109457842009821194",
+    "imageId": "63600ef3-ae9d-4f5d-a988-970cd08270bf",
+    "prompt": "Create a comic art scene at the Kruger National Park, a wildlife reserve in the Limpopo province. Inspired by the Art of the Congo, the comic frames show a detailed character wearing a pair of oversized, steampunk headphones observing the majestic wildlife. The frames alternate between monochrome and cyan & beige toning. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/63600ef3-ae9d-4f5d-a988-970cd08270bf.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:29:22.265+00:00"
+  },
+  {
+    "id": "1109457816831414303",
+    "imageId": "b6b12ff0-7dcd-4769-b3c6-c7afef455340",
+    "prompt": "Create a comic art scene at the Kruger National Park, a wildlife reserve in the Limpopo province. Inspired by the Art of the Congo, the comic frames show a detailed character wearing a pair of oversized, steampunk headphones observing the majestic wildlife. The frames alternate between monochrome and cyan & beige toning. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b6b12ff0-7dcd-4769-b3c6-c7afef455340.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:29:16.262+00:00"
+  },
+  {
+    "id": "1109457793175527515",
+    "imageId": "35aca9e2-4632-442f-80e0-c484dd53298b",
+    "prompt": "Create a comic art scene at the Kruger National Park, a wildlife reserve in the Limpopo province. Inspired by the Art of the Congo, the comic frames show a detailed character wearing a pair of oversized, steampunk headphones observing the majestic wildlife. The frames alternate between monochrome and cyan & beige toning. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/35aca9e2-4632-442f-80e0-c484dd53298b.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:29:10.622+00:00"
+  },
+  {
+    "id": "1109457765748969482",
+    "imageId": "f04585ca-2497-49da-91c1-6af042e84a4a",
+    "prompt": "Create a comic art scene at the Kruger National Park, a wildlife reserve in the Limpopo province. Inspired by the Art of the Congo, the comic frames show a detailed character wearing a pair of oversized, steampunk headphones observing the majestic wildlife. The frames alternate between monochrome and cyan & beige toning. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f04585ca-2497-49da-91c1-6af042e84a4a.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:29:04.083+00:00"
+  },
+  {
+    "id": "1109457539042643979",
+    "imageId": "93ea9509-a7a6-45ad-9fd3-cc2dfcd27948",
+    "prompt": "Imagine the Cape Winelands, a picturesque region known for its wine production. The area is alive with a futuristic city, rendered in charming illustration, with Afrofuturism influence and high-tech wineries. Dominant colours are light cyan for the sky and dark amber for the vineyards, creating a stunning contrast. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/93ea9509-a7a6-45ad-9fd3-cc2dfcd27948.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:28:10.032+00:00"
+  },
+  {
+    "id": "1109457512387850283",
+    "imageId": "df874f42-63bc-433d-8a2b-1da3283f62a8",
+    "prompt": "Imagine the Cape Winelands, a picturesque region known for its wine production. The area is alive with a futuristic city, rendered in charming illustration, with Afrofuturism influence and high-tech wineries. Dominant colours are light cyan for the sky and dark amber for the vineyards, creating a stunning contrast. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/df874f42-63bc-433d-8a2b-1da3283f62a8.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:28:03.677+00:00"
+  },
+  {
+    "id": "1109457488933302343",
+    "imageId": "5b85fdb1-0911-446c-a15a-c917a6cc9913",
+    "prompt": "Imagine the Cape Winelands, a picturesque region known for its wine production. The area is alive with a futuristic city, rendered in charming illustration, with Afrofuturism influence and high-tech wineries. Dominant colours are light cyan for the sky and dark amber for the vineyards, creating a stunning contrast. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/5b85fdb1-0911-446c-a15a-c917a6cc9913.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:27:58.085+00:00"
+  },
+  {
+    "id": "1109457465650720859",
+    "imageId": "b6535a24-03c5-4b80-9184-b8558bdfb54c",
+    "prompt": "Imagine the Cape Winelands, a picturesque region known for its wine production. The area is alive with a futuristic city, rendered in charming illustration, with Afrofuturism influence and high-tech wineries. Dominant colours are light cyan for the sky and dark amber for the vineyards, creating a stunning contrast. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b6535a24-03c5-4b80-9184-b8558bdfb54c.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:27:52.534+00:00"
+  },
+  {
+    "id": "1109457235714773052",
+    "imageId": "942ae2ac-9de2-4cd2-9f3c-058f3e5d8258",
+    "prompt": "Render a detailed 32k UHD scene of Robben Island, a former prison turned museum and World Heritage site. Artgerm's style is evident in the beautifully crafted Art Nouveau structures in the background. A golden light bathes the scene, reflecting off of the glistening water surrounding the island. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/942ae2ac-9de2-4cd2-9f3c-058f3e5d8258.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:26:57.713+00:00"
+  },
+  {
+    "id": "1109457205675184259",
+    "imageId": "6a6c4899-605e-4f3e-a71a-a27d1871b263",
+    "prompt": "Render a detailed 32k UHD scene of Robben Island, a former prison turned museum and World Heritage site. Artgerm's style is evident in the beautifully crafted Art Nouveau structures in the background. A golden light bathes the scene, reflecting off of the glistening water surrounding the island. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6a6c4899-605e-4f3e-a71a-a27d1871b263.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:26:50.551+00:00"
+  },
+  {
+    "id": "1109457161907621928",
+    "imageId": "4f1aeeb4-f586-43a3-9026-8255bb36be4c",
+    "prompt": "Render a detailed 32k UHD scene of Robben Island, a former prison turned museum and World Heritage site. Artgerm's style is evident in the beautifully crafted Art Nouveau structures in the background. A golden light bathes the scene, reflecting off of the glistening water surrounding the island. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4f1aeeb4-f586-43a3-9026-8255bb36be4c.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:26:40.116+00:00"
+  },
+  {
+    "id": "1109457138054594662",
+    "imageId": "91e6faaa-34a9-44d5-b285-79a1ac1ad6d4",
+    "prompt": "Render a detailed 32k UHD scene of Robben Island, a former prison turned museum and World Heritage site. Artgerm's style is evident in the beautifully crafted Art Nouveau structures in the background. A golden light bathes the scene, reflecting off of the glistening water surrounding the island. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/91e6faaa-34a9-44d5-b285-79a1ac1ad6d4.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:26:34.429+00:00"
+  },
+  {
+    "id": "1109454084764868629",
+    "imageId": "cc1553f1-ae37-4df6-ae00-f3fde805cead",
+    "prompt": "Illustrate the Karoo Desert, a semi-arid region in the interior. The scene is rendered in the Art of the Ivory Coast, combining African influence and realistic hyper-detail. A solitary figure, rendered in detailed character design, navigates the desert wearing a set of complex, Steampunk-inspired headphones. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/cc1553f1-ae37-4df6-ae00-f3fde805cead.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:14:26.468+00:00"
+  },
+  {
+    "id": "1109454059255119983",
+    "imageId": "e4a40d89-4825-4bd1-a945-86f986c14ecd",
+    "prompt": "Illustrate the Karoo Desert, a semi-arid region in the interior. The scene is rendered in the Art of the Ivory Coast, combining African influence and realistic hyper-detail. A solitary figure, rendered in detailed character design, navigates the desert wearing a set of complex, Steampunk-inspired headphones. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e4a40d89-4825-4bd1-a945-86f986c14ecd.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:14:20.386+00:00"
+  },
+  {
+    "id": "1109454030675128451",
+    "imageId": "a1413fe1-6c08-4d77-baf8-098ce7bb0336",
+    "prompt": "Illustrate the Karoo Desert, a semi-arid region in the interior. The scene is rendered in the Art of the Ivory Coast, combining African influence and realistic hyper-detail. A solitary figure, rendered in detailed character design, navigates the desert wearing a set of complex, Steampunk-inspired headphones. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a1413fe1-6c08-4d77-baf8-098ce7bb0336.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:14:13.572+00:00"
+  },
+  {
+    "id": "1109454002170638347",
+    "imageId": "545be54c-be78-4ed5-a006-b11bf92698d3",
+    "prompt": "Illustrate the Karoo Desert, a semi-arid region in the interior. The scene is rendered in the Art of the Ivory Coast, combining African influence and realistic hyper-detail. A solitary figure, rendered in detailed character design, navigates the desert wearing a set of complex, Steampunk-inspired headphones. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/545be54c-be78-4ed5-a006-b11bf92698d3.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:14:06.776+00:00"
+  },
+  {
+    "id": "1109453771475525682",
+    "imageId": "013a7278-3d5e-4800-b29c-a420c74d1a60",
+    "prompt": "Create a Solarpunk-inspired scene along the Garden Route, a scenic coastal drive. Use the art style of Emilia Wilk to design a futuristic city by the coastline. This city is a beacon of sustainability and nature, where bulbous buildings coexist with the surrounding vegetation in a harmonious blend of Art Nouveau flowing lines and mechanized forms. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/013a7278-3d5e-4800-b29c-a420c74d1a60.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:13:11.774+00:00"
+  },
+  {
+    "id": "1109453746666229801",
+    "imageId": "f65096ff-3f48-4bac-acaa-d395a6457365",
+    "prompt": "Create a Solarpunk-inspired scene along the Garden Route, a scenic coastal drive. Use the art style of Emilia Wilk to design a futuristic city by the coastline. This city is a beacon of sustainability and nature, where bulbous buildings coexist with the surrounding vegetation in a harmonious blend of Art Nouveau flowing lines and mechanized forms. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f65096ff-3f48-4bac-acaa-d395a6457365.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:13:05.859+00:00"
+  },
+  {
+    "id": "1109453720619601980",
+    "imageId": "a9fcc6d5-81be-4da1-a1c9-fe33f1608c70",
+    "prompt": "Create a Solarpunk-inspired scene along the Garden Route, a scenic coastal drive. Use the art style of Emilia Wilk to design a futuristic city by the coastline. This city is a beacon of sustainability and nature, where bulbous buildings coexist with the surrounding vegetation in a harmonious blend of Art Nouveau flowing lines and mechanized forms. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a9fcc6d5-81be-4da1-a1c9-fe33f1608c70.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:12:59.649+00:00"
+  },
+  {
+    "id": "1109453691641155685",
+    "imageId": "e80c2080-42ef-42f4-9b5e-fdcd7803c6f8",
+    "prompt": "Create a Solarpunk-inspired scene along the Garden Route, a scenic coastal drive. Use the art style of Emilia Wilk to design a futuristic city by the coastline. This city is a beacon of sustainability and nature, where bulbous buildings coexist with the surrounding vegetation in a harmonious blend of Art Nouveau flowing lines and mechanized forms. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e80c2080-42ef-42f4-9b5e-fdcd7803c6f8.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:12:52.74+00:00"
+  },
+  {
+    "id": "1109453478218178572",
+    "imageId": "b918942f-c0f5-484d-a990-e3bfb55af112",
+    "prompt": "Visualize the Blyde River Canyon, a natural wonder in Mpumalanga, with cartoon-style charm. An alien astronaut floats over the canyon, surveying the sublime sight. Colors are dominated by light teal and dark gold, contrasting with the whimsical character's dark turquoise and beige spacesuit. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b918942f-c0f5-484d-a990-e3bfb55af112.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:12:01.856+00:00"
+  },
+  {
+    "id": "1109453452955877406",
+    "imageId": "3dc17d71-987a-4cd0-994b-ccf1609d72b4",
+    "prompt": "Visualize the Blyde River Canyon, a natural wonder in Mpumalanga, with cartoon-style charm. An alien astronaut floats over the canyon, surveying the sublime sight. Colors are dominated by light teal and dark gold, contrasting with the whimsical character's dark turquoise and beige spacesuit. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/3dc17d71-987a-4cd0-994b-ccf1609d72b4.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:11:55.833+00:00"
+  },
+  {
+    "id": "1109453420315807774",
+    "imageId": "804e05b1-0510-4df8-a747-aa803cad810d",
+    "prompt": "Visualize the Blyde River Canyon, a natural wonder in Mpumalanga, with cartoon-style charm. An alien astronaut floats over the canyon, surveying the sublime sight. Colors are dominated by light teal and dark gold, contrasting with the whimsical character's dark turquoise and beige spacesuit. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/804e05b1-0510-4df8-a747-aa803cad810d.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:11:48.051+00:00"
+  },
+  {
+    "id": "1109453397230358549",
+    "imageId": "d3cc4276-c3ef-46bb-bd76-e4d64c54f65d",
+    "prompt": "Visualize the Blyde River Canyon, a natural wonder in Mpumalanga, with cartoon-style charm. An alien astronaut floats over the canyon, surveying the sublime sight. Colors are dominated by light teal and dark gold, contrasting with the whimsical character's dark turquoise and beige spacesuit. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/d3cc4276-c3ef-46bb-bd76-e4d64c54f65d.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:11:42.547+00:00"
+  },
+  {
+    "id": "1109453170335297618",
+    "imageId": "f62a28a5-793a-4fff-96d8-b2717ce3fadc",
+    "prompt": "The Drakensberg Mountains, a World Heritage site, loom majestically over a city teeming with Afrofuturism and Art Nouveau organic flowing lines. Imagine this scene as a detailed atmospheric portrait in a monochrome toning, with the mountains being bathed in light cyan and the city below radiating dark amber. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f62a28a5-793a-4fff-96d8-b2717ce3fadc.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:10:48.451+00:00"
+  },
+  {
+    "id": "1109453141243592804",
+    "imageId": "aaafce96-95e8-44b6-833f-6d044118cd62",
+    "prompt": "The Drakensberg Mountains, a World Heritage site, loom majestically over a city teeming with Afrofuturism and Art Nouveau organic flowing lines. Imagine this scene as a detailed atmospheric portrait in a monochrome toning, with the mountains being bathed in light cyan and the city below radiating dark amber. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/aaafce96-95e8-44b6-833f-6d044118cd62.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:10:41.515+00:00"
+  },
+  {
+    "id": "1109453116652400712",
+    "imageId": "9fc3b7af-9688-4896-afff-5e4be4deb374",
+    "prompt": "The Drakensberg Mountains, a World Heritage site, loom majestically over a city teeming with Afrofuturism and Art Nouveau organic flowing lines. Imagine this scene as a detailed atmospheric portrait in a monochrome toning, with the mountains being bathed in light cyan and the city below radiating dark amber. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/9fc3b7af-9688-4896-afff-5e4be4deb374.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:10:35.652+00:00"
+  },
+  {
+    "id": "1109453093109772319",
+    "imageId": "33c96833-265d-4015-8345-1ada0520297e",
+    "prompt": "The Drakensberg Mountains, a World Heritage site, loom majestically over a city teeming with Afrofuturism and Art Nouveau organic flowing lines. Imagine this scene as a detailed atmospheric portrait in a monochrome toning, with the mountains being bathed in light cyan and the city below radiating dark amber. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/33c96833-265d-4015-8345-1ada0520297e.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:10:30.039+00:00"
+  },
+  {
+    "id": "1109452863320641566",
+    "imageId": "20909b91-a1f4-4803-938f-ac4af3adcb23",
+    "prompt": "Create a detailed 32k UHD illustration of a sunset over Table Mountain, Cape Town. The city below is buzzing with Afrofuturism, buildings, and technology merging in an Atompunk aesthetic. The sky is ablaze with golden light, and it reflects off of a futuristic headphone-clad figure gazing out over the vista. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/20909b91-a1f4-4803-938f-ac4af3adcb23.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:09:35.253+00:00"
+  },
+  {
+    "id": "1109452842374275092",
+    "imageId": "b776e2d9-b795-40ff-85b7-0b96bddb7ae3",
+    "prompt": "Create a detailed 32k UHD illustration of a sunset over Table Mountain, Cape Town. The city below is buzzing with Afrofuturism, buildings, and technology merging in an Atompunk aesthetic. The sky is ablaze with golden light, and it reflects off of a futuristic headphone-clad figure gazing out over the vista. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/b776e2d9-b795-40ff-85b7-0b96bddb7ae3.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:09:30.259+00:00"
+  },
+  {
+    "id": "1109452814687678524",
+    "imageId": "8a251e8c-d41c-4876-809d-70cc405ddf4f",
+    "prompt": "Create a detailed 32k UHD illustration of a sunset over Table Mountain, Cape Town. The city below is buzzing with Afrofuturism, buildings, and technology merging in an Atompunk aesthetic. The sky is ablaze with golden light, and it reflects off of a futuristic headphone-clad figure gazing out over the vista. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/8a251e8c-d41c-4876-809d-70cc405ddf4f.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:09:23.658+00:00"
+  },
+  {
+    "id": "1109452784694198292",
+    "imageId": "93046140-f987-475c-8103-81938d4b8329",
+    "prompt": "Create a detailed 32k UHD illustration of a sunset over Table Mountain, Cape Town. The city below is buzzing with Afrofuturism, buildings, and technology merging in an Atompunk aesthetic. The sky is ablaze with golden light, and it reflects off of a futuristic headphone-clad figure gazing out over the vista. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/93046140-f987-475c-8103-81938d4b8329.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T12:09:16.507+00:00"
+  },
+  {
+    "id": "1109449914758463528",
+    "imageId": "d8fff944-af02-4cd3-97ce-9ee55f2caebc",
+    "prompt": "Illustrate a detailed character design that showcases South African people's attire and accessories, rendered in realistic hyper-detail. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/d8fff944-af02-4cd3-97ce-9ee55f2caebc.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T11:57:52.261+00:00"
+  },
+  {
+    "id": "1109449890444095621",
+    "imageId": "5fb2f2f5-3965-45ac-92ea-3ad0e39d7b5a",
+    "prompt": "Illustrate a detailed character design that showcases South African people's attire and accessories, rendered in realistic hyper-detail. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/5fb2f2f5-3965-45ac-92ea-3ad0e39d7b5a.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T11:57:46.464+00:00"
+  },
+  {
+    "id": "1109449863575388190",
+    "imageId": "a3a77fb1-9c95-43f3-b1cc-6127371b331f",
+    "prompt": "Illustrate a detailed character design that showcases South African people's attire and accessories, rendered in realistic hyper-detail. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a3a77fb1-9c95-43f3-b1cc-6127371b331f.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T11:57:40.058+00:00"
+  },
+  {
+    "id": "1109449838979977317",
+    "imageId": "1d248ef8-1c8c-4a9b-944c-86d92543301e",
+    "prompt": "Illustrate a detailed character design that showcases South African people's attire and accessories, rendered in realistic hyper-detail. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1d248ef8-1c8c-4a9b-944c-86d92543301e.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T11:57:34.194+00:00"
+  },
+  {
+    "id": "1109449656800399362",
+    "imageId": "c1397479-5400-49fd-972b-366e603806e7",
+    "prompt": "Create a charming illustration of a city building in South Africa, highlighting its unique cultural identity using the art nouveau organic flowing lines. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c1397479-5400-49fd-972b-366e603806e7.png",
+    "category": "Culture",
+    "timeStamp": "2023-05-20T11:56:50.759+00:00"
+  },
+  {
+    "id": "1109449632590868540",
+    "imageId": "94e3a33e-eb29-4e9b-9482-b6c890042a2a",
+    "prompt": "Create a charming illustration of a city building in South Africa, highlighting its unique cultural identity using the art nouveau organic flowing lines. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/94e3a33e-eb29-4e9b-9482-b6c890042a2a.png",
+    "category": "Culture",
+    "timeStamp": "2023-05-20T11:56:44.987+00:00"
+  },
+  {
+    "id": "1109449606393237586",
+    "imageId": "4dbbce32-e876-42f7-b5b7-6fc677a210e2",
+    "prompt": "Create a charming illustration of a city building in South Africa, highlighting its unique cultural identity using the art nouveau organic flowing lines. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4dbbce32-e876-42f7-b5b7-6fc677a210e2.png",
+    "category": "Culture",
+    "timeStamp": "2023-05-20T11:56:38.741+00:00"
+  },
+  {
+    "id": "1109449581198057522",
+    "imageId": "9fa3a371-f71c-4159-8bc6-27b951e8fe47",
+    "prompt": "Create a charming illustration of a city building in South Africa, highlighting its unique cultural identity using the art nouveau organic flowing lines. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/9fa3a371-f71c-4159-8bc6-27b951e8fe47.png",
+    "category": "Culture",
+    "timeStamp": "2023-05-20T11:56:32.734+00:00"
+  },
+  {
+    "id": "1109449386536210512",
+    "imageId": "f1dfaac2-86c0-4c4b-8ca2-50805f6162cd",
+    "prompt": "Design a hyper-detailed character in the style of Artgerm, incorporating elements of South African heritage and culture. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f1dfaac2-86c0-4c4b-8ca2-50805f6162cd.png",
+    "category": "Heritage",
+    "timeStamp": "2023-05-20T11:55:46.323+00:00"
+  },
+  {
+    "id": "1109449363232673812",
+    "imageId": "6272588e-2c30-4cdf-985f-105c9e7eb521",
+    "prompt": "Design a hyper-detailed character in the style of Artgerm, incorporating elements of South African heritage and culture. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6272588e-2c30-4cdf-985f-105c9e7eb521.png",
+    "category": "Heritage",
+    "timeStamp": "2023-05-20T11:55:40.767+00:00"
+  },
+  {
+    "id": "1109449341640380456",
+    "imageId": "6a7f7e4c-f1f8-431d-9535-a9b34d253cfb",
+    "prompt": "Design a hyper-detailed character in the style of Artgerm, incorporating elements of South African heritage and culture. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6a7f7e4c-f1f8-431d-9535-a9b34d253cfb.png",
+    "category": "Heritage",
+    "timeStamp": "2023-05-20T11:55:35.619+00:00"
+  },
+  {
+    "id": "1109449316331958342",
+    "imageId": "00599d36-7da0-43e3-a00a-f9944549d99c",
+    "prompt": "Design a hyper-detailed character in the style of Artgerm, incorporating elements of South African heritage and culture. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/00599d36-7da0-43e3-a00a-f9944549d99c.png",
+    "category": "Heritage",
+    "timeStamp": "2023-05-20T11:55:29.585+00:00"
+  },
+  {
+    "id": "1109449086043701288",
+    "imageId": "72785a13-84b3-48d9-9b77-98bbf55f6439",
+    "prompt": "Create a 32k UHD Afrofuturism-inspired illustration showcasing the South African landscapes and cityscapes, emphasizing on architectural details and a color palette of cyan and beige. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/72785a13-84b3-48d9-9b77-98bbf55f6439.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T11:54:34.68+00:00"
+  },
+  {
+    "id": "1109449062241013760",
+    "imageId": "78bfa5a5-612d-4d26-ad3d-87e1367ca570",
+    "prompt": "Create a 32k UHD Afrofuturism-inspired illustration showcasing the South African landscapes and cityscapes, emphasizing on architectural details and a color palette of cyan and beige. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/78bfa5a5-612d-4d26-ad3d-87e1367ca570.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T11:54:29.005+00:00"
+  },
+  {
+    "id": "1109449031756824576",
+    "imageId": "aba9c932-66f3-4e19-9e6a-94a423e30aeb",
+    "prompt": "Create a 32k UHD Afrofuturism-inspired illustration showcasing the South African landscapes and cityscapes, emphasizing on architectural details and a color palette of cyan and beige. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/aba9c932-66f3-4e19-9e6a-94a423e30aeb.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T11:54:21.737+00:00"
+  },
+  {
+    "id": "1109449002790952970",
+    "imageId": "8a70a407-9bdb-4494-adf4-7ea787c32440",
+    "prompt": "Create a 32k UHD Afrofuturism-inspired illustration showcasing the South African landscapes and cityscapes, emphasizing on architectural details and a color palette of cyan and beige. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/8a70a407-9bdb-4494-adf4-7ea787c32440.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T11:54:14.831+00:00"
+  },
+  {
+    "id": "1109448806589796393",
+    "imageId": "0def5652-fbe9-4fb4-9c75-81d37dce1279",
+    "prompt": "Render a detailed atmospheric portrait of a person wearing headphones, reflecting the influence of South African culture and using monochrome toning. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0def5652-fbe9-4fb4-9c75-81d37dce1279.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T11:53:28.053+00:00"
+  },
+  {
+    "id": "1109448782183141377",
+    "imageId": "4d905bd7-c0fc-4441-b3f2-cb4b86be424e",
+    "prompt": "Render a detailed atmospheric portrait of a person wearing headphones, reflecting the influence of South African culture and using monochrome toning. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4d905bd7-c0fc-4441-b3f2-cb4b86be424e.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T11:53:22.234+00:00"
+  },
+  {
+    "id": "1109448758497906748",
+    "imageId": "4518cd57-7f63-4e17-831d-c2fbcd66efae",
+    "prompt": "Render a detailed atmospheric portrait of a person wearing headphones, reflecting the influence of South African culture and using monochrome toning. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/4518cd57-7f63-4e17-831d-c2fbcd66efae.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T11:53:16.587+00:00"
+  },
+  {
+    "id": "1109448735550865470",
+    "imageId": "41f3d030-d697-448e-b3f4-93bdc19e91f5",
+    "prompt": "Render a detailed atmospheric portrait of a person wearing headphones, reflecting the influence of South African culture and using monochrome toning. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/41f3d030-d697-448e-b3f4-93bdc19e91f5.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T11:53:11.116+00:00"
+  },
+  {
+    "id": "1109448505585582081",
+    "imageId": "6b913dff-e58d-46fb-97ae-b5fc1e95d73a",
+    "prompt": "Craft a detailed illustration representing South African heritage, showing the harmonious blend of Afrofuturism and Art Nouveau styles within a city. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/6b913dff-e58d-46fb-97ae-b5fc1e95d73a.png",
+    "category": "Heritage",
+    "timeStamp": "2023-05-20T11:52:16.288+00:00"
+  },
+  {
+    "id": "1109448480046469140",
+    "imageId": "488fb802-b7cb-43ea-a07a-0a293b3f3e71",
+    "prompt": "Craft a detailed illustration representing South African heritage, showing the harmonious blend of Afrofuturism and Art Nouveau styles within a city. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/488fb802-b7cb-43ea-a07a-0a293b3f3e71.png",
+    "category": "Heritage",
+    "timeStamp": "2023-05-20T11:52:10.199+00:00"
+  },
+  {
+    "id": "1109448458374500383",
+    "imageId": "40dadec7-f565-4793-b332-c890c2993205",
+    "prompt": "Craft a detailed illustration representing South African heritage, showing the harmonious blend of Afrofuturism and Art Nouveau styles within a city. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/40dadec7-f565-4793-b332-c890c2993205.png",
+    "category": "Heritage",
+    "timeStamp": "2023-05-20T11:52:05.032+00:00"
+  },
+  {
+    "id": "1109448433699401818",
+    "imageId": "348188b9-a95a-4f9c-a8ae-e8e6716ef60f",
+    "prompt": "Craft a detailed illustration representing South African heritage, showing the harmonious blend of Afrofuturism and Art Nouveau styles within a city. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/348188b9-a95a-4f9c-a8ae-e8e6716ef60f.png",
+    "category": "Heritage",
+    "timeStamp": "2023-05-20T11:51:59.149+00:00"
+  },
+  {
+    "id": "1109448235224944640",
+    "imageId": "9a2c4bbb-049a-48b3-b17b-2b2d5b887cc4",
+    "prompt": "Design an Afrofuturism artwork using organic flowing lines from the Art Nouveau style to depict the vibrant music culture of South Africa. Make use of light cyan and dark amber. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/9a2c4bbb-049a-48b3-b17b-2b2d5b887cc4.png",
+    "category": "Culture",
+    "timeStamp": "2023-05-20T11:51:11.829+00:00"
+  },
+  {
+    "id": "1109448211078336553",
+    "imageId": "c26dc9a4-f097-4dc5-ae77-1fde29c6e0a9",
+    "prompt": "Design an Afrofuturism artwork using organic flowing lines from the Art Nouveau style to depict the vibrant music culture of South Africa. Make use of light cyan and dark amber. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c26dc9a4-f097-4dc5-ae77-1fde29c6e0a9.png",
+    "category": "Culture",
+    "timeStamp": "2023-05-20T11:51:06.072+00:00"
+  },
+  {
+    "id": "1109448189284712548",
+    "imageId": "1ce823ce-8990-4b47-a6a9-290182ea665d",
+    "prompt": "Design an Afrofuturism artwork using organic flowing lines from the Art Nouveau style to depict the vibrant music culture of South Africa. Make use of light cyan and dark amber. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1ce823ce-8990-4b47-a6a9-290182ea665d.png",
+    "category": "Culture",
+    "timeStamp": "2023-05-20T11:51:00.876+00:00"
+  },
+  {
+    "id": "1109448159903625336",
+    "imageId": "5c001d36-4790-438f-9de9-303b33c7482d",
+    "prompt": "Design an Afrofuturism artwork using organic flowing lines from the Art Nouveau style to depict the vibrant music culture of South Africa. Make use of light cyan and dark amber. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/5c001d36-4790-438f-9de9-303b33c7482d.png",
+    "category": "Culture",
+    "timeStamp": "2023-05-20T11:50:53.871+00:00"
+  },
+  {
+    "id": "1109447927912464464",
+    "imageId": "44e0a4ff-02ed-43cb-88e6-e2e6ca97d674",
+    "prompt": "Create a charming cartoon-style illustration of South African wildlife, emphasizing on realistic hyper-detail. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/44e0a4ff-02ed-43cb-88e6-e2e6ca97d674.png",
+    "category": "Animals",
+    "timeStamp": "2023-05-20T11:49:58.56+00:00"
+  },
+  {
+    "id": "1109447903568723968",
+    "imageId": "3e135854-824b-4f23-ac58-ee099dbc5060",
+    "prompt": "Create a charming cartoon-style illustration of South African wildlife, emphasizing on realistic hyper-detail. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/3e135854-824b-4f23-ac58-ee099dbc5060.png",
+    "category": "Animals",
+    "timeStamp": "2023-05-20T11:49:52.756+00:00"
+  },
+  {
+    "id": "1109447879480844339",
+    "imageId": "c38a602d-8449-41e9-9f10-c6ec68790871",
+    "prompt": "Create a charming cartoon-style illustration of South African wildlife, emphasizing on realistic hyper-detail. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c38a602d-8449-41e9-9f10-c6ec68790871.png",
+    "category": "Animals",
+    "timeStamp": "2023-05-20T11:49:47.013+00:00"
+  },
+  {
+    "id": "1109447854700904509",
+    "imageId": "d56f1a2f-656f-449e-a534-fbc6343dd6b2",
+    "prompt": "Create a charming cartoon-style illustration of South African wildlife, emphasizing on realistic hyper-detail. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/d56f1a2f-656f-449e-a534-fbc6343dd6b2.png",
+    "category": "Animals",
+    "timeStamp": "2023-05-20T11:49:41.105+00:00"
+  },
+  {
+    "id": "1109447654586466385",
+    "imageId": "53d1753d-2200-4c63-b947-df8ff96934c1",
+    "prompt": "Design a South African character in hyper-detailed Artgerm style, complete with headphones showcasing local cultural symbols. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/53d1753d-2200-4c63-b947-df8ff96934c1.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T11:48:53.394+00:00"
+  },
+  {
+    "id": "1109447631186448445",
+    "imageId": "a9f48d82-f8f7-465f-83a9-6b4ab4748ca7",
+    "prompt": "Design a South African character in hyper-detailed Artgerm style, complete with headphones showcasing local cultural symbols. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/a9f48d82-f8f7-465f-83a9-6b4ab4748ca7.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T11:48:47.815+00:00"
+  },
+  {
+    "id": "1109447607471845476",
+    "imageId": "586da837-6b03-499a-a783-d268a55f943a",
+    "prompt": "Design a South African character in hyper-detailed Artgerm style, complete with headphones showcasing local cultural symbols. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/586da837-6b03-499a-a783-d268a55f943a.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T11:48:42.161+00:00"
+  },
+  {
+    "id": "1109447582318600212",
+    "imageId": "33951575-9fea-4960-92c1-71c4f3d8149f",
+    "prompt": "Design a South African character in hyper-detailed Artgerm style, complete with headphones showcasing local cultural symbols. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/33951575-9fea-4960-92c1-71c4f3d8149f.png",
+    "category": "People",
+    "timeStamp": "2023-05-20T11:48:36.164+00:00"
+  },
+  {
+    "id": "1109447379117166673",
+    "imageId": "2c139dba-9726-4d3d-8633-532378a1301f",
+    "prompt": "Illustrate a detailed Afrofuturism landscape of a South African city bathed in golden light. Use a color palette of cyan and beige. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/2c139dba-9726-4d3d-8633-532378a1301f.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T11:47:47.717+00:00"
+  },
+  {
+    "id": "1109447354316230718",
+    "imageId": "f76fcef2-5080-49ce-a397-9bfd943bb2e5",
+    "prompt": "Illustrate a detailed Afrofuturism landscape of a South African city bathed in golden light. Use a color palette of cyan and beige. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/f76fcef2-5080-49ce-a397-9bfd943bb2e5.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T11:47:41.804+00:00"
+  },
+  {
+    "id": "1109447330391920740",
+    "imageId": "91f8d77e-0f8d-444c-8da4-7c05f64f4cee",
+    "prompt": "Illustrate a detailed Afrofuturism landscape of a South African city bathed in golden light. Use a color palette of cyan and beige. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/91f8d77e-0f8d-444c-8da4-7c05f64f4cee.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T11:47:36.1+00:00"
+  },
+  {
+    "id": "1109447303464493066",
+    "imageId": "0408910a-a858-4702-9898-385c2ec1d2c5",
+    "prompt": "Illustrate a detailed Afrofuturism landscape of a South African city bathed in golden light. Use a color palette of cyan and beige. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/0408910a-a858-4702-9898-385c2ec1d2c5.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-20T11:47:29.68+00:00"
+  },
+  {
+    "id": "1108796092444840039",
+    "imageId": "922a8be9-1e15-47d9-9fa1-269ef8330fc6",
+    "prompt": "An African modern-art scene inspired by Salvador Dali's surrealism, depicting an Alice in Africa concept with vivid colors, intricate landscapes, and fantastical creatures unique to South African culture and heritage. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/922a8be9-1e15-47d9-9fa1-269ef8330fc6.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-18T16:39:48.874+00:00"
+  },
+  {
+    "id": "1108796070336671836",
+    "imageId": "c69a96b0-b43a-45eb-b8bd-d5b6158425d4",
+    "prompt": "An African modern-art scene inspired by Salvador Dali's surrealism, depicting an Alice in Africa concept with vivid colors, intricate landscapes, and fantastical creatures unique to South African culture and heritage. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/c69a96b0-b43a-45eb-b8bd-d5b6158425d4.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-18T16:39:43.603+00:00"
+  },
+  {
+    "id": "1108796041706348605",
+    "imageId": "e308daf9-daab-4ebd-a5af-1b0720336d1f",
+    "prompt": "An African modern-art scene inspired by Salvador Dali's surrealism, depicting an Alice in Africa concept with vivid colors, intricate landscapes, and fantastical creatures unique to South African culture and heritage. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/e308daf9-daab-4ebd-a5af-1b0720336d1f.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-18T16:39:36.777+00:00"
+  },
+  {
+    "id": "1108796015601004554",
+    "imageId": "1a0ef24c-ee19-4f7f-be77-3c76d00e325b",
+    "prompt": "An African modern-art scene inspired by Salvador Dali's surrealism, depicting an Alice in Africa concept with vivid colors, intricate landscapes, and fantastical creatures unique to South African culture and heritage. --v 5.1 --s 250",
+    "url": "https://hipo-cdn.bassonrichard.dev/midjourney-images/1a0ef24c-ee19-4f7f-be77-3c76d00e325b.png",
+    "category": "Landscapes",
+    "timeStamp": "2023-05-18T16:39:30.553+00:00"
+  },
+  {
     "id": "1099077056354074664",
     "imageId": "0f8340e3-f97a-4a90-9e63-dcbe74784578",
     "prompt": "a gathering of Afrofuturistic South African musicians, playing traditional instruments enhanced with futuristic technology, creating new and mesmerizing sounds, adorned with culturally inspired futuristic attire --v 5 --s 250",
